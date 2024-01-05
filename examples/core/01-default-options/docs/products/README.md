@@ -1,0 +1,30 @@
+**default-options-example** • [Readme](../README.md) \| API
+
+***
+
+[default-options-example](../modules.md) / products
+
+# products
+
+This module contains types and services related to product management.
+
+## Index
+
+### Enumerations
+
+- [ProductCategory](enumerations/ProductCategory.md)
+
+### Classes
+
+- [ProductInventory](classes/ProductInventory.md)
+- [ProductReviewService](classes/ProductReviewService.md)
+
+### Interfaces
+
+- [Product](interfaces/Product.md)
+- [ProductDetails](interfaces/ProductDetails.md)
+- [ProductReview](interfaces/ProductReview.md)
+
+***
+
+Generated using [typedoc-plugin-markdown](https://www.npmjs.com/package/typedoc-plugin-markdown) and [TypeDoc](https://typedoc.org/)

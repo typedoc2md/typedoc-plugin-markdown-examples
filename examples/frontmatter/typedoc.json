@@ -1,0 +1,14 @@
+{
+  "name": "frontmatter-example",
+  "entryPoints": ["./src/index.ts"],
+  "plugin": ["typedoc-plugin-markdown", "typedoc-plugin-frontmatter"],
+  "githubPages": false,
+  "hidePageHeader": true,
+  "hideGenerator": true,
+  "readme": "none",
+  "frontmatterGlobals": {
+    "layout": "docs",
+    "sidebar": true
+  },
+  "frontmatterCommentTags": ["author", "description"]
+}

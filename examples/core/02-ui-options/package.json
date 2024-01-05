@@ -1,0 +1,11 @@
+{
+  "name": "ui-options",
+  "version": "1.0.0",
+  "scripts": {
+    "docs": "typedoc"
+  },
+  "dependencies": {
+    "typedoc": "0.25.6",
+    "typedoc-plugin-markdown": "^4.0.0-next.39"
+  }
+}

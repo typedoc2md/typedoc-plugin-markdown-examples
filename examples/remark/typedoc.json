@@ -1,0 +1,9 @@
+{
+  "name": "remark-example",
+  "entryPoints": ["./src/index.ts"],
+  "plugin": ["typedoc-plugin-markdown", "typedoc-plugin-remark"],
+  "githubPages": false,
+  "hidePageHeader": true,
+  "readme": "none",
+  "remarkPlugins": ["unified-prettier", "remark-toc"]
+}

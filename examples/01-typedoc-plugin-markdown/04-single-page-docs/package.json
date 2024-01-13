@@ -1,0 +1,7 @@
+{
+  "name": "single-page-docs",
+  "version": "1.0.0",
+  "scripts": {
+    "docs": "typedoc"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "typedoc-plugin-remark-examples",
+  "version": "1.0.0",
+  "scripts": {
+    "docs": "typedoc"
+  }
+}

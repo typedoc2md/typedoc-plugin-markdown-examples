@@ -3,15 +3,15 @@ name: Update Wiki
 on:
   push:
     paths:
-      - "examples/github-wiki/**"
+      - "examples/04-typedoc-githun-wiki-theme/docs/**"
     branches:
-      - github-wiki
+      - restructure
 jobs:
-  update-wiki:
+  build:
     runs-on: ubuntu-latest
-    name: Update wiki
     steps:
-      - uses: OrlovM/Wiki-Action@v1
+      - uses: actions/checkout@v1
+      - uses: ineshbose/wiki-action@v1
         with:
-          path: "examples/github-wiki"
-          token: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          WIKI_DIR: "examples/core/04-typedoc-githun-wiki-theme/docs"

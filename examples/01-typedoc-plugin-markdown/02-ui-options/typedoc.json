@@ -1,0 +1,20 @@
+{
+  "name": "ui-options-example",
+  "entryPoints": ["../src/*"],
+  "plugin": ["typedoc-plugin-markdown"],
+  "githubPages": false,
+
+  "readme": "../_readme.md",
+  "mergeReadme": true,
+
+  "enumMembersFormat": "table",
+  "parametersFormat": "table",
+  "propertiesFormat": "table",
+  "typeDeclarationFormat": "table",
+  "indexFormat": "table",
+  "useCodeBlocks": true,
+  "expandObjects": true,
+  "textContentMappings": {
+    "breadcrumbs.home": "Home"
+  }
+}

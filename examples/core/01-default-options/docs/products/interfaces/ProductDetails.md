@@ -12,15 +12,6 @@ Interface representing product details.
 
 - [`Product`](Product.md)
 
-## Contents
-
-- [Properties](ProductDetails.md#properties)
-    - [category](ProductDetails.md#category)
-    - [description](ProductDetails.md#description)
-    - [name](ProductDetails.md#name)
-    - [price](ProductDetails.md#price)
-    - [productId](ProductDetails.md#productid)
-
 ## Properties
 
 ### category
@@ -29,7 +20,7 @@ Interface representing product details.
 
 #### Source
 
-products.ts:32
+[products.ts:32](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L32)
 
 ***
 
@@ -39,7 +30,7 @@ products.ts:32
 
 #### Source
 
-products.ts:31
+[products.ts:31](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L31)
 
 ***
 
@@ -53,7 +44,7 @@ products.ts:31
 
 #### Source
 
-products.ts:13
+[products.ts:13](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L13)
 
 ***
 
@@ -67,7 +58,7 @@ products.ts:13
 
 #### Source
 
-products.ts:14
+[products.ts:14](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L14)
 
 ***
 
@@ -81,7 +72,7 @@ products.ts:14
 
 #### Source
 
-products.ts:12
+[products.ts:12](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L12)
 
 ***
 

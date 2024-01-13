@@ -8,15 +8,6 @@
 
 Interface representing a customer.
 
-## Contents
-
-- [Properties](Customer.md#properties)
-    - [address](Customer.md#address)
-    - [customerId](Customer.md#customerid)
-    - [email](Customer.md#email)
-    - [name](Customer.md#name)
-    - [type](Customer.md#type)
-
 ## Properties
 
 ### address
@@ -25,7 +16,7 @@ Interface representing a customer.
 
 #### Source
 
-customer.ts:23
+[customer.ts:23](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/customer.ts#L23)
 
 ***
 
@@ -35,7 +26,7 @@ customer.ts:23
 
 #### Source
 
-customer.ts:20
+[customer.ts:20](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/customer.ts#L20)
 
 ***
 
@@ -45,7 +36,7 @@ customer.ts:20
 
 #### Source
 
-customer.ts:22
+[customer.ts:22](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/customer.ts#L22)
 
 ***
 
@@ -55,7 +46,7 @@ customer.ts:22
 
 #### Source
 
-customer.ts:21
+[customer.ts:21](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/customer.ts#L21)
 
 ***
 
@@ -65,7 +56,7 @@ customer.ts:21
 
 #### Source
 
-customer.ts:24
+[customer.ts:24](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/customer.ts#L24)
 
 ***
 

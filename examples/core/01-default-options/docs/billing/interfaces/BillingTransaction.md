@@ -8,15 +8,6 @@
 
 Interface representing a billing transaction.
 
-## Contents
-
-- [Properties](BillingTransaction.md#properties)
-    - [amount](BillingTransaction.md#amount)
-    - [orderId](BillingTransaction.md#orderid)
-    - [paymentMethod](BillingTransaction.md#paymentmethod)
-    - [status](BillingTransaction.md#status)
-    - [transactionId](BillingTransaction.md#transactionid)
-
 ## Properties
 
 ### amount
@@ -25,7 +16,7 @@ Interface representing a billing transaction.
 
 #### Source
 
-billing.ts:32
+[billing.ts:32](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/billing.ts#L32)
 
 ***
 
@@ -35,7 +26,7 @@ billing.ts:32
 
 #### Source
 
-billing.ts:31
+[billing.ts:31](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/billing.ts#L31)
 
 ***
 
@@ -45,7 +36,7 @@ billing.ts:31
 
 #### Source
 
-billing.ts:33
+[billing.ts:33](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/billing.ts#L33)
 
 ***
 
@@ -55,7 +46,7 @@ billing.ts:33
 
 #### Source
 
-billing.ts:34
+[billing.ts:34](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/billing.ts#L34)
 
 ***
 
@@ -65,7 +56,7 @@ billing.ts:34
 
 #### Source
 
-billing.ts:30
+[billing.ts:30](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/billing.ts#L30)
 
 ***
 

@@ -4,13 +4,6 @@
 
 This module contains types and services related to shipping.
 
-## Contents
-
-- [Classes](shipping.md#classes)
-    - [ShippingService](shipping.md#shippingservice)
-- [Interfaces](shipping.md#interfaces)
-    - [ShippingRecord](shipping.md#shippingrecord)
-
 ## Classes
 
 ### ShippingService
@@ -35,7 +28,7 @@ Service for managing shipping records.
 
 ###### Source
 
-shipping.ts:23
+[shipping.ts:23](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/shipping.ts#L23)
 
 #### Methods
 
@@ -53,7 +46,7 @@ An array of all shipping records.
 
 ###### Source
 
-shipping.ts:39
+[shipping.ts:39](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/shipping.ts#L39)
 
 ##### shipOrder()
 
@@ -75,7 +68,7 @@ The shipped record.
 
 ###### Source
 
-shipping.ts:30
+[shipping.ts:30](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/shipping.ts#L30)
 
 ## Interfaces
 
@@ -91,7 +84,7 @@ Interface representing a shipping record.
 
 ###### Source
 
-shipping.ts:14
+[shipping.ts:14](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/shipping.ts#L14)
 
 ##### orderId
 
@@ -99,7 +92,7 @@ shipping.ts:14
 
 ###### Source
 
-shipping.ts:13
+[shipping.ts:13](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/shipping.ts#L13)
 
 ##### shipmentId
 
@@ -107,7 +100,7 @@ shipping.ts:13
 
 ###### Source
 
-shipping.ts:12
+[shipping.ts:12](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/shipping.ts#L12)
 
 ##### status
 
@@ -115,7 +108,7 @@ shipping.ts:12
 
 ###### Source
 
-shipping.ts:15
+[shipping.ts:15](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/shipping.ts#L15)
 
 ***
 

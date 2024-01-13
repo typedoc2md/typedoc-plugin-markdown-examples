@@ -2,16 +2,6 @@
 
 This module contains generic utility functions.
 
-## Contents
-
-- [Functions](README.md#functions)
-    - [formatCurrency](README.md#formatcurrency)
-    - [generateUniqueId](README.md#generateuniqueid)
-    - [isValidEmail](README.md#isvalidemail)
-    - [shuffleArray](README.md#shufflearray)
-    - [toTitleCase](README.md#totitlecase)
-    - [truncateString](README.md#truncatestring)
-
 ## formatCurrency()
 
 > **formatCurrency**(`amount`, `currencyCode`): `string`
@@ -36,7 +26,7 @@ The formatted currency string.
 
 ### Source
 
-utilities.ts:14
+[utilities.ts:14](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/utilities.ts#L14)
 
 ***
 
@@ -54,7 +44,7 @@ A unique identifier.
 
 ### Source
 
-utilities.ts:36
+[utilities.ts:36](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/utilities.ts#L36)
 
 ***
 
@@ -78,7 +68,7 @@ True if the email address is valid, false otherwise.
 
 ### Source
 
-utilities.ts:60
+[utilities.ts:60](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/utilities.ts#L60)
 
 ***
 
@@ -106,7 +96,7 @@ The shuffled array.
 
 ### Source
 
-utilities.ts:70
+[utilities.ts:70](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/utilities.ts#L70)
 
 ***
 
@@ -130,7 +120,7 @@ The input string in title case.
 
 ### Source
 
-utilities.ts:26
+[utilities.ts:26](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/utilities.ts#L26)
 
 ***
 
@@ -158,7 +148,7 @@ The truncated string.
 
 ### Source
 
-utilities.ts:48
+[utilities.ts:48](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/utilities.ts#L48)
 
 ***
 

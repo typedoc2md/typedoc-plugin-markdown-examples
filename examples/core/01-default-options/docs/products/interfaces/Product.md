@@ -8,16 +8,9 @@
 
 Interface representing a product.
 
-## Extended By
+## Extended by
 
 - [`ProductDetails`](ProductDetails.md)
-
-## Contents
-
-- [Properties](Product.md#properties)
-    - [name](Product.md#name)
-    - [price](Product.md#price)
-    - [productId](Product.md#productid)
 
 ## Properties
 
@@ -27,7 +20,7 @@ Interface representing a product.
 
 #### Source
 
-products.ts:13
+[products.ts:13](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L13)
 
 ***
 
@@ -37,7 +30,7 @@ products.ts:13
 
 #### Source
 
-products.ts:14
+[products.ts:14](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L14)
 
 ***
 
@@ -47,7 +40,7 @@ products.ts:14
 
 #### Source
 
-products.ts:12
+[products.ts:12](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L12)
 
 ***
 

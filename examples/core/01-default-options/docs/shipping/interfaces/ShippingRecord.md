@@ -8,14 +8,6 @@
 
 Interface representing a shipping record.
 
-## Contents
-
-- [Properties](ShippingRecord.md#properties)
-    - [address](ShippingRecord.md#address)
-    - [orderId](ShippingRecord.md#orderid)
-    - [shipmentId](ShippingRecord.md#shipmentid)
-    - [status](ShippingRecord.md#status)
-
 ## Properties
 
 ### address
@@ -24,7 +16,7 @@ Interface representing a shipping record.
 
 #### Source
 
-shipping.ts:14
+[shipping.ts:14](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/shipping.ts#L14)
 
 ***
 
@@ -34,7 +26,7 @@ shipping.ts:14
 
 #### Source
 
-shipping.ts:13
+[shipping.ts:13](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/shipping.ts#L13)
 
 ***
 
@@ -44,7 +36,7 @@ shipping.ts:13
 
 #### Source
 
-shipping.ts:12
+[shipping.ts:12](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/shipping.ts#L12)
 
 ***
 
@@ -54,7 +46,7 @@ shipping.ts:12
 
 #### Source
 
-shipping.ts:15
+[shipping.ts:15](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/shipping.ts#L15)
 
 ***
 

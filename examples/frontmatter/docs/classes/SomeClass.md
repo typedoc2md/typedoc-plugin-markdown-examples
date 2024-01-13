@@ -9,11 +9,6 @@ description: Some description
 
 # Class: SomeClass
 
-## Contents
-
-- [Constructors](SomeClass.md#constructors)
-    - [new SomeClass](SomeClass.md#constructors)
-
 ## Constructors
 
 ### new SomeClass()

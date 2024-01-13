@@ -8,20 +8,6 @@
 
 Class representing a product inventory.
 
-## Contents
-
-- [Constructors](ProductInventory.md#constructors)
-    - [new ProductInventory](ProductInventory.md#constructors)
-- [Properties](ProductInventory.md#properties)
-    - [products](ProductInventory.md#products)
-- [Methods](ProductInventory.md#methods)
-    - [addProduct](ProductInventory.md#addproduct)
-    - [getAllProducts](ProductInventory.md#getallproducts)
-    - [getProductById](ProductInventory.md#getproductbyid)
-    - [getProductsByCategory](ProductInventory.md#getproductsbycategory)
-    - [removeProduct](ProductInventory.md#removeproduct)
-    - [updateProductDetails](ProductInventory.md#updateproductdetails)
-
 ## Constructors
 
 ### new ProductInventory()
@@ -40,7 +26,7 @@ Class representing a product inventory.
 
 #### Source
 
-products.ts:39
+[products.ts:39](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L39)
 
 ## Methods
 
@@ -64,7 +50,7 @@ The added product details.
 
 #### Source
 
-products.ts:46
+[products.ts:46](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L46)
 
 ***
 
@@ -82,7 +68,7 @@ An array of all product details.
 
 #### Source
 
-products.ts:55
+[products.ts:55](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L55)
 
 ***
 
@@ -106,7 +92,7 @@ The product details with the specified ID.
 
 #### Source
 
-products.ts:64
+[products.ts:64](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L64)
 
 ***
 
@@ -130,7 +116,7 @@ An array of product details in the specified category.
 
 #### Source
 
-products.ts:73
+[products.ts:73](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L73)
 
 ***
 
@@ -154,7 +140,7 @@ The removed product details.
 
 #### Source
 
-products.ts:102
+[products.ts:102](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L102)
 
 ***
 
@@ -182,7 +168,7 @@ The updated product details.
 
 #### Source
 
-products.ts:83
+[products.ts:83](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L83)
 
 ***
 

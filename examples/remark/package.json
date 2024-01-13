@@ -7,9 +7,9 @@
   "dependencies": {
     "remark-github": "^12.0.0",
     "remark-toc": "^9.0.0",
-    "typedoc": "0.25.6",
-    "typedoc-plugin-remark": "^0.0.1-next.0",
-    "typedoc-plugin-markdown": "^4.0.0-next.39",
+    "typedoc": "0.25.7",
+    "typedoc-plugin-remark": "^0.0.1-next.2",
+    "typedoc-plugin-markdown": "^4.0.0-next.40",
     "unified-prettier": "^2.0.0"
   }
 }

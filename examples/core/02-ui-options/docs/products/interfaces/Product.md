@@ -8,7 +8,7 @@
 
 Interface representing a product.
 
-## Extended By
+## Extended by
 
 - [`ProductDetails`](ProductDetails.md)
 

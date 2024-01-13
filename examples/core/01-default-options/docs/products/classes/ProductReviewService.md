@@ -8,17 +8,6 @@
 
 Service for managing product reviews.
 
-## Contents
-
-- [Constructors](ProductReviewService.md#constructors)
-    - [new ProductReviewService](ProductReviewService.md#constructors)
-- [Properties](ProductReviewService.md#properties)
-    - [reviews](ProductReviewService.md#reviews)
-- [Methods](ProductReviewService.md#methods)
-    - [addProductReview](ProductReviewService.md#addproductreview)
-    - [getAverageRating](ProductReviewService.md#getaveragerating)
-    - [getProductReviews](ProductReviewService.md#getproductreviews)
-
 ## Constructors
 
 ### new ProductReviewService()
@@ -37,7 +26,7 @@ Service for managing product reviews.
 
 #### Source
 
-products.ts:130
+[products.ts:130](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L130)
 
 ## Methods
 
@@ -61,7 +50,7 @@ The added product review.
 
 #### Source
 
-products.ts:137
+[products.ts:137](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L137)
 
 ***
 
@@ -85,7 +74,7 @@ The average rating for the specified product.
 
 #### Source
 
-products.ts:156
+[products.ts:156](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L156)
 
 ***
 
@@ -109,7 +98,7 @@ An array of product reviews for the specified product.
 
 #### Source
 
-products.ts:147
+[products.ts:147](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L147)
 
 ***
 

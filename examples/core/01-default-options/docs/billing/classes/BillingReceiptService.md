@@ -8,16 +8,6 @@
 
 Service for generating billing receipts.
 
-## Contents
-
-- [Constructors](BillingReceiptService.md#constructors)
-    - [new BillingReceiptService](BillingReceiptService.md#constructors)
-- [Properties](BillingReceiptService.md#properties)
-    - [receipts](BillingReceiptService.md#receipts)
-- [Methods](BillingReceiptService.md#methods)
-    - [generateReceipt](BillingReceiptService.md#generatereceipt)
-    - [getAllReceipts](BillingReceiptService.md#getallreceipts)
-
 ## Constructors
 
 ### new BillingReceiptService()
@@ -36,7 +26,7 @@ Service for generating billing receipts.
 
 #### Source
 
-billing.ts:101
+[billing.ts:101](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/billing.ts#L101)
 
 ## Methods
 
@@ -60,7 +50,7 @@ The generated billing receipt.
 
 #### Source
 
-billing.ts:108
+[billing.ts:108](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/billing.ts#L108)
 
 ***
 
@@ -78,7 +68,7 @@ An array of all billing receipts.
 
 #### Source
 
-billing.ts:122
+[billing.ts:122](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/billing.ts#L122)
 
 ***
 

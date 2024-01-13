@@ -8,12 +8,6 @@
 
 Enum representing different customer types.
 
-## Contents
-
-- [Enumeration Members](CustomerType.md#enumeration-members)
-    - [Premium](CustomerType.md#premium)
-    - [Regular](CustomerType.md#regular)
-
 ## Enumeration Members
 
 ### Premium
@@ -22,7 +16,7 @@ Enum representing different customer types.
 
 #### Source
 
-customer.ts:13
+[customer.ts:13](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/customer.ts#L13)
 
 ***
 
@@ -32,7 +26,7 @@ customer.ts:13
 
 #### Source
 
-customer.ts:12
+[customer.ts:12](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/customer.ts#L12)
 
 ***
 

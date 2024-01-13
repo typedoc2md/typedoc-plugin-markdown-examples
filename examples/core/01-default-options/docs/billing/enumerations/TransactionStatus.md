@@ -8,13 +8,6 @@
 
 Enum representing different transaction statuses.
 
-## Contents
-
-- [Enumeration Members](TransactionStatus.md#enumeration-members)
-    - [Completed](TransactionStatus.md#completed)
-    - [Failed](TransactionStatus.md#failed)
-    - [Pending](TransactionStatus.md#pending)
-
 ## Enumeration Members
 
 ### Completed
@@ -23,7 +16,7 @@ Enum representing different transaction statuses.
 
 #### Source
 
-billing.ts:22
+[billing.ts:22](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/billing.ts#L22)
 
 ***
 
@@ -33,7 +26,7 @@ billing.ts:22
 
 #### Source
 
-billing.ts:23
+[billing.ts:23](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/billing.ts#L23)
 
 ***
 
@@ -43,7 +36,7 @@ billing.ts:23
 
 #### Source
 
-billing.ts:21
+[billing.ts:21](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/billing.ts#L21)
 
 ***
 

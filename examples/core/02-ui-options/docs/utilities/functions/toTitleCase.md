@@ -26,7 +26,7 @@ The input string in title case.
 
 ## Source
 
-utilities.ts:26
+[utilities.ts:26](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/utilities.ts#L26)
 
 ***
 

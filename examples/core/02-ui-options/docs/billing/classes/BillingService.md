@@ -44,7 +44,7 @@ An array of all billing transactions.
 
 #### Source
 
-billing.ts:67
+[billing.ts:67](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/billing.ts#L67)
 
 ***
 
@@ -70,7 +70,7 @@ The processed billing transaction.
 
 #### Source
 
-billing.ts:58
+[billing.ts:58](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/billing.ts#L58)
 
 ***
 

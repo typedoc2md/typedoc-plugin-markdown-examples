@@ -8,13 +8,6 @@
 
 Interface representing a customer order history.
 
-## Contents
-
-- [Properties](CustomerOrderHistory.md#properties)
-    - [orderDate](CustomerOrderHistory.md#orderdate)
-    - [orderId](CustomerOrderHistory.md#orderid)
-    - [totalAmount](CustomerOrderHistory.md#totalamount)
-
 ## Properties
 
 ### orderDate
@@ -23,7 +16,7 @@ Interface representing a customer order history.
 
 #### Source
 
-customer.ts:48
+[customer.ts:48](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/customer.ts#L48)
 
 ***
 
@@ -33,7 +26,7 @@ customer.ts:48
 
 #### Source
 
-customer.ts:47
+[customer.ts:47](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/customer.ts#L47)
 
 ***
 
@@ -43,7 +36,7 @@ customer.ts:47
 
 #### Source
 
-customer.ts:49
+[customer.ts:49](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/customer.ts#L49)
 
 ***
 

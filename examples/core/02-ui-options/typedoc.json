@@ -14,7 +14,6 @@
   "indexFormat": "table",
   "useCodeBlocks": true,
   "expandObjects": true,
-  "hideInPageTOC": true,
   "textContentMappings": {
     "header.docs": "API Documentation",
     "breadcrumbs.home": "Home"

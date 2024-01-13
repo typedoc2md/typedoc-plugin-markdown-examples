@@ -8,13 +8,6 @@
 
 Enum representing different types of payment methods.
 
-## Contents
-
-- [Enumeration Members](PaymentMethod.md#enumeration-members)
-    - [BankTransfer](PaymentMethod.md#banktransfer)
-    - [CreditCard](PaymentMethod.md#creditcard)
-    - [PayPal](PaymentMethod.md#paypal)
-
 ## Enumeration Members
 
 ### BankTransfer
@@ -23,7 +16,7 @@ Enum representing different types of payment methods.
 
 #### Source
 
-billing.ts:14
+[billing.ts:14](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/billing.ts#L14)
 
 ***
 
@@ -33,7 +26,7 @@ billing.ts:14
 
 #### Source
 
-billing.ts:12
+[billing.ts:12](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/billing.ts#L12)
 
 ***
 
@@ -43,7 +36,7 @@ billing.ts:12
 
 #### Source
 
-billing.ts:13
+[billing.ts:13](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/billing.ts#L13)
 
 ***
 

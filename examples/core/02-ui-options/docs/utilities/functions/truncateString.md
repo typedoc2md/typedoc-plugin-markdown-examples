@@ -27,7 +27,7 @@ The truncated string.
 
 ## Source
 
-utilities.ts:48
+[utilities.ts:48](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/utilities.ts#L48)
 
 ***
 

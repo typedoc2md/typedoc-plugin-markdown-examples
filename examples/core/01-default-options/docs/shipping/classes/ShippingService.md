@@ -8,16 +8,6 @@
 
 Service for managing shipping records.
 
-## Contents
-
-- [Constructors](ShippingService.md#constructors)
-    - [new ShippingService](ShippingService.md#constructors)
-- [Properties](ShippingService.md#properties)
-    - [shipments](ShippingService.md#shipments)
-- [Methods](ShippingService.md#methods)
-    - [getAllShipments](ShippingService.md#getallshipments)
-    - [shipOrder](ShippingService.md#shiporder)
-
 ## Constructors
 
 ### new ShippingService()
@@ -36,7 +26,7 @@ Service for managing shipping records.
 
 #### Source
 
-shipping.ts:23
+[shipping.ts:23](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/shipping.ts#L23)
 
 ## Methods
 
@@ -54,7 +44,7 @@ An array of all shipping records.
 
 #### Source
 
-shipping.ts:39
+[shipping.ts:39](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/shipping.ts#L39)
 
 ***
 
@@ -78,7 +68,7 @@ The shipped record.
 
 #### Source
 
-shipping.ts:30
+[shipping.ts:30](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/shipping.ts#L30)
 
 ***
 

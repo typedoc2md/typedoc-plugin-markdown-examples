@@ -33,7 +33,7 @@ new CustomerAccount(
 
 #### Source
 
-customer.ts:61
+[customer.ts:61](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/customer.ts#L61)
 
 ## Properties
 
@@ -66,7 +66,7 @@ Add an order to the customer's order history.
 
 #### Source
 
-customer.ts:100
+[customer.ts:100](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/customer.ts#L100)
 
 ***
 
@@ -86,7 +86,7 @@ The customer billing information.
 
 #### Source
 
-customer.ts:92
+[customer.ts:92](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/customer.ts#L92)
 
 ***
 
@@ -106,7 +106,7 @@ The customer contact information.
 
 #### Source
 
-customer.ts:84
+[customer.ts:84](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/customer.ts#L84)
 
 ***
 
@@ -126,7 +126,7 @@ The customer information.
 
 #### Source
 
-customer.ts:76
+[customer.ts:76](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/customer.ts#L76)
 
 ***
 
@@ -146,7 +146,7 @@ An array of the customer's order history.
 
 #### Source
 
-customer.ts:108
+[customer.ts:108](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/customer.ts#L108)
 
 ***
 

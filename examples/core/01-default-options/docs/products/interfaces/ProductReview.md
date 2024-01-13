@@ -8,15 +8,6 @@
 
 Interface representing a product review.
 
-## Contents
-
-- [Properties](ProductReview.md#properties)
-    - [comment](ProductReview.md#comment)
-    - [productId](ProductReview.md#productid)
-    - [rating](ProductReview.md#rating)
-    - [reviewId](ProductReview.md#reviewid)
-    - [username](ProductReview.md#username)
-
 ## Properties
 
 ### comment?
@@ -25,7 +16,7 @@ Interface representing a product review.
 
 #### Source
 
-products.ts:122
+[products.ts:122](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L122)
 
 ***
 
@@ -35,7 +26,7 @@ products.ts:122
 
 #### Source
 
-products.ts:119
+[products.ts:119](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L119)
 
 ***
 
@@ -45,7 +36,7 @@ products.ts:119
 
 #### Source
 
-products.ts:121
+[products.ts:121](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L121)
 
 ***
 
@@ -55,7 +46,7 @@ products.ts:121
 
 #### Source
 
-products.ts:118
+[products.ts:118](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L118)
 
 ***
 
@@ -65,7 +56,7 @@ products.ts:118
 
 #### Source
 
-products.ts:120
+[products.ts:120](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L120)
 
 ***
 

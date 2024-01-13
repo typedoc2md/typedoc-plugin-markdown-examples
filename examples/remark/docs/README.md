@@ -1,16 +1,38 @@
 # remark-example
 
-## Inline Tocs
+The comments in this block have been transformed by remark.
 
-The remark-toc plugin has automatically turned page headers into an inline TOC.
+## Table of Contents
+
+- [In Page Toc](#in-page-toc)
+- [Github](#github)
+- [Prettier](#prettier)
+- [Variables](#variables)
+  - [\_\_variable_with_underscores\_\_](#__variable_with_underscores__)
+
+## In Page Toc
+
+The [remark-toc](https://github.com/remarkjs/remark-toc) plugin has automatically turned page headers into an inline TOC.
+
+Internally typedoc-plugin-remark has added the required toc heading before the first h2 in the document.
+
+Therefor heading created by both code comments and TypeDoc generated headings will form part of the TOC.
 
 ## Github
 
-Here we can automatically link to github items and users.
+Here we can automatically link to github items and users using [remark-github](https://github.com/remarkjs/remark-github).
 
-Thanks @tgrey please see issue #1.
+Thanks [**@tgreyuk**](https://github.com/tgreyuk) please see issue [#1](https://github.com/tgreyuk/typedoc-plugin-markdown/issues/1).
 
-## Formatting Code
+## Prettier
+
+This page has been formatted using the [unified-prettier](https://www.npmjs.com/package/unified-prettier) plugin.
+
+typedoc-plugin-markdown does produce well formatted code, however Pretter also:
+
+- Ensures a consistent format.
+- Removes unnecessary escape characters.
+- Formats code blocks inside comment fenced blocks.
 
 Here we have a badly formatted code blocks that prettier has formatted nicely.
 
@@ -26,7 +48,15 @@ reallyUgly(javascript);
 
 ## Variables
 
-- [\_\_variable_with_underscores\_\_](variables/variable_with_underscores__.md)
+### \_\_variable_with_underscores\_\_
+
+> **`const`** **\_\_variable_with_underscores\_\_**: `true` = `true`
+
+In this function Prettier does removes unnecessary escape characters.
+
+#### Source
+
+[index.ts:46](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/remark/src/index.ts#L46)
 
 ---
 

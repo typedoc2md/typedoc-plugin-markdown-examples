@@ -8,12 +8,6 @@
 
 Interface representing customer contact information.
 
-## Contents
-
-- [Properties](CustomerContact.md#properties)
-    - [email](CustomerContact.md#email)
-    - [phone](CustomerContact.md#phone)
-
 ## Properties
 
 ### email
@@ -22,7 +16,7 @@ Interface representing customer contact information.
 
 #### Source
 
-customer.ts:31
+[customer.ts:31](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/customer.ts#L31)
 
 ***
 
@@ -32,7 +26,7 @@ customer.ts:31
 
 #### Source
 
-customer.ts:32
+[customer.ts:32](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/customer.ts#L32)
 
 ***
 

@@ -8,9 +8,7 @@
 
 You can link directly to modules from within the readme by using the `{@link}` tag - for example here we are linking to the module [customer](customer/README.md) and class [CustomerService](customer/classes/CustomerService.md).
 
-## ui-options-example
-
-### Modules
+## Modules
 
 | Module | Description |
 | :------ | :------ |

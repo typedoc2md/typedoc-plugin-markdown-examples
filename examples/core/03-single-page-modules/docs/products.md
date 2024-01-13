@@ -4,18 +4,6 @@
 
 This module contains types and services related to product management.
 
-## Contents
-
-- [Enumerations](products.md#enumerations)
-    - [ProductCategory](products.md#productcategory)
-- [Classes](products.md#classes)
-    - [ProductInventory](products.md#productinventory)
-    - [ProductReviewService](products.md#productreviewservice)
-- [Interfaces](products.md#interfaces)
-    - [Product](products.md#product)
-    - [ProductDetails](products.md#productdetails)
-    - [ProductReview](products.md#productreview)
-
 ## Enumerations
 
 ### ProductCategory
@@ -30,7 +18,7 @@ Enum representing different product categories.
 
 ###### Source
 
-products.ts:23
+[products.ts:23](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L23)
 
 ##### Clothing
 
@@ -38,7 +26,7 @@ products.ts:23
 
 ###### Source
 
-products.ts:22
+[products.ts:22](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L22)
 
 ##### Electronics
 
@@ -46,7 +34,7 @@ products.ts:22
 
 ###### Source
 
-products.ts:21
+[products.ts:21](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L21)
 
 ##### HomeDecor
 
@@ -54,7 +42,7 @@ products.ts:21
 
 ###### Source
 
-products.ts:24
+[products.ts:24](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L24)
 
 ## Classes
 
@@ -80,7 +68,7 @@ Class representing a product inventory.
 
 ###### Source
 
-products.ts:39
+[products.ts:39](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L39)
 
 #### Methods
 
@@ -104,7 +92,7 @@ The added product details.
 
 ###### Source
 
-products.ts:46
+[products.ts:46](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L46)
 
 ##### getAllProducts()
 
@@ -120,7 +108,7 @@ An array of all product details.
 
 ###### Source
 
-products.ts:55
+[products.ts:55](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L55)
 
 ##### getProductById()
 
@@ -142,7 +130,7 @@ The product details with the specified ID.
 
 ###### Source
 
-products.ts:64
+[products.ts:64](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L64)
 
 ##### getProductsByCategory()
 
@@ -164,7 +152,7 @@ An array of product details in the specified category.
 
 ###### Source
 
-products.ts:73
+[products.ts:73](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L73)
 
 ##### removeProduct()
 
@@ -186,7 +174,7 @@ The removed product details.
 
 ###### Source
 
-products.ts:102
+[products.ts:102](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L102)
 
 ##### updateProductDetails()
 
@@ -212,7 +200,7 @@ The updated product details.
 
 ###### Source
 
-products.ts:83
+[products.ts:83](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L83)
 
 ***
 
@@ -238,7 +226,7 @@ Service for managing product reviews.
 
 ###### Source
 
-products.ts:130
+[products.ts:130](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L130)
 
 #### Methods
 
@@ -262,7 +250,7 @@ The added product review.
 
 ###### Source
 
-products.ts:137
+[products.ts:137](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L137)
 
 ##### getAverageRating()
 
@@ -284,7 +272,7 @@ The average rating for the specified product.
 
 ###### Source
 
-products.ts:156
+[products.ts:156](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L156)
 
 ##### getProductReviews()
 
@@ -306,7 +294,7 @@ An array of product reviews for the specified product.
 
 ###### Source
 
-products.ts:147
+[products.ts:147](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L147)
 
 ## Interfaces
 
@@ -314,7 +302,7 @@ products.ts:147
 
 Interface representing a product.
 
-#### Extended By
+#### Extended by
 
 - [`ProductDetails`](products.md#productdetails)
 
@@ -326,7 +314,7 @@ Interface representing a product.
 
 ###### Source
 
-products.ts:13
+[products.ts:13](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L13)
 
 ##### price
 
@@ -334,7 +322,7 @@ products.ts:13
 
 ###### Source
 
-products.ts:14
+[products.ts:14](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L14)
 
 ##### productId
 
@@ -342,7 +330,7 @@ products.ts:14
 
 ###### Source
 
-products.ts:12
+[products.ts:12](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L12)
 
 ***
 
@@ -362,7 +350,7 @@ Interface representing product details.
 
 ###### Source
 
-products.ts:32
+[products.ts:32](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L32)
 
 ##### description
 
@@ -370,7 +358,7 @@ products.ts:32
 
 ###### Source
 
-products.ts:31
+[products.ts:31](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L31)
 
 ##### name
 
@@ -382,7 +370,7 @@ products.ts:31
 
 ###### Source
 
-products.ts:13
+[products.ts:13](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L13)
 
 ##### price
 
@@ -394,7 +382,7 @@ products.ts:13
 
 ###### Source
 
-products.ts:14
+[products.ts:14](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L14)
 
 ##### productId
 
@@ -406,7 +394,7 @@ products.ts:14
 
 ###### Source
 
-products.ts:12
+[products.ts:12](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L12)
 
 ***
 
@@ -422,7 +410,7 @@ Interface representing a product review.
 
 ###### Source
 
-products.ts:122
+[products.ts:122](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L122)
 
 ##### productId
 
@@ -430,7 +418,7 @@ products.ts:122
 
 ###### Source
 
-products.ts:119
+[products.ts:119](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L119)
 
 ##### rating
 
@@ -438,7 +426,7 @@ products.ts:119
 
 ###### Source
 
-products.ts:121
+[products.ts:121](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L121)
 
 ##### reviewId
 
@@ -446,7 +434,7 @@ products.ts:121
 
 ###### Source
 
-products.ts:118
+[products.ts:118](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L118)
 
 ##### username
 
@@ -454,7 +442,7 @@ products.ts:118
 
 ###### Source
 
-products.ts:120
+[products.ts:120](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L120)
 
 ***
 

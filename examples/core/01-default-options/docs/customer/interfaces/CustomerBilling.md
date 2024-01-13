@@ -8,12 +8,6 @@
 
 Interface representing customer billing information.
 
-## Contents
-
-- [Properties](CustomerBilling.md#properties)
-    - [creditCardNumber](CustomerBilling.md#creditcardnumber)
-    - [expirationDate](CustomerBilling.md#expirationdate)
-
 ## Properties
 
 ### creditCardNumber
@@ -22,7 +16,7 @@ Interface representing customer billing information.
 
 #### Source
 
-customer.ts:39
+[customer.ts:39](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/customer.ts#L39)
 
 ***
 
@@ -32,7 +26,7 @@ customer.ts:39
 
 #### Source
 
-customer.ts:40
+[customer.ts:40](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/customer.ts#L40)
 
 ***
 

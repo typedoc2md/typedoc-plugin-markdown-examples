@@ -27,7 +27,7 @@ The formatted currency string.
 
 ## Source
 
-utilities.ts:14
+[utilities.ts:14](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/utilities.ts#L14)
 
 ***
 

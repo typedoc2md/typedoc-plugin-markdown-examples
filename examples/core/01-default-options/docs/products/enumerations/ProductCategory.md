@@ -8,14 +8,6 @@
 
 Enum representing different product categories.
 
-## Contents
-
-- [Enumeration Members](ProductCategory.md#enumeration-members)
-    - [Books](ProductCategory.md#books)
-    - [Clothing](ProductCategory.md#clothing)
-    - [Electronics](ProductCategory.md#electronics)
-    - [HomeDecor](ProductCategory.md#homedecor)
-
 ## Enumeration Members
 
 ### Books
@@ -24,7 +16,7 @@ Enum representing different product categories.
 
 #### Source
 
-products.ts:23
+[products.ts:23](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L23)
 
 ***
 
@@ -34,7 +26,7 @@ products.ts:23
 
 #### Source
 
-products.ts:22
+[products.ts:22](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L22)
 
 ***
 
@@ -44,7 +36,7 @@ products.ts:22
 
 #### Source
 
-products.ts:21
+[products.ts:21](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L21)
 
 ***
 
@@ -54,7 +46,7 @@ products.ts:21
 
 #### Source
 
-products.ts:24
+[products.ts:24](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/products.ts#L24)
 
 ***
 

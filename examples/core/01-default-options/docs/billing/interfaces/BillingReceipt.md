@@ -8,13 +8,6 @@
 
 Interface representing a billing receipt.
 
-## Contents
-
-- [Properties](BillingReceipt.md#properties)
-    - [receiptId](BillingReceipt.md#receiptid)
-    - [timestamp](BillingReceipt.md#timestamp)
-    - [transaction](BillingReceipt.md#transaction)
-
 ## Properties
 
 ### receiptId
@@ -23,7 +16,7 @@ Interface representing a billing receipt.
 
 #### Source
 
-billing.ts:41
+[billing.ts:41](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/billing.ts#L41)
 
 ***
 
@@ -33,7 +26,7 @@ billing.ts:41
 
 #### Source
 
-billing.ts:43
+[billing.ts:43](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/billing.ts#L43)
 
 ***
 
@@ -43,7 +36,7 @@ billing.ts:43
 
 #### Source
 
-billing.ts:42
+[billing.ts:42](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/billing.ts#L42)
 
 ***
 

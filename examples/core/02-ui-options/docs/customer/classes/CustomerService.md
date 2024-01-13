@@ -55,7 +55,7 @@ The added customer account.
 
 #### Source
 
-customer.ts:127
+[customer.ts:127](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/customer.ts#L127)
 
 ***
 
@@ -75,7 +75,7 @@ An array of all customer accounts.
 
 #### Source
 
-customer.ts:145
+[customer.ts:145](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/customer.ts#L145)
 
 ***
 
@@ -101,7 +101,7 @@ The customer account with the specified ID.
 
 #### Source
 
-customer.ts:154
+[customer.ts:154](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/customer.ts#L154)
 
 ***
 

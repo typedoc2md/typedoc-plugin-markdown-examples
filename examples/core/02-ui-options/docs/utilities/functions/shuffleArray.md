@@ -32,7 +32,7 @@ The shuffled array.
 
 ## Source
 
-utilities.ts:70
+[utilities.ts:70](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/ce7cd91/examples/core/src/utilities.ts#L70)
 
 ***
 

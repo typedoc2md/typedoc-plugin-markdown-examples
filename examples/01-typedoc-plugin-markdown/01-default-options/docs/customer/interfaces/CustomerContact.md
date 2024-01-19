@@ -16,7 +16,7 @@ Interface representing customer contact information.
 
 #### Source
 
-[customer.ts:31](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/13dc594/examples/01-typedoc-plugin-markdown/src/customer.ts#L31)
+[customer.ts:31](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/customer.ts#L31)
 
 ***
 
@@ -26,7 +26,7 @@ Interface representing customer contact information.
 
 #### Source
 
-[customer.ts:32](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/13dc594/examples/01-typedoc-plugin-markdown/src/customer.ts#L32)
+[customer.ts:32](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/customer.ts#L32)
 
 ***
 

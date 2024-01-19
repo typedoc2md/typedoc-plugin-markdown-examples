@@ -28,7 +28,7 @@ Class representing a customer account.
 
 #### Source
 
-[customer.ts:61](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/13dc594/examples/01-typedoc-plugin-markdown/src/customer.ts#L61)
+[customer.ts:61](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/customer.ts#L61)
 
 ## Properties
 
@@ -38,7 +38,7 @@ Class representing a customer account.
 
 #### Source
 
-[customer.ts:58](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/13dc594/examples/01-typedoc-plugin-markdown/src/customer.ts#L58)
+[customer.ts:58](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/customer.ts#L58)
 
 ***
 
@@ -48,7 +48,7 @@ Class representing a customer account.
 
 #### Source
 
-[customer.ts:57](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/13dc594/examples/01-typedoc-plugin-markdown/src/customer.ts#L57)
+[customer.ts:57](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/customer.ts#L57)
 
 ***
 
@@ -58,7 +58,7 @@ Class representing a customer account.
 
 #### Source
 
-[customer.ts:56](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/13dc594/examples/01-typedoc-plugin-markdown/src/customer.ts#L56)
+[customer.ts:56](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/customer.ts#L56)
 
 ***
 
@@ -68,7 +68,7 @@ Class representing a customer account.
 
 #### Source
 
-[customer.ts:59](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/13dc594/examples/01-typedoc-plugin-markdown/src/customer.ts#L59)
+[customer.ts:59](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/customer.ts#L59)
 
 ## Methods
 
@@ -90,7 +90,7 @@ The order to be added to the history.
 
 #### Source
 
-[customer.ts:100](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/13dc594/examples/01-typedoc-plugin-markdown/src/customer.ts#L100)
+[customer.ts:100](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/customer.ts#L100)
 
 ***
 
@@ -108,7 +108,7 @@ The customer billing information.
 
 #### Source
 
-[customer.ts:92](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/13dc594/examples/01-typedoc-plugin-markdown/src/customer.ts#L92)
+[customer.ts:92](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/customer.ts#L92)
 
 ***
 
@@ -126,7 +126,7 @@ The customer contact information.
 
 #### Source
 
-[customer.ts:84](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/13dc594/examples/01-typedoc-plugin-markdown/src/customer.ts#L84)
+[customer.ts:84](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/customer.ts#L84)
 
 ***
 
@@ -144,7 +144,7 @@ The customer information.
 
 #### Source
 
-[customer.ts:76](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/13dc594/examples/01-typedoc-plugin-markdown/src/customer.ts#L76)
+[customer.ts:76](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/customer.ts#L76)
 
 ***
 
@@ -162,7 +162,7 @@ An array of the customer's order history.
 
 #### Source
 
-[customer.ts:108](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/13dc594/examples/01-typedoc-plugin-markdown/src/customer.ts#L108)
+[customer.ts:108](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/customer.ts#L108)
 
 ***
 

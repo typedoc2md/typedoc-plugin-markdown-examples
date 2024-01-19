@@ -12,7 +12,7 @@ Enum representing different customer types.
 
 #### Source
 
-[customer.ts:13](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/13dc594/examples/04-typedoc-github-wiki-theme/src/customer.ts#L13)
+[customer.ts:13](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/04-typedoc-github-wiki-theme/src/customer.ts#L13)
 
 ***
 
@@ -22,7 +22,7 @@ Enum representing different customer types.
 
 #### Source
 
-[customer.ts:12](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/13dc594/examples/04-typedoc-github-wiki-theme/src/customer.ts#L12)
+[customer.ts:12](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/04-typedoc-github-wiki-theme/src/customer.ts#L12)
 
 ***
 

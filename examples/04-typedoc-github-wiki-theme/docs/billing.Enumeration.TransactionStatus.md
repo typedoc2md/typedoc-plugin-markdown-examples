@@ -12,7 +12,7 @@ Enum representing different transaction statuses.
 
 #### Source
 
-[billing.ts:22](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/13dc594/examples/04-typedoc-github-wiki-theme/src/billing.ts#L22)
+[billing.ts:22](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/04-typedoc-github-wiki-theme/src/billing.ts#L22)
 
 ***
 
@@ -22,7 +22,7 @@ Enum representing different transaction statuses.
 
 #### Source
 
-[billing.ts:23](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/13dc594/examples/04-typedoc-github-wiki-theme/src/billing.ts#L23)
+[billing.ts:23](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/04-typedoc-github-wiki-theme/src/billing.ts#L23)
 
 ***
 
@@ -32,7 +32,7 @@ Enum representing different transaction statuses.
 
 #### Source
 
-[billing.ts:21](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/13dc594/examples/04-typedoc-github-wiki-theme/src/billing.ts#L21)
+[billing.ts:21](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/04-typedoc-github-wiki-theme/src/billing.ts#L21)
 
 ***
 

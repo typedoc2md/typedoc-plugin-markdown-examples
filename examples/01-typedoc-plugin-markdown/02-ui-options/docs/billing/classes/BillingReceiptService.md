@@ -50,7 +50,7 @@ The generated billing receipt.
 
 #### Source
 
-[billing.ts:108](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/13dc594/examples/01-typedoc-plugin-markdown/src/billing.ts#L108)
+[billing.ts:108](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/billing.ts#L108)
 
 ***
 
@@ -70,7 +70,7 @@ An array of all billing receipts.
 
 #### Source
 
-[billing.ts:122](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/13dc594/examples/01-typedoc-plugin-markdown/src/billing.ts#L122)
+[billing.ts:122](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/billing.ts#L122)
 
 ***
 

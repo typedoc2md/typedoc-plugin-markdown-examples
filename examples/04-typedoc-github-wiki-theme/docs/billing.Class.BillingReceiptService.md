@@ -22,7 +22,7 @@ Service for generating billing receipts.
 
 #### Source
 
-[billing.ts:101](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/13dc594/examples/04-typedoc-github-wiki-theme/src/billing.ts#L101)
+[billing.ts:101](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/04-typedoc-github-wiki-theme/src/billing.ts#L101)
 
 ## Methods
 
@@ -46,7 +46,7 @@ The generated billing receipt.
 
 #### Source
 
-[billing.ts:108](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/13dc594/examples/04-typedoc-github-wiki-theme/src/billing.ts#L108)
+[billing.ts:108](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/04-typedoc-github-wiki-theme/src/billing.ts#L108)
 
 ***
 
@@ -64,7 +64,7 @@ An array of all billing receipts.
 
 #### Source
 
-[billing.ts:122](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/13dc594/examples/04-typedoc-github-wiki-theme/src/billing.ts#L122)
+[billing.ts:122](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/04-typedoc-github-wiki-theme/src/billing.ts#L122)
 
 ***
 

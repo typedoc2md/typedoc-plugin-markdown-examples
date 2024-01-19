@@ -12,7 +12,7 @@ Interface representing customer billing information.
 
 #### Source
 
-[customer.ts:39](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/13dc594/examples/04-typedoc-github-wiki-theme/src/customer.ts#L39)
+[customer.ts:39](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/04-typedoc-github-wiki-theme/src/customer.ts#L39)
 
 ***
 
@@ -22,7 +22,7 @@ Interface representing customer billing information.
 
 #### Source
 
-[customer.ts:40](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/13dc594/examples/04-typedoc-github-wiki-theme/src/customer.ts#L40)
+[customer.ts:40](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/04-typedoc-github-wiki-theme/src/customer.ts#L40)
 
 ***
 

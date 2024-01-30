@@ -1,4 +1,4 @@
-**ui-options-example** • API
+**ui-options-example** • [API](../../README.md)
 
 ***
 
@@ -22,9 +22,9 @@ new ProductInventory(): ProductInventory
 
 ## Properties
 
-| Modifier | Property | Type |
+| Property | Modifier | Type |
 | :------ | :------ | :------ |
-| `private` | `products` | [`ProductDetails`](../interfaces/ProductDetails.md)[] |
+| `products` | `private` | [`ProductDetails`](../interfaces/ProductDetails.md)[] |
 
 ## Methods
 
@@ -50,7 +50,7 @@ The added product details.
 
 #### Source
 
-[products.ts:46](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/products.ts#L46)
+[products.ts:46](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L46)
 
 ***
 
@@ -70,7 +70,7 @@ An array of all product details.
 
 #### Source
 
-[products.ts:55](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/products.ts#L55)
+[products.ts:55](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L55)
 
 ***
 
@@ -96,7 +96,7 @@ The product details with the specified ID.
 
 #### Source
 
-[products.ts:64](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/products.ts#L64)
+[products.ts:64](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L64)
 
 ***
 
@@ -122,7 +122,7 @@ An array of product details in the specified category.
 
 #### Source
 
-[products.ts:73](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/products.ts#L73)
+[products.ts:73](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L73)
 
 ***
 
@@ -148,7 +148,7 @@ The removed product details.
 
 #### Source
 
-[products.ts:102](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/products.ts#L102)
+[products.ts:102](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L102)
 
 ***
 
@@ -175,7 +175,7 @@ The updated product details.
 
 #### Source
 
-[products.ts:83](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/products.ts#L83)
+[products.ts:83](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L83)
 
 ***
 

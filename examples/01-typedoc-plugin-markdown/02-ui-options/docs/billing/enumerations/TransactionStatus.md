@@ -1,4 +1,4 @@
-**ui-options-example** • API
+**ui-options-example** • [API](../../README.md)
 
 ***
 

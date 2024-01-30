@@ -12,11 +12,11 @@ Function to truncate a string to a specified length.
 
 ## Parameters
 
-• **input**: `string`
+• `input`: `string`
 
 The input string.
 
-• **maxLength**: `number`
+• `maxLength`: `number`
 
 The maximum length of the truncated string.
 
@@ -28,7 +28,7 @@ The truncated string.
 
 ## Source
 
-[utilities.ts:48](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/utilities.ts#L48)
+[utilities.ts:48](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/utilities.ts#L48)
 
 ***
 

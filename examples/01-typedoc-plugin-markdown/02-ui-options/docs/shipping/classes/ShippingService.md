@@ -1,4 +1,4 @@
-**ui-options-example** • API
+**ui-options-example** • [API](../../README.md)
 
 ***
 
@@ -22,9 +22,9 @@ new ShippingService(): ShippingService
 
 ## Properties
 
-| Modifier | Property | Type |
+| Property | Modifier | Type |
 | :------ | :------ | :------ |
-| `private` | `shipments` | [`ShippingRecord`](../interfaces/ShippingRecord.md)[] |
+| `shipments` | `private` | [`ShippingRecord`](../interfaces/ShippingRecord.md)[] |
 
 ## Methods
 
@@ -44,7 +44,7 @@ An array of all shipping records.
 
 #### Source
 
-[shipping.ts:39](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/shipping.ts#L39)
+[shipping.ts:39](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/shipping.ts#L39)
 
 ***
 
@@ -70,7 +70,7 @@ The shipped record.
 
 #### Source
 
-[shipping.ts:30](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/shipping.ts#L30)
+[shipping.ts:30](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/shipping.ts#L30)
 
 ***
 

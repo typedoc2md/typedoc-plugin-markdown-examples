@@ -1,4 +1,4 @@
-**ui-options-example** • API
+**ui-options-example** • [API](../../README.md)
 
 ***
 
@@ -26,7 +26,7 @@ The input string in title case.
 
 ## Source
 
-[utilities.ts:26](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/utilities.ts#L26)
+[utilities.ts:26](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/utilities.ts#L26)
 
 ***
 

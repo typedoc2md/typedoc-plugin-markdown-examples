@@ -26,7 +26,7 @@ Service for managing billing transactions.
 
 #### Source
 
-[billing.ts:51](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/billing.ts#L51)
+[billing.ts:51](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/billing.ts#L51)
 
 ## Methods
 
@@ -44,7 +44,7 @@ An array of all billing transactions.
 
 #### Source
 
-[billing.ts:67](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/billing.ts#L67)
+[billing.ts:67](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/billing.ts#L67)
 
 ***
 
@@ -56,7 +56,7 @@ Process a billing transaction.
 
 #### Parameters
 
-• **transaction**: [`BillingTransaction`](../interfaces/BillingTransaction.md)
+• `transaction`: [`BillingTransaction`](../interfaces/BillingTransaction.md)
 
 The billing transaction to be processed.
 
@@ -68,7 +68,7 @@ The processed billing transaction.
 
 #### Source
 
-[billing.ts:58](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/billing.ts#L58)
+[billing.ts:58](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/billing.ts#L58)
 
 ***
 

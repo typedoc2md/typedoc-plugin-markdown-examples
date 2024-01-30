@@ -1,4 +1,4 @@
-**ui-options-example** • API
+**ui-options-example** • [API](../../README.md)
 
 ***
 
@@ -18,9 +18,9 @@ Interface representing product details.
 | :------ | :------ | :------ |
 | `category` | [`ProductCategory`](../enumerations/ProductCategory.md) | - |
 | `description` | `string` | - |
-| `name` | `string` | [`products.Product.name`](Product.md) |
-| `price` | `number` | [`products.Product.price`](Product.md) |
-| `productId` | `string` | [`products.Product.productId`](Product.md) |
+| `name` | `string` | [`Product`](Product.md).`name` |
+| `price` | `number` | [`Product`](Product.md).`price` |
+| `productId` | `string` | [`Product`](Product.md).`productId` |
 
 ***
 

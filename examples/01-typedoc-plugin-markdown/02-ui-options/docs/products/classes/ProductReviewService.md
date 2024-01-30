@@ -1,4 +1,4 @@
-**ui-options-example** • API
+**ui-options-example** • [API](../../README.md)
 
 ***
 
@@ -22,9 +22,9 @@ new ProductReviewService(): ProductReviewService
 
 ## Properties
 
-| Modifier | Property | Type |
+| Property | Modifier | Type |
 | :------ | :------ | :------ |
-| `private` | `reviews` | [`ProductReview`](../interfaces/ProductReview.md)[] |
+| `reviews` | `private` | [`ProductReview`](../interfaces/ProductReview.md)[] |
 
 ## Methods
 
@@ -50,7 +50,7 @@ The added product review.
 
 #### Source
 
-[products.ts:137](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/products.ts#L137)
+[products.ts:137](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L137)
 
 ***
 
@@ -76,7 +76,7 @@ The average rating for the specified product.
 
 #### Source
 
-[products.ts:156](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/products.ts#L156)
+[products.ts:156](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L156)
 
 ***
 
@@ -102,7 +102,7 @@ An array of product reviews for the specified product.
 
 #### Source
 
-[products.ts:147](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/products.ts#L147)
+[products.ts:147](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L147)
 
 ***
 

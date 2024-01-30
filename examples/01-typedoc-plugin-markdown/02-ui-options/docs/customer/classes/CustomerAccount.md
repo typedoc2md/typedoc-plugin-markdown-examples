@@ -1,4 +1,4 @@
-**ui-options-example** • API
+**ui-options-example** • [API](../../README.md)
 
 ***
 
@@ -33,16 +33,16 @@ new CustomerAccount(
 
 #### Source
 
-[customer.ts:61](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/customer.ts#L61)
+[customer.ts:61](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/customer.ts#L61)
 
 ## Properties
 
-| Modifier | Property | Type |
+| Property | Modifier | Type |
 | :------ | :------ | :------ |
-| `private` | `billingInfo` | [`CustomerBilling`](../interfaces/CustomerBilling.md) |
-| `private` | `contactInfo` | [`CustomerContact`](../interfaces/CustomerContact.md) |
-| `private` | `customer` | [`Customer`](../interfaces/Customer.md) |
-| `private` | `orderHistory` | [`CustomerOrderHistory`](../interfaces/CustomerOrderHistory.md)[] |
+| `billingInfo` | `private` | [`CustomerBilling`](../interfaces/CustomerBilling.md) |
+| `contactInfo` | `private` | [`CustomerContact`](../interfaces/CustomerContact.md) |
+| `customer` | `private` | [`Customer`](../interfaces/Customer.md) |
+| `orderHistory` | `private` | [`CustomerOrderHistory`](../interfaces/CustomerOrderHistory.md)[] |
 
 ## Methods
 
@@ -66,7 +66,7 @@ Add an order to the customer's order history.
 
 #### Source
 
-[customer.ts:100](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/customer.ts#L100)
+[customer.ts:100](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/customer.ts#L100)
 
 ***
 
@@ -86,7 +86,7 @@ The customer billing information.
 
 #### Source
 
-[customer.ts:92](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/customer.ts#L92)
+[customer.ts:92](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/customer.ts#L92)
 
 ***
 
@@ -106,7 +106,7 @@ The customer contact information.
 
 #### Source
 
-[customer.ts:84](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/customer.ts#L84)
+[customer.ts:84](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/customer.ts#L84)
 
 ***
 
@@ -126,7 +126,7 @@ The customer information.
 
 #### Source
 
-[customer.ts:76](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/customer.ts#L76)
+[customer.ts:76](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/customer.ts#L76)
 
 ***
 
@@ -146,7 +146,7 @@ An array of the customer's order history.
 
 #### Source
 
-[customer.ts:108](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/customer.ts#L108)
+[customer.ts:108](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/customer.ts#L108)
 
 ***
 

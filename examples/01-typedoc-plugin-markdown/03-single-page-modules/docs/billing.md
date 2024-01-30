@@ -18,7 +18,7 @@ Enum representing different types of payment methods.
 
 ###### Source
 
-[billing.ts:14](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/billing.ts#L14)
+[billing.ts:14](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/billing.ts#L14)
 
 ##### CreditCard
 
@@ -26,7 +26,7 @@ Enum representing different types of payment methods.
 
 ###### Source
 
-[billing.ts:12](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/billing.ts#L12)
+[billing.ts:12](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/billing.ts#L12)
 
 ##### PayPal
 
@@ -34,7 +34,7 @@ Enum representing different types of payment methods.
 
 ###### Source
 
-[billing.ts:13](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/billing.ts#L13)
+[billing.ts:13](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/billing.ts#L13)
 
 ***
 
@@ -50,7 +50,7 @@ Enum representing different transaction statuses.
 
 ###### Source
 
-[billing.ts:22](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/billing.ts#L22)
+[billing.ts:22](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/billing.ts#L22)
 
 ##### Failed
 
@@ -58,7 +58,7 @@ Enum representing different transaction statuses.
 
 ###### Source
 
-[billing.ts:23](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/billing.ts#L23)
+[billing.ts:23](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/billing.ts#L23)
 
 ##### Pending
 
@@ -66,7 +66,7 @@ Enum representing different transaction statuses.
 
 ###### Source
 
-[billing.ts:21](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/billing.ts#L21)
+[billing.ts:21](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/billing.ts#L21)
 
 ## Classes
 
@@ -92,7 +92,7 @@ Service for managing billing history.
 
 ###### Source
 
-[billing.ts:77](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/billing.ts#L77)
+[billing.ts:77](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/billing.ts#L77)
 
 #### Methods
 
@@ -104,7 +104,7 @@ Add a transaction to the billing history.
 
 ###### Parameters
 
-• **transaction**: [`BillingTransaction`](billing.md#billingtransaction)
+• `transaction`: [`BillingTransaction`](billing.md#billingtransaction)
 
 The billing transaction to be added to the history.
 
@@ -114,7 +114,7 @@ The billing transaction to be added to the history.
 
 ###### Source
 
-[billing.ts:83](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/billing.ts#L83)
+[billing.ts:83](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/billing.ts#L83)
 
 ##### getBillingHistory()
 
@@ -130,7 +130,7 @@ An array of all billing transactions in the history.
 
 ###### Source
 
-[billing.ts:91](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/billing.ts#L91)
+[billing.ts:91](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/billing.ts#L91)
 
 ***
 
@@ -156,7 +156,7 @@ Service for generating billing receipts.
 
 ###### Source
 
-[billing.ts:101](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/billing.ts#L101)
+[billing.ts:101](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/billing.ts#L101)
 
 #### Methods
 
@@ -168,7 +168,7 @@ Generate a billing receipt for a transaction.
 
 ###### Parameters
 
-• **transaction**: [`BillingTransaction`](billing.md#billingtransaction)
+• `transaction`: [`BillingTransaction`](billing.md#billingtransaction)
 
 The billing transaction for which to generate a receipt.
 
@@ -180,7 +180,7 @@ The generated billing receipt.
 
 ###### Source
 
-[billing.ts:108](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/billing.ts#L108)
+[billing.ts:108](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/billing.ts#L108)
 
 ##### getAllReceipts()
 
@@ -196,7 +196,7 @@ An array of all billing receipts.
 
 ###### Source
 
-[billing.ts:122](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/billing.ts#L122)
+[billing.ts:122](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/billing.ts#L122)
 
 ***
 
@@ -222,7 +222,7 @@ Service for managing billing transactions.
 
 ###### Source
 
-[billing.ts:51](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/billing.ts#L51)
+[billing.ts:51](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/billing.ts#L51)
 
 #### Methods
 
@@ -240,7 +240,7 @@ An array of all billing transactions.
 
 ###### Source
 
-[billing.ts:67](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/billing.ts#L67)
+[billing.ts:67](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/billing.ts#L67)
 
 ##### processTransaction()
 
@@ -250,7 +250,7 @@ Process a billing transaction.
 
 ###### Parameters
 
-• **transaction**: [`BillingTransaction`](billing.md#billingtransaction)
+• `transaction`: [`BillingTransaction`](billing.md#billingtransaction)
 
 The billing transaction to be processed.
 
@@ -262,7 +262,7 @@ The processed billing transaction.
 
 ###### Source
 
-[billing.ts:58](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/billing.ts#L58)
+[billing.ts:58](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/billing.ts#L58)
 
 ## Interfaces
 
@@ -278,7 +278,7 @@ Interface representing a billing receipt.
 
 ###### Source
 
-[billing.ts:41](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/billing.ts#L41)
+[billing.ts:41](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/billing.ts#L41)
 
 ##### timestamp
 
@@ -286,7 +286,7 @@ Interface representing a billing receipt.
 
 ###### Source
 
-[billing.ts:43](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/billing.ts#L43)
+[billing.ts:43](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/billing.ts#L43)
 
 ##### transaction
 
@@ -294,7 +294,7 @@ Interface representing a billing receipt.
 
 ###### Source
 
-[billing.ts:42](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/billing.ts#L42)
+[billing.ts:42](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/billing.ts#L42)
 
 ***
 
@@ -310,7 +310,7 @@ Interface representing a billing transaction.
 
 ###### Source
 
-[billing.ts:32](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/billing.ts#L32)
+[billing.ts:32](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/billing.ts#L32)
 
 ##### orderId
 
@@ -318,7 +318,7 @@ Interface representing a billing transaction.
 
 ###### Source
 
-[billing.ts:31](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/billing.ts#L31)
+[billing.ts:31](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/billing.ts#L31)
 
 ##### paymentMethod
 
@@ -326,7 +326,7 @@ Interface representing a billing transaction.
 
 ###### Source
 
-[billing.ts:33](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/billing.ts#L33)
+[billing.ts:33](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/billing.ts#L33)
 
 ##### status
 
@@ -334,7 +334,7 @@ Interface representing a billing transaction.
 
 ###### Source
 
-[billing.ts:34](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/billing.ts#L34)
+[billing.ts:34](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/billing.ts#L34)
 
 ##### transactionId
 
@@ -342,7 +342,7 @@ Interface representing a billing transaction.
 
 ###### Source
 
-[billing.ts:30](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/6bbf2a3/examples/01-typedoc-plugin-markdown/src/billing.ts#L30)
+[billing.ts:30](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/billing.ts#L30)
 
 ***
 

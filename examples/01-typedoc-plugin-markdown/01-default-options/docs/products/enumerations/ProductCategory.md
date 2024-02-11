@@ -16,7 +16,7 @@ Enum representing different product categories.
 
 #### Source
 
-[products.ts:23](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/products.ts#L23)
+[products.ts:23](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/4bb8c5d/examples/01-typedoc-plugin-markdown/src/products.ts#L23)
 
 ***
 
@@ -26,7 +26,7 @@ Enum representing different product categories.
 
 #### Source
 
-[products.ts:22](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/products.ts#L22)
+[products.ts:22](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/4bb8c5d/examples/01-typedoc-plugin-markdown/src/products.ts#L22)
 
 ***
 
@@ -36,7 +36,7 @@ Enum representing different product categories.
 
 #### Source
 
-[products.ts:21](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/products.ts#L21)
+[products.ts:21](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/4bb8c5d/examples/01-typedoc-plugin-markdown/src/products.ts#L21)
 
 ***
 
@@ -46,4 +46,4 @@ Enum representing different product categories.
 
 #### Source
 
-[products.ts:24](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/products.ts#L24)
+[products.ts:24](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/4bb8c5d/examples/01-typedoc-plugin-markdown/src/products.ts#L24)

@@ -7,7 +7,6 @@
   "mergeReadme": true,
   "outputFileStrategy": "modules",
   "hidePageHeader": true,
-  "excludeGroups": true,
   "parametersFormat": "table",
   "useCodeBlocks": true
 }

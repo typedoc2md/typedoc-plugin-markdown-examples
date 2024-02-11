@@ -48,7 +48,7 @@ Add a transaction to the billing history.
 
 #### Source
 
-[billing.ts:83](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/billing.ts#L83)
+[billing.ts:83](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/4bb8c5d/examples/01-typedoc-plugin-markdown/src/billing.ts#L83)
 
 ***
 
@@ -68,4 +68,4 @@ An array of all billing transactions in the history.
 
 #### Source
 
-[billing.ts:91](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/billing.ts#L91)
+[billing.ts:91](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/4bb8c5d/examples/01-typedoc-plugin-markdown/src/billing.ts#L91)

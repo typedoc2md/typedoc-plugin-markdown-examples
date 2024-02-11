@@ -12,7 +12,7 @@ Interface representing a customer.
 
 #### Source
 
-[customer.ts:23](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/04-typedoc-github-wiki-theme/src/customer.ts#L23)
+[customer.ts:23](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/4bb8c5d/examples/04-typedoc-github-wiki-theme/src/customer.ts#L23)
 
 ***
 
@@ -22,7 +22,7 @@ Interface representing a customer.
 
 #### Source
 
-[customer.ts:20](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/04-typedoc-github-wiki-theme/src/customer.ts#L20)
+[customer.ts:20](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/4bb8c5d/examples/04-typedoc-github-wiki-theme/src/customer.ts#L20)
 
 ***
 
@@ -32,7 +32,7 @@ Interface representing a customer.
 
 #### Source
 
-[customer.ts:22](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/04-typedoc-github-wiki-theme/src/customer.ts#L22)
+[customer.ts:22](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/4bb8c5d/examples/04-typedoc-github-wiki-theme/src/customer.ts#L22)
 
 ***
 
@@ -42,7 +42,7 @@ Interface representing a customer.
 
 #### Source
 
-[customer.ts:21](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/04-typedoc-github-wiki-theme/src/customer.ts#L21)
+[customer.ts:21](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/4bb8c5d/examples/04-typedoc-github-wiki-theme/src/customer.ts#L21)
 
 ***
 
@@ -52,4 +52,4 @@ Interface representing a customer.
 
 #### Source
 
-[customer.ts:24](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/04-typedoc-github-wiki-theme/src/customer.ts#L24)
+[customer.ts:24](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/4bb8c5d/examples/04-typedoc-github-wiki-theme/src/customer.ts#L24)

@@ -6,7 +6,9 @@ This is the readme content. Below is the TypeDoc API.
 
 This module contains generic utility functions.
 
-## formatCurrency()
+## Functions
+
+### formatCurrency()
 
 ```ts
 formatCurrency(amount, currencyCode): string
@@ -14,26 +16,26 @@ formatCurrency(amount, currencyCode): string
 
 Function to format a number as currency.
 
-### Parameters
+#### Parameters
 
 | Parameter | Type | Description |
 | :------ | :------ | :------ |
 | `amount` | `number` | The amount to be formatted. |
 | `currencyCode` | `string` | The currency code (e.g., USD, EUR). |
 
-### Returns
+#### Returns
 
 `string`
 
 The formatted currency string.
 
-### Source
+#### Source
 
-[utilities.ts:14](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/utilities.ts#L14)
+[utilities.ts:14](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/4bb8c5d/examples/01-typedoc-plugin-markdown/src/utilities.ts#L14)
 
 ***
 
-## generateUniqueId()
+### generateUniqueId()
 
 ```ts
 generateUniqueId(): string
@@ -41,19 +43,19 @@ generateUniqueId(): string
 
 Function to generate a unique identifier.
 
-### Returns
+#### Returns
 
 `string`
 
 A unique identifier.
 
-### Source
+#### Source
 
-[utilities.ts:36](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/utilities.ts#L36)
+[utilities.ts:36](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/4bb8c5d/examples/01-typedoc-plugin-markdown/src/utilities.ts#L36)
 
 ***
 
-## isValidEmail()
+### isValidEmail()
 
 ```ts
 isValidEmail(email): boolean
@@ -61,25 +63,25 @@ isValidEmail(email): boolean
 
 Function to check if a value is a valid email address.
 
-### Parameters
+#### Parameters
 
 | Parameter | Type | Description |
 | :------ | :------ | :------ |
 | `email` | `string` | The email address to be validated. |
 
-### Returns
+#### Returns
 
 `boolean`
 
 True if the email address is valid, false otherwise.
 
-### Source
+#### Source
 
-[utilities.ts:60](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/utilities.ts#L60)
+[utilities.ts:60](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/4bb8c5d/examples/01-typedoc-plugin-markdown/src/utilities.ts#L60)
 
 ***
 
-## shuffleArray()
+### shuffleArray()
 
 ```ts
 shuffleArray<T>(array): T[]
@@ -87,31 +89,31 @@ shuffleArray<T>(array): T[]
 
 Function to shuffle an array.
 
-### Type parameters
+#### Type parameters
 
 | Type parameter |
 | :------ |
 | `T` |
 
-### Parameters
+#### Parameters
 
 | Parameter | Type | Description |
 | :------ | :------ | :------ |
 | `array` | `T`[] | The array to be shuffled. |
 
-### Returns
+#### Returns
 
 `T`[]
 
 The shuffled array.
 
-### Source
+#### Source
 
-[utilities.ts:70](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/utilities.ts#L70)
+[utilities.ts:70](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/4bb8c5d/examples/01-typedoc-plugin-markdown/src/utilities.ts#L70)
 
 ***
 
-## toTitleCase()
+### toTitleCase()
 
 ```ts
 toTitleCase(input): string
@@ -119,25 +121,25 @@ toTitleCase(input): string
 
 Function to convert a string to title case.
 
-### Parameters
+#### Parameters
 
 | Parameter | Type | Description |
 | :------ | :------ | :------ |
 | `input` | `string` | The input string. |
 
-### Returns
+#### Returns
 
 `string`
 
 The input string in title case.
 
-### Source
+#### Source
 
-[utilities.ts:26](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/utilities.ts#L26)
+[utilities.ts:26](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/4bb8c5d/examples/01-typedoc-plugin-markdown/src/utilities.ts#L26)
 
 ***
 
-## truncateString()
+### truncateString()
 
 ```ts
 truncateString(input, maxLength): string
@@ -145,19 +147,19 @@ truncateString(input, maxLength): string
 
 Function to truncate a string to a specified length.
 
-### Parameters
+#### Parameters
 
 | Parameter | Type | Description |
 | :------ | :------ | :------ |
 | `input` | `string` | The input string. |
 | `maxLength` | `number` | The maximum length of the truncated string. |
 
-### Returns
+#### Returns
 
 `string`
 
 The truncated string.
 
-### Source
+#### Source
 
-[utilities.ts:48](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/utilities.ts#L48)
+[utilities.ts:48](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/4bb8c5d/examples/01-typedoc-plugin-markdown/src/utilities.ts#L48)

@@ -25,7 +25,3 @@ This module contains types and services related to billing.
 
 - [BillingReceipt](interfaces/BillingReceipt.md)
 - [BillingTransaction](interfaces/BillingTransaction.md)
-
-***
-
-Generated using [TypeDoc](https://typedoc.org) and [typedoc-plugin-markdown](https://typedoc-plugin-markdown.org).

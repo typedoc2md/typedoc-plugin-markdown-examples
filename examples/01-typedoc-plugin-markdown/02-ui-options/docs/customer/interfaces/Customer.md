@@ -17,7 +17,3 @@ Interface representing a customer.
 | `email` | `string` |
 | `name` | `string` |
 | `type` | [`CustomerType`](../enumerations/CustomerType.md) |
-
-***
-
-Generated using [TypeDoc](https://typedoc.org) and [typedoc-plugin-markdown](https://typedoc-plugin-markdown.org).

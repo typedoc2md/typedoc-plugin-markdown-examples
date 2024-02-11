@@ -18,8 +18,4 @@ A unique identifier.
 
 ## Source
 
-[utilities.ts:36](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/utilities.ts#L36)
-
-***
-
-Generated using [TypeDoc](https://typedoc.org) and [typedoc-plugin-markdown](https://typedoc-plugin-markdown.org).
+[utilities.ts:36](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/utilities.ts#L36)

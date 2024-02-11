@@ -15,7 +15,3 @@ Enum representing different transaction statuses.
 | `Completed` | `"Completed"` |
 | `Failed` | `"Failed"` |
 | `Pending` | `"Pending"` |
-
-***
-
-Generated using [TypeDoc](https://typedoc.org) and [typedoc-plugin-markdown](https://typedoc-plugin-markdown.org).

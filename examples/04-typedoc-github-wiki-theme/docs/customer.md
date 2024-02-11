@@ -27,7 +27,3 @@ This module contains types and services related to customer management.
 | [CustomerBilling](../wiki/customer.Interface.CustomerBilling) | Interface representing customer billing information. |
 | [CustomerContact](../wiki/customer.Interface.CustomerContact) | Interface representing customer contact information. |
 | [CustomerOrderHistory](../wiki/customer.Interface.CustomerOrderHistory) | Interface representing a customer order history. |
-
-***
-
-Generated using [TypeDoc](https://typedoc.org) and [typedoc-plugin-markdown](https://typedoc-plugin-markdown.org).

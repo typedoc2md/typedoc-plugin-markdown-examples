@@ -1,4 +1,8 @@
-# single-page-docs-example
+# :wave: Example Single Page Docs With Readme
+
+## Welcome
+
+This is the readme content. Below is the TypeDoc API.
 
 This module contains generic utility functions.
 

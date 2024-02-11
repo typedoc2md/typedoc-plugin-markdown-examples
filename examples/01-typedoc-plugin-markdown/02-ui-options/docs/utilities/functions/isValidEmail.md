@@ -7,7 +7,7 @@
 # Function: isValidEmail()
 
 ```ts
-function isValidEmail(email): boolean
+isValidEmail(email): boolean
 ```
 
 Function to check if a value is a valid email address.
@@ -26,8 +26,4 @@ True if the email address is valid, false otherwise.
 
 ## Source
 
-[utilities.ts:60](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/utilities.ts#L60)
-
-***
-
-Generated using [TypeDoc](https://typedoc.org) and [typedoc-plugin-markdown](https://typedoc-plugin-markdown.org).
+[utilities.ts:60](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/utilities.ts#L60)

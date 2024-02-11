@@ -1,0 +1,13 @@
+{
+  "name": "single-page-docs-example",
+  "entryPoints": ["../src/utilities.ts"],
+  "plugin": ["typedoc-plugin-markdown"],
+  "githubPages": false,
+  "readme": "./_readme.md",
+  "mergeReadme": true,
+  "outputFileStrategy": "modules",
+  "hidePageHeader": true,
+  "excludeGroups": true,
+  "parametersFormat": "table",
+  "useCodeBlocks": true
+}

@@ -17,7 +17,3 @@ You can link directly to modules from within the readme by using the `{@link}` t
 | [products](products/README.md) | This module contains types and services related to product management. |
 | [shipping](shipping/README.md) | This module contains types and services related to shipping. |
 | [utilities](utilities/README.md) | This module contains generic utility functions. |
-
-***
-
-Generated using [TypeDoc](https://typedoc.org) and [typedoc-plugin-markdown](https://typedoc-plugin-markdown.org).

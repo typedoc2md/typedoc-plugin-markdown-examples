@@ -7,7 +7,7 @@
 # Function: shuffleArray()
 
 ```ts
-function shuffleArray<T>(array): T[]
+shuffleArray<T>(array): T[]
 ```
 
 Function to shuffle an array.
@@ -32,8 +32,4 @@ The shuffled array.
 
 ## Source
 
-[utilities.ts:70](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/utilities.ts#L70)
-
-***
-
-Generated using [TypeDoc](https://typedoc.org) and [typedoc-plugin-markdown](https://typedoc-plugin-markdown.org).
+[utilities.ts:70](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/utilities.ts#L70)

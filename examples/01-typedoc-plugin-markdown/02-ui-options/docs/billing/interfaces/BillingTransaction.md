@@ -17,7 +17,3 @@ Interface representing a billing transaction.
 | `paymentMethod` | [`PaymentMethod`](../enumerations/PaymentMethod.md) |
 | `status` | [`TransactionStatus`](../enumerations/TransactionStatus.md) |
 | `transactionId` | `string` |
-
-***
-
-Generated using [TypeDoc](https://typedoc.org) and [typedoc-plugin-markdown](https://typedoc-plugin-markdown.org).

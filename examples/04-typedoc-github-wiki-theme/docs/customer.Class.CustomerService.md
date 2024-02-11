@@ -22,7 +22,7 @@ Service for managing customers.
 
 #### Source
 
-[customer.ts:118](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/04-typedoc-github-wiki-theme/src/customer.ts#L118)
+[customer.ts:118](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/04-typedoc-github-wiki-theme/src/customer.ts#L118)
 
 ## Methods
 
@@ -34,15 +34,15 @@ Add a new customer.
 
 #### Parameters
 
-• `customer`: [`Customer`](../wiki/customer.Interface.Customer)
+• **customer**: [`Customer`](../wiki/customer.Interface.Customer)
 
 The customer to be added.
 
-• `contactInfo`: [`CustomerContact`](../wiki/customer.Interface.CustomerContact)
+• **contactInfo**: [`CustomerContact`](../wiki/customer.Interface.CustomerContact)
 
 The contact information for the customer.
 
-• `billingInfo`: [`CustomerBilling`](../wiki/customer.Interface.CustomerBilling)
+• **billingInfo**: [`CustomerBilling`](../wiki/customer.Interface.CustomerBilling)
 
 The billing information for the customer.
 
@@ -54,7 +54,7 @@ The added customer account.
 
 #### Source
 
-[customer.ts:127](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/04-typedoc-github-wiki-theme/src/customer.ts#L127)
+[customer.ts:127](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/04-typedoc-github-wiki-theme/src/customer.ts#L127)
 
 ***
 
@@ -72,7 +72,7 @@ An array of all customer accounts.
 
 #### Source
 
-[customer.ts:145](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/04-typedoc-github-wiki-theme/src/customer.ts#L145)
+[customer.ts:145](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/04-typedoc-github-wiki-theme/src/customer.ts#L145)
 
 ***
 
@@ -84,7 +84,7 @@ Get a customer account by ID.
 
 #### Parameters
 
-• `customerId`: `string`
+• **customerId**: `string`
 
 The ID of the customer.
 
@@ -96,8 +96,4 @@ The customer account with the specified ID.
 
 #### Source
 
-[customer.ts:154](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/04-typedoc-github-wiki-theme/src/customer.ts#L154)
-
-***
-
-Generated using [TypeDoc](https://typedoc.org) and [typedoc-plugin-markdown](https://typedoc-plugin-markdown.org).
+[customer.ts:154](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/04-typedoc-github-wiki-theme/src/customer.ts#L154)

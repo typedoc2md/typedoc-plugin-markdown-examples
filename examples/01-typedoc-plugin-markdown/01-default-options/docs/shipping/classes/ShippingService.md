@@ -26,7 +26,7 @@ Service for managing shipping records.
 
 #### Source
 
-[shipping.ts:23](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/shipping.ts#L23)
+[shipping.ts:23](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/shipping.ts#L23)
 
 ## Methods
 
@@ -44,7 +44,7 @@ An array of all shipping records.
 
 #### Source
 
-[shipping.ts:39](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/shipping.ts#L39)
+[shipping.ts:39](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/shipping.ts#L39)
 
 ***
 
@@ -56,7 +56,7 @@ Ship an order.
 
 #### Parameters
 
-• `shipment`: [`ShippingRecord`](../interfaces/ShippingRecord.md)
+• **shipment**: [`ShippingRecord`](../interfaces/ShippingRecord.md)
 
 The shipment record.
 
@@ -68,8 +68,4 @@ The shipped record.
 
 #### Source
 
-[shipping.ts:30](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/shipping.ts#L30)
-
-***
-
-Generated using [TypeDoc](https://typedoc.org) and [typedoc-plugin-markdown](https://typedoc-plugin-markdown.org).
+[shipping.ts:30](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/shipping.ts#L30)

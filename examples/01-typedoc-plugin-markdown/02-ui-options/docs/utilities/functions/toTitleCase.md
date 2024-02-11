@@ -7,7 +7,7 @@
 # Function: toTitleCase()
 
 ```ts
-function toTitleCase(input): string
+toTitleCase(input): string
 ```
 
 Function to convert a string to title case.
@@ -26,8 +26,4 @@ The input string in title case.
 
 ## Source
 
-[utilities.ts:26](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/utilities.ts#L26)
-
-***
-
-Generated using [TypeDoc](https://typedoc.org) and [typedoc-plugin-markdown](https://typedoc-plugin-markdown.org).
+[utilities.ts:26](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/utilities.ts#L26)

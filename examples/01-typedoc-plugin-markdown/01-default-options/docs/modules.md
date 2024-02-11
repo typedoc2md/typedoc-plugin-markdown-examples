@@ -11,7 +11,3 @@
 - [products](products/README.md)
 - [shipping](shipping/README.md)
 - [utilities](utilities/README.md)
-
-***
-
-Generated using [TypeDoc](https://typedoc.org) and [typedoc-plugin-markdown](https://typedoc-plugin-markdown.org).

@@ -27,7 +27,3 @@ This module contains types and services related to billing.
 | :------ | :------ |
 | [BillingReceipt](../wiki/billing.Interface.BillingReceipt) | Interface representing a billing receipt. |
 | [BillingTransaction](../wiki/billing.Interface.BillingTransaction) | Interface representing a billing transaction. |
-
-***
-
-Generated using [TypeDoc](https://typedoc.org) and [typedoc-plugin-markdown](https://typedoc-plugin-markdown.org).

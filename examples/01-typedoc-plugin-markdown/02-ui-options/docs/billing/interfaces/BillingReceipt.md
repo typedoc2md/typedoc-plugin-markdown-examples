@@ -15,7 +15,3 @@ Interface representing a billing receipt.
 | `receiptId` | `string` |
 | `timestamp` | `number` |
 | `transaction` | [`BillingTransaction`](BillingTransaction.md) |
-
-***
-
-Generated using [TypeDoc](https://typedoc.org) and [typedoc-plugin-markdown](https://typedoc-plugin-markdown.org).

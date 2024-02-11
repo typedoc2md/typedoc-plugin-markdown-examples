@@ -18,7 +18,3 @@ This module contains generic utility functions.
 - [shuffleArray](functions/shuffleArray.md)
 - [toTitleCase](functions/toTitleCase.md)
 - [truncateString](functions/truncateString.md)
-
-***
-
-Generated using [TypeDoc](https://typedoc.org) and [typedoc-plugin-markdown](https://typedoc-plugin-markdown.org).

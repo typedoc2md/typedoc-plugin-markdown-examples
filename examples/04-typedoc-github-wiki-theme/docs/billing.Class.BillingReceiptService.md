@@ -22,7 +22,7 @@ Service for generating billing receipts.
 
 #### Source
 
-[billing.ts:101](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/04-typedoc-github-wiki-theme/src/billing.ts#L101)
+[billing.ts:101](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/04-typedoc-github-wiki-theme/src/billing.ts#L101)
 
 ## Methods
 
@@ -34,7 +34,7 @@ Generate a billing receipt for a transaction.
 
 #### Parameters
 
-• `transaction`: [`BillingTransaction`](../wiki/billing.Interface.BillingTransaction)
+• **transaction**: [`BillingTransaction`](../wiki/billing.Interface.BillingTransaction)
 
 The billing transaction for which to generate a receipt.
 
@@ -46,7 +46,7 @@ The generated billing receipt.
 
 #### Source
 
-[billing.ts:108](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/04-typedoc-github-wiki-theme/src/billing.ts#L108)
+[billing.ts:108](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/04-typedoc-github-wiki-theme/src/billing.ts#L108)
 
 ***
 
@@ -64,8 +64,4 @@ An array of all billing receipts.
 
 #### Source
 
-[billing.ts:122](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/04-typedoc-github-wiki-theme/src/billing.ts#L122)
-
-***
-
-Generated using [TypeDoc](https://typedoc.org) and [typedoc-plugin-markdown](https://typedoc-plugin-markdown.org).
+[billing.ts:122](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/04-typedoc-github-wiki-theme/src/billing.ts#L122)

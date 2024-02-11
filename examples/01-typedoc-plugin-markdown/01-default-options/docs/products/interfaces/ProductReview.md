@@ -12,11 +12,11 @@ Interface representing a product review.
 
 ### comment?
 
-> **comment**?: `string`
+> **`optional`** **comment**: `string`
 
 #### Source
 
-[products.ts:122](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L122)
+[products.ts:122](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/products.ts#L122)
 
 ***
 
@@ -26,7 +26,7 @@ Interface representing a product review.
 
 #### Source
 
-[products.ts:119](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L119)
+[products.ts:119](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/products.ts#L119)
 
 ***
 
@@ -36,7 +36,7 @@ Interface representing a product review.
 
 #### Source
 
-[products.ts:121](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L121)
+[products.ts:121](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/products.ts#L121)
 
 ***
 
@@ -46,7 +46,7 @@ Interface representing a product review.
 
 #### Source
 
-[products.ts:118](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L118)
+[products.ts:118](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/products.ts#L118)
 
 ***
 
@@ -56,8 +56,4 @@ Interface representing a product review.
 
 #### Source
 
-[products.ts:120](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L120)
-
-***
-
-Generated using [TypeDoc](https://typedoc.org) and [typedoc-plugin-markdown](https://typedoc-plugin-markdown.org).
+[products.ts:120](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/products.ts#L120)

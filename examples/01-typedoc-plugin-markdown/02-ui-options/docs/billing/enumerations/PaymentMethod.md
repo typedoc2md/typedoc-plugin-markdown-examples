@@ -15,7 +15,3 @@ Enum representing different types of payment methods.
 | `BankTransfer` | `"Bank Transfer"` |
 | `CreditCard` | `"Credit Card"` |
 | `PayPal` | `"PayPal"` |
-
-***
-
-Generated using [TypeDoc](https://typedoc.org) and [typedoc-plugin-markdown](https://typedoc-plugin-markdown.org).

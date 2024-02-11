@@ -18,7 +18,7 @@ Enum representing different product categories.
 
 ###### Source
 
-[products.ts:23](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L23)
+[products.ts:23](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/products.ts#L23)
 
 ##### Clothing
 
@@ -26,7 +26,7 @@ Enum representing different product categories.
 
 ###### Source
 
-[products.ts:22](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L22)
+[products.ts:22](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/products.ts#L22)
 
 ##### Electronics
 
@@ -34,7 +34,7 @@ Enum representing different product categories.
 
 ###### Source
 
-[products.ts:21](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L21)
+[products.ts:21](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/products.ts#L21)
 
 ##### HomeDecor
 
@@ -42,7 +42,7 @@ Enum representing different product categories.
 
 ###### Source
 
-[products.ts:24](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L24)
+[products.ts:24](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/products.ts#L24)
 
 ## Classes
 
@@ -68,7 +68,7 @@ Class representing a product inventory.
 
 ###### Source
 
-[products.ts:39](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L39)
+[products.ts:39](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/products.ts#L39)
 
 #### Methods
 
@@ -80,7 +80,7 @@ Add a new product to the inventory.
 
 ###### Parameters
 
-• `product`: [`ProductDetails`](products.md#productdetails)
+• **product**: [`ProductDetails`](products.md#productdetails)
 
 The product to be added.
 
@@ -92,7 +92,7 @@ The added product details.
 
 ###### Source
 
-[products.ts:46](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L46)
+[products.ts:46](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/products.ts#L46)
 
 ##### getAllProducts()
 
@@ -108,7 +108,7 @@ An array of all product details.
 
 ###### Source
 
-[products.ts:55](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L55)
+[products.ts:55](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/products.ts#L55)
 
 ##### getProductById()
 
@@ -118,7 +118,7 @@ Get product details by ID.
 
 ###### Parameters
 
-• `productId`: `string`
+• **productId**: `string`
 
 The ID of the product.
 
@@ -130,7 +130,7 @@ The product details with the specified ID.
 
 ###### Source
 
-[products.ts:64](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L64)
+[products.ts:64](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/products.ts#L64)
 
 ##### getProductsByCategory()
 
@@ -140,7 +140,7 @@ Get products by category.
 
 ###### Parameters
 
-• `category`: [`ProductCategory`](products.md#productcategory)
+• **category**: [`ProductCategory`](products.md#productcategory)
 
 The product category.
 
@@ -152,7 +152,7 @@ An array of product details in the specified category.
 
 ###### Source
 
-[products.ts:73](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L73)
+[products.ts:73](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/products.ts#L73)
 
 ##### removeProduct()
 
@@ -162,7 +162,7 @@ Remove a product from the inventory.
 
 ###### Parameters
 
-• `productId`: `string`
+• **productId**: `string`
 
 The ID of the product to be removed.
 
@@ -174,7 +174,7 @@ The removed product details.
 
 ###### Source
 
-[products.ts:102](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L102)
+[products.ts:102](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/products.ts#L102)
 
 ##### updateProductDetails()
 
@@ -184,11 +184,11 @@ Update product details.
 
 ###### Parameters
 
-• `productId`: `string`
+• **productId**: `string`
 
 The ID of the product to be updated.
 
-• `updatedDetails`: [`ProductDetails`](products.md#productdetails)
+• **updatedDetails**: [`ProductDetails`](products.md#productdetails)
 
 The updated product details.
 
@@ -200,7 +200,7 @@ The updated product details.
 
 ###### Source
 
-[products.ts:83](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L83)
+[products.ts:83](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/products.ts#L83)
 
 ***
 
@@ -226,7 +226,7 @@ Service for managing product reviews.
 
 ###### Source
 
-[products.ts:130](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L130)
+[products.ts:130](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/products.ts#L130)
 
 #### Methods
 
@@ -238,7 +238,7 @@ Add a new product review.
 
 ###### Parameters
 
-• `review`: [`ProductReview`](products.md#productreview)
+• **review**: [`ProductReview`](products.md#productreview)
 
 The product review to be added.
 
@@ -250,7 +250,7 @@ The added product review.
 
 ###### Source
 
-[products.ts:137](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L137)
+[products.ts:137](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/products.ts#L137)
 
 ##### getAverageRating()
 
@@ -260,7 +260,7 @@ Get the average rating for a specific product.
 
 ###### Parameters
 
-• `productId`: `string`
+• **productId**: `string`
 
 The ID of the product.
 
@@ -272,7 +272,7 @@ The average rating for the specified product.
 
 ###### Source
 
-[products.ts:156](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L156)
+[products.ts:156](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/products.ts#L156)
 
 ##### getProductReviews()
 
@@ -282,7 +282,7 @@ Get all product reviews for a specific product.
 
 ###### Parameters
 
-• `productId`: `string`
+• **productId**: `string`
 
 The ID of the product.
 
@@ -294,7 +294,7 @@ An array of product reviews for the specified product.
 
 ###### Source
 
-[products.ts:147](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L147)
+[products.ts:147](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/products.ts#L147)
 
 ## Interfaces
 
@@ -314,7 +314,7 @@ Interface representing a product.
 
 ###### Source
 
-[products.ts:13](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L13)
+[products.ts:13](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/products.ts#L13)
 
 ##### price
 
@@ -322,7 +322,7 @@ Interface representing a product.
 
 ###### Source
 
-[products.ts:14](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L14)
+[products.ts:14](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/products.ts#L14)
 
 ##### productId
 
@@ -330,7 +330,7 @@ Interface representing a product.
 
 ###### Source
 
-[products.ts:12](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L12)
+[products.ts:12](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/products.ts#L12)
 
 ***
 
@@ -350,7 +350,7 @@ Interface representing product details.
 
 ###### Source
 
-[products.ts:32](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L32)
+[products.ts:32](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/products.ts#L32)
 
 ##### description
 
@@ -358,7 +358,7 @@ Interface representing product details.
 
 ###### Source
 
-[products.ts:31](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L31)
+[products.ts:31](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/products.ts#L31)
 
 ##### name
 
@@ -370,7 +370,7 @@ Interface representing product details.
 
 ###### Source
 
-[products.ts:13](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L13)
+[products.ts:13](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/products.ts#L13)
 
 ##### price
 
@@ -382,7 +382,7 @@ Interface representing product details.
 
 ###### Source
 
-[products.ts:14](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L14)
+[products.ts:14](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/products.ts#L14)
 
 ##### productId
 
@@ -394,7 +394,7 @@ Interface representing product details.
 
 ###### Source
 
-[products.ts:12](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L12)
+[products.ts:12](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/products.ts#L12)
 
 ***
 
@@ -406,11 +406,11 @@ Interface representing a product review.
 
 ##### comment?
 
-> **comment**?: `string`
+> **`optional`** **comment**: `string`
 
 ###### Source
 
-[products.ts:122](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L122)
+[products.ts:122](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/products.ts#L122)
 
 ##### productId
 
@@ -418,7 +418,7 @@ Interface representing a product review.
 
 ###### Source
 
-[products.ts:119](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L119)
+[products.ts:119](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/products.ts#L119)
 
 ##### rating
 
@@ -426,7 +426,7 @@ Interface representing a product review.
 
 ###### Source
 
-[products.ts:121](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L121)
+[products.ts:121](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/products.ts#L121)
 
 ##### reviewId
 
@@ -434,7 +434,7 @@ Interface representing a product review.
 
 ###### Source
 
-[products.ts:118](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L118)
+[products.ts:118](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/products.ts#L118)
 
 ##### username
 
@@ -442,8 +442,4 @@ Interface representing a product review.
 
 ###### Source
 
-[products.ts:120](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L120)
-
-***
-
-Generated using [TypeDoc](https://typedoc.org) and [typedoc-plugin-markdown](https://typedoc-plugin-markdown.org).
+[products.ts:120](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/products.ts#L120)

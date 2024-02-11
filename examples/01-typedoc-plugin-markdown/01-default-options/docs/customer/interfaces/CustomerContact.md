@@ -16,18 +16,14 @@ Interface representing customer contact information.
 
 #### Source
 
-[customer.ts:31](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/customer.ts#L31)
+[customer.ts:31](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/customer.ts#L31)
 
 ***
 
 ### phone?
 
-> **phone**?: `string`
+> **`optional`** **phone**: `string`
 
 #### Source
 
-[customer.ts:32](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/customer.ts#L32)
-
-***
-
-Generated using [TypeDoc](https://typedoc.org) and [typedoc-plugin-markdown](https://typedoc-plugin-markdown.org).
+[customer.ts:32](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/customer.ts#L32)

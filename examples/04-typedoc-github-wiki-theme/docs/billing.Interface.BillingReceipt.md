@@ -12,7 +12,7 @@ Interface representing a billing receipt.
 
 #### Source
 
-[billing.ts:41](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/04-typedoc-github-wiki-theme/src/billing.ts#L41)
+[billing.ts:41](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/04-typedoc-github-wiki-theme/src/billing.ts#L41)
 
 ***
 
@@ -22,7 +22,7 @@ Interface representing a billing receipt.
 
 #### Source
 
-[billing.ts:43](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/04-typedoc-github-wiki-theme/src/billing.ts#L43)
+[billing.ts:43](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/04-typedoc-github-wiki-theme/src/billing.ts#L43)
 
 ***
 
@@ -32,8 +32,4 @@ Interface representing a billing receipt.
 
 #### Source
 
-[billing.ts:42](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/04-typedoc-github-wiki-theme/src/billing.ts#L42)
-
-***
-
-Generated using [TypeDoc](https://typedoc.org) and [typedoc-plugin-markdown](https://typedoc-plugin-markdown.org).
+[billing.ts:42](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/04-typedoc-github-wiki-theme/src/billing.ts#L42)

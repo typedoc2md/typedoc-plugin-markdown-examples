@@ -17,7 +17,3 @@ Interface representing a product review.
 | `rating` | `number` |
 | `reviewId` | `string` |
 | `username` | `string` |
-
-***
-
-Generated using [TypeDoc](https://typedoc.org) and [typedoc-plugin-markdown](https://typedoc-plugin-markdown.org).

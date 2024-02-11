@@ -19,7 +19,3 @@ Interface representing a product.
 | `name` | `string` |
 | `price` | `number` |
 | `productId` | `string` |
-
-***
-
-Generated using [TypeDoc](https://typedoc.org) and [typedoc-plugin-markdown](https://typedoc-plugin-markdown.org).

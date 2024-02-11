@@ -16,7 +16,3 @@ Interface representing a shipping record.
 | `orderId` | `string` |
 | `shipmentId` | `string` |
 | `status` | `string` |
-
-***
-
-Generated using [TypeDoc](https://typedoc.org) and [typedoc-plugin-markdown](https://typedoc-plugin-markdown.org).

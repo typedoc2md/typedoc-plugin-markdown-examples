@@ -24,7 +24,3 @@ This module contains types and services related to product management.
 - [Product](interfaces/Product.md)
 - [ProductDetails](interfaces/ProductDetails.md)
 - [ProductReview](interfaces/ProductReview.md)
-
-***
-
-Generated using [TypeDoc](https://typedoc.org) and [typedoc-plugin-markdown](https://typedoc-plugin-markdown.org).

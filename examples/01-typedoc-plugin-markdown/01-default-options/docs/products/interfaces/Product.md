@@ -20,7 +20,7 @@ Interface representing a product.
 
 #### Source
 
-[products.ts:13](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L13)
+[products.ts:13](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/products.ts#L13)
 
 ***
 
@@ -30,7 +30,7 @@ Interface representing a product.
 
 #### Source
 
-[products.ts:14](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L14)
+[products.ts:14](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/products.ts#L14)
 
 ***
 
@@ -40,8 +40,4 @@ Interface representing a product.
 
 #### Source
 
-[products.ts:12](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L12)
-
-***
-
-Generated using [TypeDoc](https://typedoc.org) and [typedoc-plugin-markdown](https://typedoc-plugin-markdown.org).
+[products.ts:12](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/products.ts#L12)

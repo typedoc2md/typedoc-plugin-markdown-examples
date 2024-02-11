@@ -14,7 +14,3 @@ Enum representing different customer types.
 | :------ | :------ |
 | `Premium` | `"Premium"` |
 | `Regular` | `"Regular"` |
-
-***
-
-Generated using [TypeDoc](https://typedoc.org) and [typedoc-plugin-markdown](https://typedoc-plugin-markdown.org).

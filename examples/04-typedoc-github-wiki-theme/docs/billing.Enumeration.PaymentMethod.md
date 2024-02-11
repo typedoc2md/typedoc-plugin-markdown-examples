@@ -12,7 +12,7 @@ Enum representing different types of payment methods.
 
 #### Source
 
-[billing.ts:14](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/04-typedoc-github-wiki-theme/src/billing.ts#L14)
+[billing.ts:14](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/04-typedoc-github-wiki-theme/src/billing.ts#L14)
 
 ***
 
@@ -22,7 +22,7 @@ Enum representing different types of payment methods.
 
 #### Source
 
-[billing.ts:12](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/04-typedoc-github-wiki-theme/src/billing.ts#L12)
+[billing.ts:12](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/04-typedoc-github-wiki-theme/src/billing.ts#L12)
 
 ***
 
@@ -32,8 +32,4 @@ Enum representing different types of payment methods.
 
 #### Source
 
-[billing.ts:13](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/04-typedoc-github-wiki-theme/src/billing.ts#L13)
-
-***
-
-Generated using [TypeDoc](https://typedoc.org) and [typedoc-plugin-markdown](https://typedoc-plugin-markdown.org).
+[billing.ts:13](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/04-typedoc-github-wiki-theme/src/billing.ts#L13)

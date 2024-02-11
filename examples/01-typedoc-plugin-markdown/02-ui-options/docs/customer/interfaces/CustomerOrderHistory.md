@@ -15,7 +15,3 @@ Interface representing a customer order history.
 | `orderDate` | `Date` |
 | `orderId` | `string` |
 | `totalAmount` | `number` |
-
-***
-
-Generated using [TypeDoc](https://typedoc.org) and [typedoc-plugin-markdown](https://typedoc-plugin-markdown.org).

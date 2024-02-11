@@ -14,7 +14,3 @@ Interface representing customer contact information.
 | :------ | :------ |
 | `email` | `string` |
 | `phone?` | `string` |
-
-***
-
-Generated using [TypeDoc](https://typedoc.org) and [typedoc-plugin-markdown](https://typedoc-plugin-markdown.org).

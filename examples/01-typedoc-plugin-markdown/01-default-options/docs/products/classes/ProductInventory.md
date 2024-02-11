@@ -26,7 +26,7 @@ Class representing a product inventory.
 
 #### Source
 
-[products.ts:39](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L39)
+[products.ts:39](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/products.ts#L39)
 
 ## Methods
 
@@ -38,7 +38,7 @@ Add a new product to the inventory.
 
 #### Parameters
 
-• `product`: [`ProductDetails`](../interfaces/ProductDetails.md)
+• **product**: [`ProductDetails`](../interfaces/ProductDetails.md)
 
 The product to be added.
 
@@ -50,7 +50,7 @@ The added product details.
 
 #### Source
 
-[products.ts:46](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L46)
+[products.ts:46](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/products.ts#L46)
 
 ***
 
@@ -68,7 +68,7 @@ An array of all product details.
 
 #### Source
 
-[products.ts:55](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L55)
+[products.ts:55](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/products.ts#L55)
 
 ***
 
@@ -80,7 +80,7 @@ Get product details by ID.
 
 #### Parameters
 
-• `productId`: `string`
+• **productId**: `string`
 
 The ID of the product.
 
@@ -92,7 +92,7 @@ The product details with the specified ID.
 
 #### Source
 
-[products.ts:64](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L64)
+[products.ts:64](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/products.ts#L64)
 
 ***
 
@@ -104,7 +104,7 @@ Get products by category.
 
 #### Parameters
 
-• `category`: [`ProductCategory`](../enumerations/ProductCategory.md)
+• **category**: [`ProductCategory`](../enumerations/ProductCategory.md)
 
 The product category.
 
@@ -116,7 +116,7 @@ An array of product details in the specified category.
 
 #### Source
 
-[products.ts:73](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L73)
+[products.ts:73](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/products.ts#L73)
 
 ***
 
@@ -128,7 +128,7 @@ Remove a product from the inventory.
 
 #### Parameters
 
-• `productId`: `string`
+• **productId**: `string`
 
 The ID of the product to be removed.
 
@@ -140,7 +140,7 @@ The removed product details.
 
 #### Source
 
-[products.ts:102](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L102)
+[products.ts:102](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/products.ts#L102)
 
 ***
 
@@ -152,11 +152,11 @@ Update product details.
 
 #### Parameters
 
-• `productId`: `string`
+• **productId**: `string`
 
 The ID of the product to be updated.
 
-• `updatedDetails`: [`ProductDetails`](../interfaces/ProductDetails.md)
+• **updatedDetails**: [`ProductDetails`](../interfaces/ProductDetails.md)
 
 The updated product details.
 
@@ -168,8 +168,4 @@ The updated product details.
 
 #### Source
 
-[products.ts:83](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/5f3948e/examples/01-typedoc-plugin-markdown/src/products.ts#L83)
-
-***
-
-Generated using [TypeDoc](https://typedoc.org) and [typedoc-plugin-markdown](https://typedoc-plugin-markdown.org).
+[products.ts:83](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f2f7ac0/examples/01-typedoc-plugin-markdown/src/products.ts#L83)

@@ -21,7 +21,3 @@ Interface representing product details.
 | `name` | `string` | [`Product`](Product.md).`name` |
 | `price` | `number` | [`Product`](Product.md).`price` |
 | `productId` | `string` | [`Product`](Product.md).`productId` |
-
-***
-
-Generated using [TypeDoc](https://typedoc.org) and [typedoc-plugin-markdown](https://typedoc-plugin-markdown.org).

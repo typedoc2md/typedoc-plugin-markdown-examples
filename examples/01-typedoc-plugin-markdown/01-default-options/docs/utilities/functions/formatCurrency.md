@@ -28,4 +28,4 @@ The formatted currency string.
 
 ## Source
 
-[utilities.ts:14](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/4bb8c5d/examples/01-typedoc-plugin-markdown/src/utilities.ts#L14)
+[utilities.ts:14](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d1574a7/examples/01-typedoc-plugin-markdown/src/utilities.ts#L14)

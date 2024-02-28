@@ -16,7 +16,7 @@ Interface representing a customer order history.
 
 #### Source
 
-[customer.ts:48](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/4bb8c5d/examples/01-typedoc-plugin-markdown/src/customer.ts#L48)
+[customer.ts:48](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d1574a7/examples/01-typedoc-plugin-markdown/src/customer.ts#L48)
 
 ***
 
@@ -26,7 +26,7 @@ Interface representing a customer order history.
 
 #### Source
 
-[customer.ts:47](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/4bb8c5d/examples/01-typedoc-plugin-markdown/src/customer.ts#L47)
+[customer.ts:47](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d1574a7/examples/01-typedoc-plugin-markdown/src/customer.ts#L47)
 
 ***
 
@@ -36,4 +36,4 @@ Interface representing a customer order history.
 
 #### Source
 
-[customer.ts:49](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/4bb8c5d/examples/01-typedoc-plugin-markdown/src/customer.ts#L49)
+[customer.ts:49](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d1574a7/examples/01-typedoc-plugin-markdown/src/customer.ts#L49)

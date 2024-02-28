@@ -12,12 +12,12 @@
   "devDependencies": {
     "remark-github": "^12.0.0",
     "remark-toc": "^9.0.0",
-    "typescript": "^5.3.3",
     "typedoc": "0.25.8",
     "typedoc-github-wiki-theme": "^2.0.0-next.6",
     "typedoc-plugin-frontmatter": "^0.0.3-next.0",
-    "typedoc-plugin-markdown": "^4.0.0-next.52",
+    "typedoc-plugin-markdown": "^4.0.0-next.53",
     "typedoc-plugin-remark": "^0.0.1-next.2",
+    "typescript": "^5.3.3",
     "unified-prettier": "^2.0.0"
   }
 }

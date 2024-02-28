@@ -16,7 +16,7 @@ Interface representing a billing transaction.
 
 #### Source
 
-[billing.ts:32](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/4bb8c5d/examples/01-typedoc-plugin-markdown/src/billing.ts#L32)
+[billing.ts:32](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d1574a7/examples/01-typedoc-plugin-markdown/src/billing.ts#L32)
 
 ***
 
@@ -26,7 +26,7 @@ Interface representing a billing transaction.
 
 #### Source
 
-[billing.ts:31](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/4bb8c5d/examples/01-typedoc-plugin-markdown/src/billing.ts#L31)
+[billing.ts:31](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d1574a7/examples/01-typedoc-plugin-markdown/src/billing.ts#L31)
 
 ***
 
@@ -36,7 +36,7 @@ Interface representing a billing transaction.
 
 #### Source
 
-[billing.ts:33](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/4bb8c5d/examples/01-typedoc-plugin-markdown/src/billing.ts#L33)
+[billing.ts:33](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d1574a7/examples/01-typedoc-plugin-markdown/src/billing.ts#L33)
 
 ***
 
@@ -46,7 +46,7 @@ Interface representing a billing transaction.
 
 #### Source
 
-[billing.ts:34](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/4bb8c5d/examples/01-typedoc-plugin-markdown/src/billing.ts#L34)
+[billing.ts:34](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d1574a7/examples/01-typedoc-plugin-markdown/src/billing.ts#L34)
 
 ***
 
@@ -56,4 +56,4 @@ Interface representing a billing transaction.
 
 #### Source
 
-[billing.ts:30](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/4bb8c5d/examples/01-typedoc-plugin-markdown/src/billing.ts#L30)
+[billing.ts:30](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d1574a7/examples/01-typedoc-plugin-markdown/src/billing.ts#L30)

@@ -30,7 +30,7 @@ The formatted currency string.
 
 #### Source
 
-[utilities.ts:14](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/4bb8c5d/examples/01-typedoc-plugin-markdown/src/utilities.ts#L14)
+[utilities.ts:14](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d1574a7/examples/01-typedoc-plugin-markdown/src/utilities.ts#L14)
 
 ***
 
@@ -48,7 +48,7 @@ A unique identifier.
 
 #### Source
 
-[utilities.ts:36](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/4bb8c5d/examples/01-typedoc-plugin-markdown/src/utilities.ts#L36)
+[utilities.ts:36](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d1574a7/examples/01-typedoc-plugin-markdown/src/utilities.ts#L36)
 
 ***
 
@@ -72,7 +72,7 @@ True if the email address is valid, false otherwise.
 
 #### Source
 
-[utilities.ts:60](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/4bb8c5d/examples/01-typedoc-plugin-markdown/src/utilities.ts#L60)
+[utilities.ts:60](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d1574a7/examples/01-typedoc-plugin-markdown/src/utilities.ts#L60)
 
 ***
 
@@ -100,7 +100,7 @@ The shuffled array.
 
 #### Source
 
-[utilities.ts:70](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/4bb8c5d/examples/01-typedoc-plugin-markdown/src/utilities.ts#L70)
+[utilities.ts:70](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d1574a7/examples/01-typedoc-plugin-markdown/src/utilities.ts#L70)
 
 ***
 
@@ -124,7 +124,7 @@ The input string in title case.
 
 #### Source
 
-[utilities.ts:26](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/4bb8c5d/examples/01-typedoc-plugin-markdown/src/utilities.ts#L26)
+[utilities.ts:26](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d1574a7/examples/01-typedoc-plugin-markdown/src/utilities.ts#L26)
 
 ***
 
@@ -152,4 +152,4 @@ The truncated string.
 
 #### Source
 
-[utilities.ts:48](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/4bb8c5d/examples/01-typedoc-plugin-markdown/src/utilities.ts#L48)
+[utilities.ts:48](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d1574a7/examples/01-typedoc-plugin-markdown/src/utilities.ts#L48)

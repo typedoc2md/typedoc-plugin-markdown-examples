@@ -22,7 +22,7 @@ Service for managing billing history.
 
 #### Source
 
-[billing.ts:77](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d1574a7/examples/04-typedoc-github-wiki-theme/src/billing.ts#L77)
+[billing.ts:77](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/3728586/examples/04-typedoc-github-wiki-theme/src/billing.ts#L77)
 
 ## Methods
 
@@ -44,7 +44,7 @@ The billing transaction to be added to the history.
 
 #### Source
 
-[billing.ts:83](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d1574a7/examples/04-typedoc-github-wiki-theme/src/billing.ts#L83)
+[billing.ts:83](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/3728586/examples/04-typedoc-github-wiki-theme/src/billing.ts#L83)
 
 ***
 
@@ -62,4 +62,4 @@ An array of all billing transactions in the history.
 
 #### Source
 
-[billing.ts:91](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d1574a7/examples/04-typedoc-github-wiki-theme/src/billing.ts#L91)
+[billing.ts:91](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/3728586/examples/04-typedoc-github-wiki-theme/src/billing.ts#L91)

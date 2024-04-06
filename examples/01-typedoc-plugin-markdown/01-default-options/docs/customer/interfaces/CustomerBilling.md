@@ -16,7 +16,7 @@ Interface representing customer billing information.
 
 #### Source
 
-[customer.ts:39](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d1574a7/examples/01-typedoc-plugin-markdown/src/customer.ts#L39)
+[customer.ts:39](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/3728586/examples/01-typedoc-plugin-markdown/src/customer.ts#L39)
 
 ***
 
@@ -26,4 +26,4 @@ Interface representing customer billing information.
 
 #### Source
 
-[customer.ts:40](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d1574a7/examples/01-typedoc-plugin-markdown/src/customer.ts#L40)
+[customer.ts:40](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/3728586/examples/01-typedoc-plugin-markdown/src/customer.ts#L40)

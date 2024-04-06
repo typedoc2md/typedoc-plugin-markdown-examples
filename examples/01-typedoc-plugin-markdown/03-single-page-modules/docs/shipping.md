@@ -28,7 +28,7 @@ Service for managing shipping records.
 
 ###### Source
 
-[shipping.ts:23](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d1574a7/examples/01-typedoc-plugin-markdown/src/shipping.ts#L23)
+[shipping.ts:23](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/3728586/examples/01-typedoc-plugin-markdown/src/shipping.ts#L23)
 
 #### Methods
 
@@ -46,7 +46,7 @@ An array of all shipping records.
 
 ###### Source
 
-[shipping.ts:39](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d1574a7/examples/01-typedoc-plugin-markdown/src/shipping.ts#L39)
+[shipping.ts:39](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/3728586/examples/01-typedoc-plugin-markdown/src/shipping.ts#L39)
 
 ##### shipOrder()
 
@@ -68,7 +68,7 @@ The shipped record.
 
 ###### Source
 
-[shipping.ts:30](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d1574a7/examples/01-typedoc-plugin-markdown/src/shipping.ts#L30)
+[shipping.ts:30](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/3728586/examples/01-typedoc-plugin-markdown/src/shipping.ts#L30)
 
 ## Interfaces
 
@@ -84,7 +84,7 @@ Interface representing a shipping record.
 
 ###### Source
 
-[shipping.ts:14](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d1574a7/examples/01-typedoc-plugin-markdown/src/shipping.ts#L14)
+[shipping.ts:14](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/3728586/examples/01-typedoc-plugin-markdown/src/shipping.ts#L14)
 
 ##### orderId
 
@@ -92,7 +92,7 @@ Interface representing a shipping record.
 
 ###### Source
 
-[shipping.ts:13](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d1574a7/examples/01-typedoc-plugin-markdown/src/shipping.ts#L13)
+[shipping.ts:13](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/3728586/examples/01-typedoc-plugin-markdown/src/shipping.ts#L13)
 
 ##### shipmentId
 
@@ -100,7 +100,7 @@ Interface representing a shipping record.
 
 ###### Source
 
-[shipping.ts:12](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d1574a7/examples/01-typedoc-plugin-markdown/src/shipping.ts#L12)
+[shipping.ts:12](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/3728586/examples/01-typedoc-plugin-markdown/src/shipping.ts#L12)
 
 ##### status
 
@@ -108,4 +108,4 @@ Interface representing a shipping record.
 
 ###### Source
 
-[shipping.ts:15](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d1574a7/examples/01-typedoc-plugin-markdown/src/shipping.ts#L15)
+[shipping.ts:15](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/3728586/examples/01-typedoc-plugin-markdown/src/shipping.ts#L15)

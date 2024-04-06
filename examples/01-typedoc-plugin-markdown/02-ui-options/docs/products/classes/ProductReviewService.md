@@ -50,7 +50,7 @@ The added product review.
 
 #### Source
 
-[products.ts:137](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d1574a7/examples/01-typedoc-plugin-markdown/src/products.ts#L137)
+[products.ts:137](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/3728586/examples/01-typedoc-plugin-markdown/src/products.ts#L137)
 
 ***
 
@@ -76,7 +76,7 @@ The average rating for the specified product.
 
 #### Source
 
-[products.ts:156](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d1574a7/examples/01-typedoc-plugin-markdown/src/products.ts#L156)
+[products.ts:156](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/3728586/examples/01-typedoc-plugin-markdown/src/products.ts#L156)
 
 ***
 
@@ -102,4 +102,4 @@ An array of product reviews for the specified product.
 
 #### Source
 
-[products.ts:147](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d1574a7/examples/01-typedoc-plugin-markdown/src/products.ts#L147)
+[products.ts:147](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/3728586/examples/01-typedoc-plugin-markdown/src/products.ts#L147)

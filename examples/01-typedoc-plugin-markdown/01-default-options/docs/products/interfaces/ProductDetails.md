@@ -20,7 +20,7 @@ Interface representing product details.
 
 #### Source
 
-[products.ts:32](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d1574a7/examples/01-typedoc-plugin-markdown/src/products.ts#L32)
+[products.ts:32](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/3728586/examples/01-typedoc-plugin-markdown/src/products.ts#L32)
 
 ***
 
@@ -30,7 +30,7 @@ Interface representing product details.
 
 #### Source
 
-[products.ts:31](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d1574a7/examples/01-typedoc-plugin-markdown/src/products.ts#L31)
+[products.ts:31](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/3728586/examples/01-typedoc-plugin-markdown/src/products.ts#L31)
 
 ***
 
@@ -44,7 +44,7 @@ Interface representing product details.
 
 #### Source
 
-[products.ts:13](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d1574a7/examples/01-typedoc-plugin-markdown/src/products.ts#L13)
+[products.ts:13](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/3728586/examples/01-typedoc-plugin-markdown/src/products.ts#L13)
 
 ***
 
@@ -58,7 +58,7 @@ Interface representing product details.
 
 #### Source
 
-[products.ts:14](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d1574a7/examples/01-typedoc-plugin-markdown/src/products.ts#L14)
+[products.ts:14](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/3728586/examples/01-typedoc-plugin-markdown/src/products.ts#L14)
 
 ***
 
@@ -72,4 +72,4 @@ Interface representing product details.
 
 #### Source
 
-[products.ts:12](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d1574a7/examples/01-typedoc-plugin-markdown/src/products.ts#L12)
+[products.ts:12](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/3728586/examples/01-typedoc-plugin-markdown/src/products.ts#L12)

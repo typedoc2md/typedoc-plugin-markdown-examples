@@ -20,4 +20,4 @@ A unique identifier.
 
 ## Source
 
-[utilities.ts:36](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d1574a7/examples/01-typedoc-plugin-markdown/src/utilities.ts#L36)
+[utilities.ts:36](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/3728586/examples/01-typedoc-plugin-markdown/src/utilities.ts#L36)

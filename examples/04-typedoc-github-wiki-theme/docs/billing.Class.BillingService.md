@@ -22,7 +22,7 @@ Service for managing billing transactions.
 
 #### Source
 
-[billing.ts:51](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d1574a7/examples/04-typedoc-github-wiki-theme/src/billing.ts#L51)
+[billing.ts:51](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/3728586/examples/04-typedoc-github-wiki-theme/src/billing.ts#L51)
 
 ## Methods
 
@@ -40,7 +40,7 @@ An array of all billing transactions.
 
 #### Source
 
-[billing.ts:67](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d1574a7/examples/04-typedoc-github-wiki-theme/src/billing.ts#L67)
+[billing.ts:67](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/3728586/examples/04-typedoc-github-wiki-theme/src/billing.ts#L67)
 
 ***
 
@@ -64,4 +64,4 @@ The processed billing transaction.
 
 #### Source
 
-[billing.ts:58](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d1574a7/examples/04-typedoc-github-wiki-theme/src/billing.ts#L58)
+[billing.ts:58](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/3728586/examples/04-typedoc-github-wiki-theme/src/billing.ts#L58)

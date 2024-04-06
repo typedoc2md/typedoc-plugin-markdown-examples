@@ -16,7 +16,7 @@ Interface representing a shipping record.
 
 #### Source
 
-[shipping.ts:14](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d1574a7/examples/01-typedoc-plugin-markdown/src/shipping.ts#L14)
+[shipping.ts:14](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/3728586/examples/01-typedoc-plugin-markdown/src/shipping.ts#L14)
 
 ***
 
@@ -26,7 +26,7 @@ Interface representing a shipping record.
 
 #### Source
 
-[shipping.ts:13](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d1574a7/examples/01-typedoc-plugin-markdown/src/shipping.ts#L13)
+[shipping.ts:13](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/3728586/examples/01-typedoc-plugin-markdown/src/shipping.ts#L13)
 
 ***
 
@@ -36,7 +36,7 @@ Interface representing a shipping record.
 
 #### Source
 
-[shipping.ts:12](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d1574a7/examples/01-typedoc-plugin-markdown/src/shipping.ts#L12)
+[shipping.ts:12](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/3728586/examples/01-typedoc-plugin-markdown/src/shipping.ts#L12)
 
 ***
 
@@ -46,4 +46,4 @@ Interface representing a shipping record.
 
 #### Source
 
-[shipping.ts:15](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d1574a7/examples/01-typedoc-plugin-markdown/src/shipping.ts#L15)
+[shipping.ts:15](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/3728586/examples/01-typedoc-plugin-markdown/src/shipping.ts#L15)

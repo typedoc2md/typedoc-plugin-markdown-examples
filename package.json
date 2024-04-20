@@ -1,7 +1,6 @@
 {
   "name": "typedoc-plugin-markdown-examples",
   "workspaces": [
-    "examples/01-typedoc-plugin-markdown/*",
     "examples/*"
   ],
   "scripts": {
@@ -12,12 +11,13 @@
   "devDependencies": {
     "remark-github": "^12.0.0",
     "remark-toc": "^9.0.0",
-    "typedoc": "0.25.8",
-    "typedoc-github-wiki-theme": "^2.0.0-next.8",
+    "typedoc": "0.25.13",
+    "typedoc-github-wiki-theme": "^2.0.0-next.9",
     "typedoc-plugin-frontmatter": "^1.0.0-next.1",
-    "typedoc-plugin-markdown": "^4.0.0-next.55",
+    "typedoc-plugin-inline-sources": "^1.0.2",
+    "typedoc-plugin-markdown": "^4.0.0-next.58",
     "typedoc-plugin-remark": "^1.0.0-next.4",
-    "typescript": "^5.3.3",
-    "unified-prettier": "^2.0.0"
+    "typescript": "^5.4.5",
+    "unified-prettier": "^2.0.1"
   }
 }

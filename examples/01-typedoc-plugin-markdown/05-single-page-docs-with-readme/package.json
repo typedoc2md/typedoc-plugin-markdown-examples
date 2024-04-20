@@ -1,7 +1,0 @@
-{
-  "name": "single-page-docs-with-readme",
-  "version": "1.0.0",
-  "scripts": {
-    "docs": "typedoc"
-  }
-}

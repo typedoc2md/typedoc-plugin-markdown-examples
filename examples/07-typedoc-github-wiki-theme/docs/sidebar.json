@@ -1,0 +1,237 @@
+[
+  {
+    "title": "BillingModule",
+    "kind": 2,
+    "path": "BillingModule.md",
+    "children": [
+      {
+        "title": "Enumerations",
+        "children": [
+          {
+            "title": "PaymentMethod",
+            "kind": 8,
+            "path": "BillingModule.Enumeration.PaymentMethod.md"
+          },
+          {
+            "title": "TransactionStatus",
+            "kind": 8,
+            "path": "BillingModule.Enumeration.TransactionStatus.md"
+          }
+        ]
+      },
+      {
+        "title": "Classes",
+        "children": [
+          {
+            "title": "BillingHistoryService",
+            "kind": 128,
+            "path": "BillingModule.Class.BillingHistoryService.md"
+          },
+          {
+            "title": "BillingReceiptService",
+            "kind": 128,
+            "path": "BillingModule.Class.BillingReceiptService.md"
+          },
+          {
+            "title": "BillingService",
+            "kind": 128,
+            "path": "BillingModule.Class.BillingService.md"
+          }
+        ]
+      },
+      {
+        "title": "Interfaces",
+        "children": [
+          {
+            "title": "BillingReceipt",
+            "kind": 256,
+            "path": "BillingModule.Interface.BillingReceipt.md"
+          },
+          {
+            "title": "BillingTransaction",
+            "kind": 256,
+            "path": "BillingModule.Interface.BillingTransaction.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "CustomerModule",
+    "kind": 2,
+    "path": "CustomerModule.md",
+    "children": [
+      {
+        "title": "Enumerations",
+        "children": [
+          {
+            "title": "CustomerType",
+            "kind": 8,
+            "path": "CustomerModule.Enumeration.CustomerType.md"
+          }
+        ]
+      },
+      {
+        "title": "Classes",
+        "children": [
+          {
+            "title": "CustomerAccount",
+            "kind": 128,
+            "path": "CustomerModule.Class.CustomerAccount.md"
+          },
+          {
+            "title": "CustomerService",
+            "kind": 128,
+            "path": "CustomerModule.Class.CustomerService.md"
+          }
+        ]
+      },
+      {
+        "title": "Interfaces",
+        "children": [
+          {
+            "title": "Customer",
+            "kind": 256,
+            "path": "CustomerModule.Interface.Customer.md"
+          },
+          {
+            "title": "CustomerBilling",
+            "kind": 256,
+            "path": "CustomerModule.Interface.CustomerBilling.md"
+          },
+          {
+            "title": "CustomerContact",
+            "kind": 256,
+            "path": "CustomerModule.Interface.CustomerContact.md"
+          },
+          {
+            "title": "CustomerOrderHistory",
+            "kind": 256,
+            "path": "CustomerModule.Interface.CustomerOrderHistory.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "ProductsModule",
+    "kind": 2,
+    "path": "ProductsModule.md",
+    "children": [
+      {
+        "title": "Enumerations",
+        "children": [
+          {
+            "title": "ProductCategory",
+            "kind": 8,
+            "path": "ProductsModule.Enumeration.ProductCategory.md"
+          }
+        ]
+      },
+      {
+        "title": "Classes",
+        "children": [
+          {
+            "title": "ProductInventory",
+            "kind": 128,
+            "path": "ProductsModule.Class.ProductInventory.md"
+          },
+          {
+            "title": "ProductReviewService",
+            "kind": 128,
+            "path": "ProductsModule.Class.ProductReviewService.md"
+          }
+        ]
+      },
+      {
+        "title": "Interfaces",
+        "children": [
+          {
+            "title": "Product",
+            "kind": 256,
+            "path": "ProductsModule.Interface.Product.md"
+          },
+          {
+            "title": "ProductDetails",
+            "kind": 256,
+            "path": "ProductsModule.Interface.ProductDetails.md"
+          },
+          {
+            "title": "ProductReview",
+            "kind": 256,
+            "path": "ProductsModule.Interface.ProductReview.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "ShippingModule",
+    "kind": 2,
+    "path": "ShippingModule.md",
+    "children": [
+      {
+        "title": "Classes",
+        "children": [
+          {
+            "title": "ShippingService",
+            "kind": 128,
+            "path": "ShippingModule.Class.ShippingService.md"
+          }
+        ]
+      },
+      {
+        "title": "Interfaces",
+        "children": [
+          {
+            "title": "ShippingRecord",
+            "kind": 256,
+            "path": "ShippingModule.Interface.ShippingRecord.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "UtilitiesModule",
+    "kind": 2,
+    "path": "UtilitiesModule.md",
+    "children": [
+      {
+        "title": "Functions",
+        "children": [
+          {
+            "title": "formatCurrency",
+            "kind": 64,
+            "path": "UtilitiesModule.Function.formatCurrency.md"
+          },
+          {
+            "title": "generateUniqueId",
+            "kind": 64,
+            "path": "UtilitiesModule.Function.generateUniqueId.md"
+          },
+          {
+            "title": "isValidEmail",
+            "kind": 64,
+            "path": "UtilitiesModule.Function.isValidEmail.md"
+          },
+          {
+            "title": "shuffleArray",
+            "kind": 64,
+            "path": "UtilitiesModule.Function.shuffleArray.md"
+          },
+          {
+            "title": "toTitleCase",
+            "kind": 64,
+            "path": "UtilitiesModule.Function.toTitleCase.md"
+          },
+          {
+            "title": "truncateString",
+            "kind": 64,
+            "path": "UtilitiesModule.Function.truncateString.md"
+          }
+        ]
+      }
+    ]
+  }
+]

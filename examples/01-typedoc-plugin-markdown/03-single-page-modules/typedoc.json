@@ -1,9 +1,0 @@
-{
-  "name": "single-page-modules-example",
-  "entryPoints": ["../src/*"],
-  "plugin": ["typedoc-plugin-markdown"],
-  "githubPages": false,
-  "readme": "none",
-  "outputFileStrategy": "modules",
-  "hidePageHeader": true
-}

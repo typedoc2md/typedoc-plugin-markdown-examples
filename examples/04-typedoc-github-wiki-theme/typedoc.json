@@ -1,9 +1,0 @@
-{
-  "$schema": "https://typedoc.org/schema.json",
-  "name": "github-wiki-example",
-  "entryPoints": ["./src/*"],
-  "githubPages": false,
-  "plugin": ["typedoc-plugin-markdown", "typedoc-github-wiki-theme"],
-  "readme": "none",
-  "indexFormat": "table"
-}

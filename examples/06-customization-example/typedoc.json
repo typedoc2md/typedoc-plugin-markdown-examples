@@ -1,0 +1,8 @@
+{
+  "entryPoints": ["./src/index.ts"],
+  "plugin": ["typedoc-plugin-markdown", "./custom-theme.mjs"],
+  "theme": "custom-markdown-theme",
+  "readme": "none",
+  "disableSources": true,
+  "outputFileStrategy": "modules"
+}

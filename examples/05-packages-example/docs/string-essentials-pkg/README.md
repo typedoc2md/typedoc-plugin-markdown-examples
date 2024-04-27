@@ -1,10 +1,10 @@
-**string-essentials v1.0.0** • API
+**string-essentials-pkg v1.0.0** • API
 
 ***
 
-[packages-example](../README.md) / string-essentials
+[packages-example](../README.md) / string-essentials-pkg
 
-# string-essentials
+# string-essentials-pkg
 
 This package provides utility functions for string manipulation,
 
@@ -32,7 +32,7 @@ The string with the first letter capitalized.
 
 #### Source
 
-index.ts:23
+[index.ts:23](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/05-packages-example/packages/string-essentials/index.ts#L23)
 
 ***
 
@@ -56,7 +56,7 @@ True if the string is a palindrome, false otherwise.
 
 #### Source
 
-index.ts:32
+[index.ts:32](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/05-packages-example/packages/string-essentials/index.ts#L32)
 
 ***
 
@@ -80,4 +80,4 @@ The reversed string.
 
 #### Source
 
-index.ts:14
+[index.ts:14](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/05-packages-example/packages/string-essentials/index.ts#L14)

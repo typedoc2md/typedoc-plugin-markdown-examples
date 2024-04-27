@@ -1,5 +1,5 @@
 {
-  "name": "date-time-utils",
+  "name": "date-time-utils-pkg",
   "version": "3.0.0",
   "description": "Useful date and time utilities"
 }

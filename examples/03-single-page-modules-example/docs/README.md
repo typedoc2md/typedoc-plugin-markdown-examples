@@ -8,7 +8,7 @@
 
 ## Overview
 
-This example demonstrates the result of using **typedoc-plugin-markdown** with enhanced single page modules using `outputFileStrategy` equals `modules`.
+This example demonstrates the result of using **typedoc-plugin-markdown** with single page modules using `outputFileStrategy` equals `modules`.
 
 ## Modules
 

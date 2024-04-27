@@ -1,5 +1,5 @@
 {
-  "name": "string-essentials",
+  "name": "string-essentials-pkg",
   "version": "1.0.0",
   "description": "Utility functions for string manipulation."
 }

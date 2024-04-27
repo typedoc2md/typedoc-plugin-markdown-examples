@@ -12,9 +12,7 @@ Utilities include formatting currencies, manipulating strings, generating identi
 
 ### formatCurrency()
 
-```ts
-function formatCurrency(amount, currencyCode): string
-```
+> **formatCurrency**(`amount`, `currencyCode`): `string`
 
 Formats a number as currency with a given currency code.
 Utilizes the Intl.NumberFormat API to handle locale-specific currency formatting.
@@ -34,15 +32,13 @@ The formatted currency string in the format "$1,234.56".
 
 #### Source
 
-utilities.ts:17
+[utilities.ts:17](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/utilities.ts#L17)
 
 ***
 
 ### generateUniqueId()
 
-```ts
-function generateUniqueId(): string
-```
+> **generateUniqueId**(): `string`
 
 Converts a string to title case, making the first character of each word uppercase.
 Effective for formatting titles or names in a readable format.
@@ -55,15 +51,13 @@ The string transformed to title case.
 
 #### Source
 
-utilities.ts:41
+[utilities.ts:41](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/utilities.ts#L41)
 
 ***
 
 ### isValidEmail()
 
-```ts
-function isValidEmail(email): boolean
-```
+> **isValidEmail**(`email`): `boolean`
 
 Function to check if a value is a valid email address.
 
@@ -81,15 +75,13 @@ True if the email address is valid, false otherwise.
 
 #### Source
 
-utilities.ts:65
+[utilities.ts:65](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/utilities.ts#L65)
 
 ***
 
 ### shuffleArray()
 
-```ts
-function shuffleArray<T>(array): T[]
-```
+> **shuffleArray**\<`T`\>(`array`): `T`[]
 
 Function to shuffle an array.
 
@@ -113,15 +105,13 @@ The shuffled array.
 
 #### Source
 
-utilities.ts:75
+[utilities.ts:75](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/utilities.ts#L75)
 
 ***
 
 ### toTitleCase()
 
-```ts
-function toTitleCase(input): string
-```
+> **toTitleCase**(`input`): `string`
 
 Function to convert a string to title case.
 
@@ -139,15 +129,13 @@ The input string in title case.
 
 #### Source
 
-utilities.ts:29
+[utilities.ts:29](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/utilities.ts#L29)
 
 ***
 
 ### truncateString()
 
-```ts
-function truncateString(input, maxLength): string
-```
+> **truncateString**(`input`, `maxLength`): `string`
 
 Function to truncate a string to a specified length.
 
@@ -166,4 +154,4 @@ The truncated string.
 
 #### Source
 
-utilities.ts:53
+[utilities.ts:53](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/utilities.ts#L53)

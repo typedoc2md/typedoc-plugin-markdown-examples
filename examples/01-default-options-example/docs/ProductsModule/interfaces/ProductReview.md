@@ -16,7 +16,7 @@ Interface representing a product review.
 
 #### Source
 
-products.ts:144
+[products.ts:144](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/products.ts#L144)
 
 ***
 
@@ -26,7 +26,7 @@ products.ts:144
 
 #### Source
 
-products.ts:141
+[products.ts:141](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/products.ts#L141)
 
 ***
 
@@ -36,7 +36,7 @@ products.ts:141
 
 #### Source
 
-products.ts:143
+[products.ts:143](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/products.ts#L143)
 
 ***
 
@@ -46,7 +46,7 @@ products.ts:143
 
 #### Source
 
-products.ts:140
+[products.ts:140](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/products.ts#L140)
 
 ***
 
@@ -56,4 +56,4 @@ products.ts:140
 
 #### Source
 
-products.ts:142
+[products.ts:142](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/products.ts#L142)

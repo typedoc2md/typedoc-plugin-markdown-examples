@@ -38,7 +38,7 @@ An array of all billing transactions.
 
 #### Source
 
-billing.ts:126
+[billing.ts:126](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/billing.ts#L126)
 
 ***
 
@@ -63,4 +63,4 @@ The processed billing transaction, now stored in the service.
 
 #### Source
 
-billing.ts:116
+[billing.ts:116](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/billing.ts#L116)

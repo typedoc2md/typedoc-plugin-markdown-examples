@@ -1,10 +1,10 @@
-**date-time-utils v3.0.0** • API
+**date-time-utils-pkg v3.0.0** • API
 
 ***
 
-[packages-example](../README.md) / date-time-utils
+[packages-example](../README.md) / date-time-utils-pkg
 
-# date-time-utils
+# date-time-utils-pkg
 
 This package provides utility functions for handling dates and times without external libraries,
 including formatting dates, calculating differences between dates, and checking for weekend days.
@@ -35,7 +35,7 @@ The number of days between the two dates.
 
 #### Source
 
-index.ts:14
+[index.ts:14](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/05-packages-example/packages/date-time-utils/index.ts#L14)
 
 ***
 
@@ -59,4 +59,4 @@ True if the date is a weekend (Saturday or Sunday), false otherwise.
 
 #### Source
 
-index.ts:24
+[index.ts:24](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/05-packages-example/packages/date-time-utils/index.ts#L24)

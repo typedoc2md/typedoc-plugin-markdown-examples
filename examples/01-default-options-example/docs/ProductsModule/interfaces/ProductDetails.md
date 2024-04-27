@@ -24,7 +24,7 @@ into sections or departments, facilitating easier product discovery and manageme
 
 #### Source
 
-products.ts:54
+[products.ts:54](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/products.ts#L54)
 
 ***
 
@@ -37,7 +37,7 @@ product's features, usage, and benefits.
 
 #### Source
 
-products.ts:48
+[products.ts:48](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/products.ts#L48)
 
 ***
 
@@ -53,7 +53,7 @@ Name of the product.
 
 #### Source
 
-products.ts:16
+[products.ts:16](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/products.ts#L16)
 
 ***
 
@@ -69,7 +69,7 @@ Price of the product in the system's set currency.
 
 #### Source
 
-products.ts:18
+[products.ts:18](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/products.ts#L18)
 
 ***
 
@@ -85,4 +85,4 @@ Unique identifier for the product.
 
 #### Source
 
-products.ts:14
+[products.ts:14](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/products.ts#L14)

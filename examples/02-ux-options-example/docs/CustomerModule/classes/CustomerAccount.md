@@ -36,7 +36,7 @@ Constructs a new CustomerAccount instance.
 
 #### Source
 
-customer.ts:88
+[customer.ts:88](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/customer.ts#L88)
 
 ## Properties
 
@@ -69,7 +69,7 @@ Adds a new order to the customer's historical record.
 
 #### Source
 
-customer.ts:127
+[customer.ts:127](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/customer.ts#L127)
 
 ***
 
@@ -89,7 +89,7 @@ The billing details.
 
 #### Source
 
-customer.ts:119
+[customer.ts:119](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/customer.ts#L119)
 
 ***
 
@@ -109,7 +109,7 @@ The contact details.
 
 #### Source
 
-customer.ts:111
+[customer.ts:111](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/customer.ts#L111)
 
 ***
 
@@ -129,7 +129,7 @@ The customer's profile data.
 
 #### Source
 
-customer.ts:103
+[customer.ts:103](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/customer.ts#L103)
 
 ***
 
@@ -149,4 +149,4 @@ An array of order history records.
 
 #### Source
 
-customer.ts:135
+[customer.ts:135](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/customer.ts#L135)

@@ -1,5 +1,5 @@
 {
-  "$schema": "https://typedoc.org/schema.json",
+  "$schema": "https://www.typedoc-plugin-markdown.org/schema.json",
   "name": "github-wiki-example",
   "entryPoints": ["../src/*"],
   "plugin": ["typedoc-plugin-markdown", "typedoc-github-wiki-theme"],

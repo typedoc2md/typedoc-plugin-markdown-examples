@@ -19,7 +19,7 @@ The destination address where the order should be delivered. This is crucial for
 
 #### Source
 
-shipping.ts:25
+[shipping.ts:25](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/shipping.ts#L25)
 
 ***
 
@@ -31,7 +31,7 @@ Identifier for the order being shipped. Links the shipment to a specific custome
 
 #### Source
 
-shipping.ts:20
+[shipping.ts:20](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/shipping.ts#L20)
 
 ***
 
@@ -43,7 +43,7 @@ Unique identifier for the shipment. This is used to track and reference the ship
 
 #### Source
 
-shipping.ts:15
+[shipping.ts:15](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/shipping.ts#L15)
 
 ***
 
@@ -55,4 +55,4 @@ Current status of the shipment (e.g., "Pending", "Shipped", "Delivered"). Provid
 
 #### Source
 
-shipping.ts:30
+[shipping.ts:30](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/shipping.ts#L30)

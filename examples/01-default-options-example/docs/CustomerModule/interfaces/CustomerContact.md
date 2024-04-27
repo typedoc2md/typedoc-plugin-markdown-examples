@@ -19,7 +19,7 @@ Primary email address for customer communications.
 
 #### Source
 
-customer.ts:43
+[customer.ts:43](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/customer.ts#L43)
 
 ***
 
@@ -31,4 +31,4 @@ Optional phone number for additional contact or urgent communications.
 
 #### Source
 
-customer.ts:45
+[customer.ts:45](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/customer.ts#L45)

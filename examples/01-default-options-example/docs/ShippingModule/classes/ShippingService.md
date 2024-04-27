@@ -29,7 +29,7 @@ Stores all shipment records. This array acts as a database to keep track of all 
 
 #### Source
 
-shipping.ts:42
+[shipping.ts:42](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/shipping.ts#L42)
 
 ## Methods
 
@@ -48,7 +48,7 @@ An array of all shipping records.
 
 #### Source
 
-shipping.ts:60
+[shipping.ts:60](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/shipping.ts#L60)
 
 ***
 
@@ -73,4 +73,4 @@ The shipment record that was added to the shipments list.
 
 #### Source
 
-shipping.ts:50
+[shipping.ts:50](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/shipping.ts#L50)

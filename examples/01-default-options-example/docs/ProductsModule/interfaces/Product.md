@@ -1,8 +1,8 @@
-**typedoc-plugin-markdown-examples** • [Readme](../../README.md) \| [API](../../modules.md)
+[typedoc-plugin-markdown-examples](../../README.md) • [Readme](../../README.md) \| Docs
 
 ***
 
-[typedoc-plugin-markdown-examples](../../README.md) / [ProductsModule](../README.md) / Product
+[typedoc-plugin-markdown-examples](../../modules.md) / [ProductsModule](../README.md) / Product
 
 # Interface: Product
 
@@ -23,7 +23,7 @@ Name of the product.
 
 #### Source
 
-[products.ts:16](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/products.ts#L16)
+[products.ts:16](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/products.ts#L16)
 
 ***
 
@@ -35,7 +35,7 @@ Price of the product in the system's set currency.
 
 #### Source
 
-[products.ts:18](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/products.ts#L18)
+[products.ts:18](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/products.ts#L18)
 
 ***
 
@@ -47,4 +47,4 @@ Unique identifier for the product.
 
 #### Source
 
-[products.ts:14](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/products.ts#L14)
+[products.ts:14](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/products.ts#L14)

@@ -44,7 +44,7 @@ The added customer account.
 
 #### Source
 
-[customer.ts:153](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/customer.ts#L153)
+[customer.ts:153](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/customer.ts#L153)
 
 ***
 
@@ -62,7 +62,7 @@ An array of all customer accounts.
 
 #### Source
 
-[customer.ts:171](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/customer.ts#L171)
+[customer.ts:171](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/customer.ts#L171)
 
 ***
 
@@ -86,4 +86,4 @@ The customer account with the specified ID.
 
 #### Source
 
-[customer.ts:180](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/customer.ts#L180)
+[customer.ts:180](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/customer.ts#L180)

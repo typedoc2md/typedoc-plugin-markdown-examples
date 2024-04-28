@@ -1,4 +1,4 @@
-**typedoc-plugin-markdown-examples** • [API](../../README.md)
+[typedoc-plugin-markdown-examples](../../README.md) • Docs
 
 ***
 
@@ -46,7 +46,7 @@ An array of all billing transactions.
 
 #### Source
 
-[billing.ts:126](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/billing.ts#L126)
+[billing.ts:126](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/billing.ts#L126)
 
 ***
 
@@ -73,4 +73,4 @@ The processed billing transaction, now stored in the service.
 
 #### Source
 
-[billing.ts:116](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/billing.ts#L116)
+[billing.ts:116](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/billing.ts#L116)

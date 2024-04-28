@@ -1,4 +1,4 @@
-**typedoc-plugin-markdown-examples** • [API](../../README.md)
+[typedoc-plugin-markdown-examples](../../README.md) • Docs
 
 ***
 
@@ -28,4 +28,4 @@ The formatted currency string in the format "$1,234.56".
 
 ## Source
 
-[utilities.ts:17](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/utilities.ts#L17)
+[utilities.ts:17](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/utilities.ts#L17)

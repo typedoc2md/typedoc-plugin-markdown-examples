@@ -1,4 +1,4 @@
-**typedoc-plugin-markdown-examples** • API
+typedoc-plugin-markdown-examples • Docs
 
 ***
 
@@ -15,7 +15,9 @@ This example demonstrates the result of using **typedoc-plugin-markdown** with e
 - Using code blocks for signatures and declarations.
 - Embedding index page into the readme to create a single entry point.
 
-## Modules
+## API Index
+
+### Modules
 
 | Module | Description |
 | :------ | :------ |

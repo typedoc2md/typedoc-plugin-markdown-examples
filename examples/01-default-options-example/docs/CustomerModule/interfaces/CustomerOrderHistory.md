@@ -1,8 +1,8 @@
-**typedoc-plugin-markdown-examples** • [Readme](../../README.md) \| [API](../../modules.md)
+[typedoc-plugin-markdown-examples](../../README.md) • [Readme](../../README.md) \| Docs
 
 ***
 
-[typedoc-plugin-markdown-examples](../../README.md) / [CustomerModule](../README.md) / CustomerOrderHistory
+[typedoc-plugin-markdown-examples](../../modules.md) / [CustomerModule](../README.md) / CustomerOrderHistory
 
 # Interface: CustomerOrderHistory
 
@@ -19,7 +19,7 @@ The date when the order was placed, important for historical data and analytics.
 
 #### Source
 
-[customer.ts:67](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/customer.ts#L67)
+[customer.ts:67](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/customer.ts#L67)
 
 ***
 
@@ -31,7 +31,7 @@ Unique identifier for each order, crucial for order tracking and management.
 
 #### Source
 
-[customer.ts:65](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/customer.ts#L65)
+[customer.ts:65](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/customer.ts#L65)
 
 ***
 
@@ -43,4 +43,4 @@ The total amount spent on the order, used for financial records and customer spe
 
 #### Source
 
-[customer.ts:69](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/customer.ts#L69)
+[customer.ts:69](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/customer.ts#L69)

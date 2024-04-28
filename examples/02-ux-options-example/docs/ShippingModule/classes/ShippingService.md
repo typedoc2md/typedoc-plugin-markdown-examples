@@ -1,4 +1,4 @@
-**typedoc-plugin-markdown-examples** • [API](../../README.md)
+[typedoc-plugin-markdown-examples](../../README.md) • Docs
 
 ***
 
@@ -46,7 +46,7 @@ An array of all shipping records.
 
 #### Source
 
-[shipping.ts:60](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/shipping.ts#L60)
+[shipping.ts:60](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/shipping.ts#L60)
 
 ***
 
@@ -73,4 +73,4 @@ The shipment record that was added to the shipments list.
 
 #### Source
 
-[shipping.ts:50](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/shipping.ts#L50)
+[shipping.ts:50](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/shipping.ts#L50)

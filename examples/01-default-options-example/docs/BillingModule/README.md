@@ -1,8 +1,8 @@
-**typedoc-plugin-markdown-examples** • [Readme](../README.md) \| [API](../modules.md)
+[typedoc-plugin-markdown-examples](../README.md) • [Readme](../README.md) \| Docs
 
 ***
 
-[typedoc-plugin-markdown-examples](../README.md) / BillingModule
+[typedoc-plugin-markdown-examples](../modules.md) / BillingModule
 
 # BillingModule
 

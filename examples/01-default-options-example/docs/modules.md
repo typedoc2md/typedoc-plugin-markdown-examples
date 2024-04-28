@@ -1,4 +1,4 @@
-**typedoc-plugin-markdown-examples** • [Readme](README.md) \| API
+[typedoc-plugin-markdown-examples](README.md) • [Readme](README.md) \| Docs
 
 ***
 

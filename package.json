@@ -15,7 +15,7 @@
     "typedoc-github-wiki-theme": "^2.0.0-next.9",
     "typedoc-plugin-frontmatter": "^1.0.0-next.1",
     "typedoc-plugin-inline-sources": "^1.0.2",
-    "typedoc-plugin-markdown": "^4.0.0-next.58",
+    "typedoc-plugin-markdown": "^4.0.0-next.59",
     "typedoc-plugin-remark": "^1.0.0-next.4",
     "typescript": "^5.4.5",
     "unified-prettier": "^2.0.1"

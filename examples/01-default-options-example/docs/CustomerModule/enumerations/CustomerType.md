@@ -1,8 +1,8 @@
-**typedoc-plugin-markdown-examples** • [Readme](../../README.md) \| [API](../../modules.md)
+[typedoc-plugin-markdown-examples](../../README.md) • [Readme](../../README.md) \| Docs
 
 ***
 
-[typedoc-plugin-markdown-examples](../../README.md) / [CustomerModule](../README.md) / CustomerType
+[typedoc-plugin-markdown-examples](../../modules.md) / [CustomerModule](../README.md) / CustomerType
 
 # Enumeration: CustomerType
 
@@ -19,7 +19,7 @@ Represents a premium customer who enjoys additional benefits, discounts, and ser
 
 #### Source
 
-[customer.ts:17](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/customer.ts#L17)
+[customer.ts:17](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/customer.ts#L17)
 
 ***
 
@@ -31,4 +31,4 @@ Represents a regular customer who receives standard services and pricing.
 
 #### Source
 
-[customer.ts:15](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/customer.ts#L15)
+[customer.ts:15](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/customer.ts#L15)

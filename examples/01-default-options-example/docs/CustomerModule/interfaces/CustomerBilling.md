@@ -1,8 +1,8 @@
-**typedoc-plugin-markdown-examples** • [Readme](../../README.md) \| [API](../../modules.md)
+[typedoc-plugin-markdown-examples](../../README.md) • [Readme](../../README.md) \| Docs
 
 ***
 
-[typedoc-plugin-markdown-examples](../../README.md) / [CustomerModule](../README.md) / CustomerBilling
+[typedoc-plugin-markdown-examples](../../modules.md) / [CustomerModule](../README.md) / CustomerBilling
 
 # Interface: CustomerBilling
 
@@ -19,7 +19,7 @@ The customer's credit card number, used for billing and payment processing.
 
 #### Source
 
-[customer.ts:54](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/customer.ts#L54)
+[customer.ts:54](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/customer.ts#L54)
 
 ***
 
@@ -31,4 +31,4 @@ The expiration date of the credit card, important for validating the card's curr
 
 #### Source
 
-[customer.ts:56](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/customer.ts#L56)
+[customer.ts:56](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/customer.ts#L56)

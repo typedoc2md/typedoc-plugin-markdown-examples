@@ -1,8 +1,8 @@
-**typedoc-plugin-markdown-examples** • [Readme](../../README.md) \| [API](../../modules.md)
+[typedoc-plugin-markdown-examples](../../README.md) • [Readme](../../README.md) \| Docs
 
 ***
 
-[typedoc-plugin-markdown-examples](../../README.md) / [CustomerModule](../README.md) / CustomerContact
+[typedoc-plugin-markdown-examples](../../modules.md) / [CustomerModule](../README.md) / CustomerContact
 
 # Interface: CustomerContact
 
@@ -19,7 +19,7 @@ Primary email address for customer communications.
 
 #### Source
 
-[customer.ts:43](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/customer.ts#L43)
+[customer.ts:43](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/customer.ts#L43)
 
 ***
 
@@ -31,4 +31,4 @@ Optional phone number for additional contact or urgent communications.
 
 #### Source
 
-[customer.ts:45](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/customer.ts#L45)
+[customer.ts:45](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/customer.ts#L45)

@@ -1,4 +1,4 @@
-**packages-example** • API
+packages-example • Docs
 
 ***
 

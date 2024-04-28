@@ -1,8 +1,8 @@
-**typedoc-plugin-markdown-examples** • [Readme](../../README.md) \| [API](../../modules.md)
+[typedoc-plugin-markdown-examples](../../README.md) • [Readme](../../README.md) \| Docs
 
 ***
 
-[typedoc-plugin-markdown-examples](../../README.md) / [UtilitiesModule](../README.md) / generateUniqueId
+[typedoc-plugin-markdown-examples](../../modules.md) / [UtilitiesModule](../README.md) / generateUniqueId
 
 # Function: generateUniqueId()
 
@@ -19,4 +19,4 @@ The string transformed to title case.
 
 ## Source
 
-[utilities.ts:41](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/utilities.ts#L41)
+[utilities.ts:41](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/utilities.ts#L41)

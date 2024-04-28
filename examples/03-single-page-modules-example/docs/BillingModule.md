@@ -1,4 +1,4 @@
-**typedoc-plugin-markdown-examples** • [API](README.md)
+[typedoc-plugin-markdown-examples](README.md) • Docs
 
 ***
 
@@ -91,7 +91,7 @@ This method is typically called after a transaction is completed to maintain a r
 
 ###### Source
 
-[billing.ts:145](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/billing.ts#L145)
+[billing.ts:145](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/billing.ts#L145)
 
 ##### getBillingHistory()
 
@@ -110,7 +110,7 @@ An array of all billing transactions in the history.
 
 ###### Source
 
-[billing.ts:154](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/billing.ts#L154)
+[billing.ts:154](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/billing.ts#L154)
 
 ***
 
@@ -162,7 +162,7 @@ The generated billing receipt.
 
 ###### Source
 
-[billing.ts:174](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/billing.ts#L174)
+[billing.ts:174](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/billing.ts#L174)
 
 ##### getAllReceipts()
 
@@ -181,7 +181,7 @@ An array of all billing receipts.
 
 ###### Source
 
-[billing.ts:189](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/billing.ts#L189)
+[billing.ts:189](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/billing.ts#L189)
 
 ***
 
@@ -227,7 +227,7 @@ An array of all billing transactions.
 
 ###### Source
 
-[billing.ts:126](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/billing.ts#L126)
+[billing.ts:126](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/billing.ts#L126)
 
 ##### processTransaction()
 
@@ -252,7 +252,7 @@ The processed billing transaction, now stored in the service.
 
 ###### Source
 
-[billing.ts:116](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/billing.ts#L116)
+[billing.ts:116](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/billing.ts#L116)
 
 ## Interfaces
 

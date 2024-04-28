@@ -1,4 +1,4 @@
-**typedoc-plugin-markdown-examples** • API
+typedoc-plugin-markdown-examples • Docs
 
 ***
 
@@ -10,7 +10,9 @@
 
 This example demonstrates the result of using **typedoc-plugin-markdown** with single page modules using `outputFileStrategy` equals `modules`.
 
-## Modules
+## API Index
+
+### Modules
 
 | Module | Description |
 | :------ | :------ |

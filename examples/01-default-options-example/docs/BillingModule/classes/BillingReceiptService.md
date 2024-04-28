@@ -1,8 +1,8 @@
-**typedoc-plugin-markdown-examples** • [Readme](../../README.md) \| [API](../../modules.md)
+[typedoc-plugin-markdown-examples](../../README.md) • [Readme](../../README.md) \| Docs
 
 ***
 
-[typedoc-plugin-markdown-examples](../../README.md) / [BillingModule](../README.md) / BillingReceiptService
+[typedoc-plugin-markdown-examples](../../modules.md) / [BillingModule](../README.md) / BillingReceiptService
 
 # Class: BillingReceiptService
 
@@ -29,7 +29,7 @@ Stores all receipts generated for transactions.
 
 #### Source
 
-[billing.ts:166](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/billing.ts#L166)
+[billing.ts:166](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/billing.ts#L166)
 
 ## Methods
 
@@ -54,7 +54,7 @@ The generated billing receipt.
 
 #### Source
 
-[billing.ts:174](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/billing.ts#L174)
+[billing.ts:174](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/billing.ts#L174)
 
 ***
 
@@ -73,4 +73,4 @@ An array of all billing receipts.
 
 #### Source
 
-[billing.ts:189](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/d2a811c92870a7c2dc8ea4f9aacd73d076444ff1/examples/src/billing.ts#L189)
+[billing.ts:189](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/billing.ts#L189)

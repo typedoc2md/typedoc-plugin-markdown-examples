@@ -26,7 +26,7 @@ Class representing a product inventory.
 
 #### Source
 
-[products.ts:61](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/products.ts#L61)
+[products.ts:61](https://github.com/typedoc-plugin-markdown/typedoc-plugin-markdown-examples/blob/20d21e441b853b3f7b2de364c070522db75798b0/examples/src/products.ts#L61)
 
 ## Methods
 
@@ -50,7 +50,7 @@ The added product details.
 
 #### Source
 
-[products.ts:68](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/products.ts#L68)
+[products.ts:68](https://github.com/typedoc-plugin-markdown/typedoc-plugin-markdown-examples/blob/20d21e441b853b3f7b2de364c070522db75798b0/examples/src/products.ts#L68)
 
 ***
 
@@ -68,7 +68,7 @@ An array of all product details.
 
 #### Source
 
-[products.ts:77](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/products.ts#L77)
+[products.ts:77](https://github.com/typedoc-plugin-markdown/typedoc-plugin-markdown-examples/blob/20d21e441b853b3f7b2de364c070522db75798b0/examples/src/products.ts#L77)
 
 ***
 
@@ -92,7 +92,7 @@ The product details with the specified ID.
 
 #### Source
 
-[products.ts:86](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/products.ts#L86)
+[products.ts:86](https://github.com/typedoc-plugin-markdown/typedoc-plugin-markdown-examples/blob/20d21e441b853b3f7b2de364c070522db75798b0/examples/src/products.ts#L86)
 
 ***
 
@@ -116,7 +116,7 @@ An array of product details in the specified category.
 
 #### Source
 
-[products.ts:95](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/products.ts#L95)
+[products.ts:95](https://github.com/typedoc-plugin-markdown/typedoc-plugin-markdown-examples/blob/20d21e441b853b3f7b2de364c070522db75798b0/examples/src/products.ts#L95)
 
 ***
 
@@ -140,7 +140,7 @@ The removed product details.
 
 #### Source
 
-[products.ts:124](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/products.ts#L124)
+[products.ts:124](https://github.com/typedoc-plugin-markdown/typedoc-plugin-markdown-examples/blob/20d21e441b853b3f7b2de364c070522db75798b0/examples/src/products.ts#L124)
 
 ***
 
@@ -168,4 +168,4 @@ The updated product details.
 
 #### Source
 
-[products.ts:105](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/products.ts#L105)
+[products.ts:105](https://github.com/typedoc-plugin-markdown/typedoc-plugin-markdown-examples/blob/20d21e441b853b3f7b2de364c070522db75798b0/examples/src/products.ts#L105)

@@ -29,7 +29,7 @@ Stores all receipts generated for transactions.
 
 #### Source
 
-[billing.ts:166](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/billing.ts#L166)
+[billing.ts:166](https://github.com/typedoc-plugin-markdown/typedoc-plugin-markdown-examples/blob/20d21e441b853b3f7b2de364c070522db75798b0/examples/src/billing.ts#L166)
 
 ## Methods
 
@@ -54,7 +54,7 @@ The generated billing receipt.
 
 #### Source
 
-[billing.ts:174](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/billing.ts#L174)
+[billing.ts:174](https://github.com/typedoc-plugin-markdown/typedoc-plugin-markdown-examples/blob/20d21e441b853b3f7b2de364c070522db75798b0/examples/src/billing.ts#L174)
 
 ***
 
@@ -73,4 +73,4 @@ An array of all billing receipts.
 
 #### Source
 
-[billing.ts:189](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/billing.ts#L189)
+[billing.ts:189](https://github.com/typedoc-plugin-markdown/typedoc-plugin-markdown-examples/blob/20d21e441b853b3f7b2de364c070522db75798b0/examples/src/billing.ts#L189)

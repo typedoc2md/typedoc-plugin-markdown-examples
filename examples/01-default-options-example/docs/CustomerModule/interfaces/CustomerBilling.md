@@ -19,7 +19,7 @@ The customer's credit card number, used for billing and payment processing.
 
 #### Source
 
-[customer.ts:54](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/customer.ts#L54)
+[customer.ts:54](https://github.com/typedoc-plugin-markdown/typedoc-plugin-markdown-examples/blob/20d21e441b853b3f7b2de364c070522db75798b0/examples/src/customer.ts#L54)
 
 ***
 
@@ -31,4 +31,4 @@ The expiration date of the credit card, important for validating the card's curr
 
 #### Source
 
-[customer.ts:56](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/customer.ts#L56)
+[customer.ts:56](https://github.com/typedoc-plugin-markdown/typedoc-plugin-markdown-examples/blob/20d21e441b853b3f7b2de364c070522db75798b0/examples/src/customer.ts#L56)

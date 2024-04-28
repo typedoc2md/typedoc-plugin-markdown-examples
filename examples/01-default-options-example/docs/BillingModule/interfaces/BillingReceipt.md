@@ -20,7 +20,7 @@ in financial records and customer queries.
 
 #### Source
 
-[billing.ts:86](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/billing.ts#L86)
+[billing.ts:86](https://github.com/typedoc-plugin-markdown/typedoc-plugin-markdown-examples/blob/20d21e441b853b3f7b2de364c070522db75798b0/examples/src/billing.ts#L86)
 
 ***
 
@@ -33,7 +33,7 @@ the transaction was finalized and acknowledged.
 
 #### Source
 
-[billing.ts:98](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/billing.ts#L98)
+[billing.ts:98](https://github.com/typedoc-plugin-markdown/typedoc-plugin-markdown-examples/blob/20d21e441b853b3f7b2de364c070522db75798b0/examples/src/billing.ts#L98)
 
 ***
 
@@ -46,4 +46,4 @@ that took place.
 
 #### Source
 
-[billing.ts:92](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/billing.ts#L92)
+[billing.ts:92](https://github.com/typedoc-plugin-markdown/typedoc-plugin-markdown-examples/blob/20d21e441b853b3f7b2de364c070522db75798b0/examples/src/billing.ts#L92)

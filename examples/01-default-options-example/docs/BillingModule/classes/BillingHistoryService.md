@@ -29,7 +29,7 @@ Holds all transactions that have been added to the billing history.
 
 #### Source
 
-[billing.ts:138](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/billing.ts#L138)
+[billing.ts:138](https://github.com/typedoc-plugin-markdown/typedoc-plugin-markdown-examples/blob/20d21e441b853b3f7b2de364c070522db75798b0/examples/src/billing.ts#L138)
 
 ## Methods
 
@@ -52,7 +52,7 @@ The billing transaction to be added to the history.
 
 #### Source
 
-[billing.ts:145](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/billing.ts#L145)
+[billing.ts:145](https://github.com/typedoc-plugin-markdown/typedoc-plugin-markdown-examples/blob/20d21e441b853b3f7b2de364c070522db75798b0/examples/src/billing.ts#L145)
 
 ***
 
@@ -71,4 +71,4 @@ An array of all billing transactions in the history.
 
 #### Source
 
-[billing.ts:154](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/billing.ts#L154)
+[billing.ts:154](https://github.com/typedoc-plugin-markdown/typedoc-plugin-markdown-examples/blob/20d21e441b853b3f7b2de364c070522db75798b0/examples/src/billing.ts#L154)

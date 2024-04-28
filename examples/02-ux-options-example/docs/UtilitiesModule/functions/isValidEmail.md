@@ -26,4 +26,4 @@ True if the email address is valid, false otherwise.
 
 ## Source
 
-[utilities.ts:65](https://github.com/tgreyuk/typedoc-plugin-markdown-examples/blob/f6ee18b4865e847a5ae81e3c3d7c2ce83ab384d7/examples/src/utilities.ts#L65)
+[utilities.ts:65](https://github.com/typedoc-plugin-markdown/typedoc-plugin-markdown-examples/blob/20d21e441b853b3f7b2de364c070522db75798b0/examples/src/utilities.ts#L65)

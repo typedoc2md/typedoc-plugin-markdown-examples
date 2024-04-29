@@ -1,4 +1,4 @@
-[typedoc-plugin-markdown-examples](../../README.md) • [Readme](../../README.md) \| Docs
+[typedoc-plugin-markdown-examples](../../README.md) • Docs
 
 ***
 
@@ -24,7 +24,7 @@ into sections or departments, facilitating easier product discovery and manageme
 
 #### Source
 
-[products.ts:54](https://github.com/typedoc-plugin-markdown/typedoc-plugin-markdown-examples/blob/20d21e441b853b3f7b2de364c070522db75798b0/examples/src/products.ts#L54)
+[products.ts:54](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/src/products.ts#L54)
 
 ***
 
@@ -37,7 +37,7 @@ product's features, usage, and benefits.
 
 #### Source
 
-[products.ts:48](https://github.com/typedoc-plugin-markdown/typedoc-plugin-markdown-examples/blob/20d21e441b853b3f7b2de364c070522db75798b0/examples/src/products.ts#L48)
+[products.ts:48](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/src/products.ts#L48)
 
 ***
 
@@ -53,7 +53,7 @@ Name of the product.
 
 #### Source
 
-[products.ts:16](https://github.com/typedoc-plugin-markdown/typedoc-plugin-markdown-examples/blob/20d21e441b853b3f7b2de364c070522db75798b0/examples/src/products.ts#L16)
+[products.ts:16](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/src/products.ts#L16)
 
 ***
 
@@ -69,7 +69,7 @@ Price of the product in the system's set currency.
 
 #### Source
 
-[products.ts:18](https://github.com/typedoc-plugin-markdown/typedoc-plugin-markdown-examples/blob/20d21e441b853b3f7b2de364c070522db75798b0/examples/src/products.ts#L18)
+[products.ts:18](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/src/products.ts#L18)
 
 ***
 
@@ -85,4 +85,4 @@ Unique identifier for the product.
 
 #### Source
 
-[products.ts:14](https://github.com/typedoc-plugin-markdown/typedoc-plugin-markdown-examples/blob/20d21e441b853b3f7b2de364c070522db75798b0/examples/src/products.ts#L14)
+[products.ts:14](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/src/products.ts#L14)

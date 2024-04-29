@@ -1,9 +1,10 @@
 {
-  "$schema": "https://www.typedoc-plugin-markdown.org/schema.json",
+  "$schema": "https://typedoc-plugin-markdown.org/schema.json",
   "entryPoints": ["./src/index.ts"],
-  "plugin": ["typedoc-plugin-markdown", "./custom-theme.mjs"],
+  "plugin": ["typedoc-plugin-markdown", "./custom-plugin.mjs"],
   "theme": "custom-markdown-theme",
   "readme": "none",
   "disableSources": true,
-  "outputFileStrategy": "modules"
+  "outputFileStrategy": "modules",
+  "propertiesFormat": "table"
 }

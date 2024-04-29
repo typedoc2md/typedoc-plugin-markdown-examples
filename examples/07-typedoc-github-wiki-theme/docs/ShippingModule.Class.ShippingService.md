@@ -38,7 +38,7 @@ An array of all shipping records.
 
 #### Source
 
-[shipping.ts:60](https://github.com/typedoc-plugin-markdown/typedoc-plugin-markdown-examples/blob/20d21e441b853b3f7b2de364c070522db75798b0/examples/src/shipping.ts#L60)
+[shipping.ts:60](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/src/shipping.ts#L60)
 
 ***
 
@@ -63,4 +63,4 @@ The shipment record that was added to the shipments list.
 
 #### Source
 
-[shipping.ts:50](https://github.com/typedoc-plugin-markdown/typedoc-plugin-markdown-examples/blob/20d21e441b853b3f7b2de364c070522db75798b0/examples/src/shipping.ts#L50)
+[shipping.ts:50](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/src/shipping.ts#L50)

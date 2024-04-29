@@ -32,7 +32,7 @@ The string with the first letter capitalized.
 
 #### Source
 
-[index.ts:23](https://github.com/typedoc-plugin-markdown/typedoc-plugin-markdown-examples/blob/20d21e441b853b3f7b2de364c070522db75798b0/examples/05-packages-example/packages/string-essentials/index.ts#L23)
+[index.ts:23](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/05-packages-example/packages/string-essentials/index.ts#L23)
 
 ***
 
@@ -56,7 +56,7 @@ True if the string is a palindrome, false otherwise.
 
 #### Source
 
-[index.ts:32](https://github.com/typedoc-plugin-markdown/typedoc-plugin-markdown-examples/blob/20d21e441b853b3f7b2de364c070522db75798b0/examples/05-packages-example/packages/string-essentials/index.ts#L32)
+[index.ts:32](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/05-packages-example/packages/string-essentials/index.ts#L32)
 
 ***
 
@@ -80,4 +80,4 @@ The reversed string.
 
 #### Source
 
-[index.ts:14](https://github.com/typedoc-plugin-markdown/typedoc-plugin-markdown-examples/blob/20d21e441b853b3f7b2de364c070522db75798b0/examples/05-packages-example/packages/string-essentials/index.ts#L14)
+[index.ts:14](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/05-packages-example/packages/string-essentials/index.ts#L14)

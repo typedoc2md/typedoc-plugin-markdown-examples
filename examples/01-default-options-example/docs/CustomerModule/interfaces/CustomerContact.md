@@ -1,4 +1,4 @@
-[typedoc-plugin-markdown-examples](../../README.md) • [Readme](../../README.md) \| Docs
+[typedoc-plugin-markdown-examples](../../README.md) • Docs
 
 ***
 
@@ -19,7 +19,7 @@ Primary email address for customer communications.
 
 #### Source
 
-[customer.ts:43](https://github.com/typedoc-plugin-markdown/typedoc-plugin-markdown-examples/blob/20d21e441b853b3f7b2de364c070522db75798b0/examples/src/customer.ts#L43)
+[customer.ts:43](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/src/customer.ts#L43)
 
 ***
 
@@ -31,4 +31,4 @@ Optional phone number for additional contact or urgent communications.
 
 #### Source
 
-[customer.ts:45](https://github.com/typedoc-plugin-markdown/typedoc-plugin-markdown-examples/blob/20d21e441b853b3f7b2de364c070522db75798b0/examples/src/customer.ts#L45)
+[customer.ts:45](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/src/customer.ts#L45)

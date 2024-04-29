@@ -16,6 +16,7 @@ You can also explore the [examples](./examples) folder and view the `typedoc.jso
 - [Customized UX options](./examples/02-ux-options-example/docs/README.md): Showcases how the UX can be customized.
 - [Single page modules](./examples/03-single-page-modules-example/docs/README.md): Showcases output with single page modules.
 - [Packages example](./examples/05-packages-example/docs/README.md): Showcases output for entrypointStrategy "packages".
+- [Customization example](./examples/06-customization-example/docs/README.md): Showcases how output can be customized with hooks and custom theme.
 
 ### Utils
 

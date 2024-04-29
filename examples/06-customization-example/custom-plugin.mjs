@@ -15,7 +15,9 @@ export function load(app) {
 
   app.renderer.markdownHooks.on(
     "index.page.end",
-    () => `___\n*@Copyright XYZ*`
+    () => `***
+content.page.end hook *@Copyright XYZ*
+`
   );
 }
 

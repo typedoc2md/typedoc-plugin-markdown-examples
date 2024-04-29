@@ -5,7 +5,7 @@
 
 # customization-example
 
-> "content.begin" hook - last updated 2024-04-28T21:05:51.647Z
+> "content.begin" hook - last updated 2024-04-29T23:04:34.190Z
 
 ## Interfaces
 
@@ -13,17 +13,11 @@
 
 #### Properties
 
-##### description
+| Property | Type |
+| :------ | :------ |
+| `description` | `string` |
+| `id` | `number` |
+| `title` | `string` |
 
-> **description**: `string`
-
-##### id
-
-> **id**: `number`
-
-##### title
-
-> **title**: `string`
-
-___
-*@Copyright XYZ*
+***
+content.page.end hook *@Copyright XYZ*

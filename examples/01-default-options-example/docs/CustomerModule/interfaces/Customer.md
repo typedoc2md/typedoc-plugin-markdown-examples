@@ -1,4 +1,4 @@
-[typedoc-plugin-markdown-examples](../../README.md) • [Readme](../../README.md) \| Docs
+[typedoc-plugin-markdown-examples](../../README.md) • Docs
 
 ***
 
@@ -19,7 +19,7 @@ The physical address of the customer, used for shipping and billing purposes.
 
 #### Source
 
-[customer.ts:32](https://github.com/typedoc-plugin-markdown/typedoc-plugin-markdown-examples/blob/20d21e441b853b3f7b2de364c070522db75798b0/examples/src/customer.ts#L32)
+[customer.ts:32](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/src/customer.ts#L32)
 
 ***
 
@@ -31,7 +31,7 @@ A unique identifier for the customer, essential for tracking and customer manage
 
 #### Source
 
-[customer.ts:26](https://github.com/typedoc-plugin-markdown/typedoc-plugin-markdown-examples/blob/20d21e441b853b3f7b2de364c070522db75798b0/examples/src/customer.ts#L26)
+[customer.ts:26](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/src/customer.ts#L26)
 
 ***
 
@@ -43,7 +43,7 @@ The primary email address of the customer, used for communication and digital re
 
 #### Source
 
-[customer.ts:30](https://github.com/typedoc-plugin-markdown/typedoc-plugin-markdown-examples/blob/20d21e441b853b3f7b2de364c070522db75798b0/examples/src/customer.ts#L30)
+[customer.ts:30](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/src/customer.ts#L30)
 
 ***
 
@@ -55,7 +55,7 @@ The full name of the customer, used for personalization and identification.
 
 #### Source
 
-[customer.ts:28](https://github.com/typedoc-plugin-markdown/typedoc-plugin-markdown-examples/blob/20d21e441b853b3f7b2de364c070522db75798b0/examples/src/customer.ts#L28)
+[customer.ts:28](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/src/customer.ts#L28)
 
 ***
 
@@ -67,4 +67,4 @@ The classification of the customer, which can affect the level of service and pr
 
 #### Source
 
-[customer.ts:34](https://github.com/typedoc-plugin-markdown/typedoc-plugin-markdown-examples/blob/20d21e441b853b3f7b2de364c070522db75798b0/examples/src/customer.ts#L34)
+[customer.ts:34](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/src/customer.ts#L34)

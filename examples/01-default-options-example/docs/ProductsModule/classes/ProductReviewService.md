@@ -1,4 +1,4 @@
-[typedoc-plugin-markdown-examples](../../README.md) • [Readme](../../README.md) \| Docs
+[typedoc-plugin-markdown-examples](../../README.md) • Docs
 
 ***
 
@@ -26,7 +26,7 @@ Service for managing product reviews.
 
 #### Source
 
-[products.ts:152](https://github.com/typedoc-plugin-markdown/typedoc-plugin-markdown-examples/blob/20d21e441b853b3f7b2de364c070522db75798b0/examples/src/products.ts#L152)
+[products.ts:152](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/src/products.ts#L152)
 
 ## Methods
 
@@ -50,7 +50,7 @@ The added product review.
 
 #### Source
 
-[products.ts:159](https://github.com/typedoc-plugin-markdown/typedoc-plugin-markdown-examples/blob/20d21e441b853b3f7b2de364c070522db75798b0/examples/src/products.ts#L159)
+[products.ts:159](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/src/products.ts#L159)
 
 ***
 
@@ -74,7 +74,7 @@ The average rating for the specified product.
 
 #### Source
 
-[products.ts:178](https://github.com/typedoc-plugin-markdown/typedoc-plugin-markdown-examples/blob/20d21e441b853b3f7b2de364c070522db75798b0/examples/src/products.ts#L178)
+[products.ts:178](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/src/products.ts#L178)
 
 ***
 
@@ -98,4 +98,4 @@ An array of product reviews for the specified product.
 
 #### Source
 
-[products.ts:169](https://github.com/typedoc-plugin-markdown/typedoc-plugin-markdown-examples/blob/20d21e441b853b3f7b2de364c070522db75798b0/examples/src/products.ts#L169)
+[products.ts:169](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/src/products.ts#L169)

@@ -25,7 +25,7 @@ You can also explore the [examples](./examples) folder and view the `typedoc.jso
 
 ### Themes
 
-- [typedoc-github-wiki-theme](./wiki): Showcases output on GitHub Wiki pages.
+- [typedoc-github-wiki-theme](../../wiki): Showcases output on GitHub Wiki pages.
 
 ## Examples on StackBlitz
 

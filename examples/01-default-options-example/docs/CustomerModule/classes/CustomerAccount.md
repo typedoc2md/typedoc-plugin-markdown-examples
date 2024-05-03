@@ -1,8 +1,8 @@
-[typedoc-plugin-markdown-examples](../../README.md) • Docs
+[**Default Options Example**](../../README.md) • **Docs**
 
 ***
 
-[typedoc-plugin-markdown-examples](../../modules.md) / [CustomerModule](../README.md) / CustomerAccount
+[Default Options Example](../../modules.md) / [CustomerModule](../README.md) / CustomerAccount
 
 # Class: CustomerAccount
 
@@ -37,7 +37,7 @@ Customer's billing information.
 
 #### Source
 
-[customer.ts:88](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/src/customer.ts#L88)
+[customer.ts:88](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/customer.ts#L88)
 
 ## Properties
 
@@ -47,7 +47,7 @@ Customer's billing information.
 
 #### Source
 
-[customer.ts:79](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/src/customer.ts#L79)
+[customer.ts:79](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/customer.ts#L79)
 
 ***
 
@@ -57,7 +57,7 @@ Customer's billing information.
 
 #### Source
 
-[customer.ts:78](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/src/customer.ts#L78)
+[customer.ts:78](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/customer.ts#L78)
 
 ***
 
@@ -67,7 +67,7 @@ Customer's billing information.
 
 #### Source
 
-[customer.ts:77](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/src/customer.ts#L77)
+[customer.ts:77](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/customer.ts#L77)
 
 ***
 
@@ -77,7 +77,7 @@ Customer's billing information.
 
 #### Source
 
-[customer.ts:80](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/src/customer.ts#L80)
+[customer.ts:80](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/customer.ts#L80)
 
 ## Methods
 
@@ -99,7 +99,7 @@ The order to be added to the history.
 
 #### Source
 
-[customer.ts:127](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/src/customer.ts#L127)
+[customer.ts:127](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/customer.ts#L127)
 
 ***
 
@@ -117,7 +117,7 @@ The billing details.
 
 #### Source
 
-[customer.ts:119](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/src/customer.ts#L119)
+[customer.ts:119](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/customer.ts#L119)
 
 ***
 
@@ -135,7 +135,7 @@ The contact details.
 
 #### Source
 
-[customer.ts:111](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/src/customer.ts#L111)
+[customer.ts:111](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/customer.ts#L111)
 
 ***
 
@@ -153,7 +153,7 @@ The customer's profile data.
 
 #### Source
 
-[customer.ts:103](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/src/customer.ts#L103)
+[customer.ts:103](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/customer.ts#L103)
 
 ***
 
@@ -171,4 +171,4 @@ An array of order history records.
 
 #### Source
 
-[customer.ts:135](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/src/customer.ts#L135)
+[customer.ts:135](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/customer.ts#L135)

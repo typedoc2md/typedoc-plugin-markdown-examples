@@ -1,8 +1,8 @@
-[typedoc-plugin-markdown-examples](../../README.md) • Docs
+[**Default Options Example**](../../README.md) • **Docs**
 
 ***
 
-[typedoc-plugin-markdown-examples](../../modules.md) / [BillingModule](../README.md) / BillingReceipt
+[Default Options Example](../../modules.md) / [BillingModule](../README.md) / BillingReceipt
 
 # Interface: BillingReceipt
 
@@ -20,7 +20,7 @@ in financial records and customer queries.
 
 #### Source
 
-[billing.ts:86](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/src/billing.ts#L86)
+[billing.ts:86](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/billing.ts#L86)
 
 ***
 
@@ -33,7 +33,7 @@ the transaction was finalized and acknowledged.
 
 #### Source
 
-[billing.ts:98](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/src/billing.ts#L98)
+[billing.ts:98](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/billing.ts#L98)
 
 ***
 
@@ -46,4 +46,4 @@ that took place.
 
 #### Source
 
-[billing.ts:92](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/src/billing.ts#L92)
+[billing.ts:92](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/billing.ts#L92)

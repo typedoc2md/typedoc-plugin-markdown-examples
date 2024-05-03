@@ -1,4 +1,4 @@
-typedoc-plugin-markdown-examples • Docs
+**typedoc-plugin-markdown-examples** • **Docs**
 
 ***
 

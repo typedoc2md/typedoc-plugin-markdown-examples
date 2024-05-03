@@ -1,8 +1,8 @@
-[typedoc-plugin-markdown-examples](../../README.md) • Docs
+[**Default Options Example**](../../README.md) • **Docs**
 
 ***
 
-[typedoc-plugin-markdown-examples](../../modules.md) / [UtilitiesModule](../README.md) / truncateString
+[Default Options Example](../../modules.md) / [UtilitiesModule](../README.md) / truncateString
 
 # Function: truncateString()
 
@@ -28,4 +28,4 @@ The truncated string.
 
 ## Source
 
-[utilities.ts:53](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/src/utilities.ts#L53)
+[utilities.ts:53](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/utilities.ts#L53)

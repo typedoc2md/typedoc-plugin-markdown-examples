@@ -1,8 +1,8 @@
-[typedoc-plugin-markdown-examples](../../README.md) • Docs
+[**Default Options Example**](../../README.md) • **Docs**
 
 ***
 
-[typedoc-plugin-markdown-examples](../../modules.md) / [BillingModule](../README.md) / BillingTransaction
+[Default Options Example](../../modules.md) / [BillingModule](../README.md) / BillingTransaction
 
 # Interface: BillingTransaction
 
@@ -20,7 +20,7 @@ such as cents in USD.
 
 #### Source
 
-[billing.ts:62](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/src/billing.ts#L62)
+[billing.ts:62](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/billing.ts#L62)
 
 ***
 
@@ -32,7 +32,7 @@ Identifier for the order associated with this transaction. Helps link the transa
 
 #### Source
 
-[billing.ts:56](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/src/billing.ts#L56)
+[billing.ts:56](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/billing.ts#L56)
 
 ***
 
@@ -45,7 +45,7 @@ This indicates how the customer chose to pay (e.g., Credit Card, PayPal, Bank Tr
 
 #### Source
 
-[billing.ts:68](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/src/billing.ts#L68)
+[billing.ts:68](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/billing.ts#L68)
 
 ***
 
@@ -58,7 +58,7 @@ transaction is pending, completed, or has failed.
 
 #### Source
 
-[billing.ts:74](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/src/billing.ts#L74)
+[billing.ts:74](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/billing.ts#L74)
 
 ***
 
@@ -71,4 +71,4 @@ throughout the billing process.
 
 #### Source
 
-[billing.ts:51](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/src/billing.ts#L51)
+[billing.ts:51](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/billing.ts#L51)

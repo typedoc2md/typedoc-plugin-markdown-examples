@@ -22,7 +22,7 @@ Therefor heading created by both code comments and TypeDoc generated headings wi
 
 Here we can automatically link to github items and users using [remark-github](https://github.com/remarkjs/remark-github).
 
-Thanks [**@tgreyuk**](https://github.com/tgreyuk) please see issue [#1](https://github.com/tgreyuk/typedoc-plugin-markdown/issues/1).
+Thanks [**@tgreyuk**](https://github.com/tgreyuk) please see issue [#1](https://github.com/typedoc2md/typedoc-plugin-markdown/issues/1).
 
 ## Prettier
 
@@ -55,4 +55,4 @@ In this function Prettier does removes unnecessary escape characters.
 
 #### Source
 
-[index.ts:45](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/09-remark-example/src/index.ts#L45)
+[index.ts:45](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/09-remark-example/src/index.ts#L45)

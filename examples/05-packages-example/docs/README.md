@@ -1,4 +1,4 @@
-packages-example • Docs
+**packages-example** • **Docs**
 
 ***
 

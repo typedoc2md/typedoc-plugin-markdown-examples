@@ -44,7 +44,7 @@ The generated billing receipt.
 
 #### Source
 
-[billing.ts:174](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/src/billing.ts#L174)
+[billing.ts:174](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/billing.ts#L174)
 
 ***
 
@@ -63,4 +63,4 @@ An array of all billing receipts.
 
 #### Source
 
-[billing.ts:189](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/src/billing.ts#L189)
+[billing.ts:189](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/billing.ts#L189)

@@ -1,6 +1,7 @@
 {
   "$schema": "https://typedoc-plugin-markdown.org/schema.json",
   "entryPoints": ["../src/*"],
+  "name": "Default Options Example",
   "plugin": ["typedoc-plugin-markdown"],
   "readme": "./README.md"
 }

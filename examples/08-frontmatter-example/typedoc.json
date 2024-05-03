@@ -2,8 +2,11 @@
   "$schema": "https://typedoc-plugin-markdown.org/schema.json",
   "name": "frontmatter-example",
   "entryPoints": ["./src/index.ts"],
-  "plugin": ["typedoc-plugin-markdown", "typedoc-plugin-frontmatter"],
-  "githubPages": false,
+  "plugin": [
+    "typedoc-plugin-markdown",
+    "typedoc-plugin-frontmatter",
+    "./custom-frontmatter.mjs"
+  ],
   "hidePageHeader": true,
   "hideGenerator": true,
   "readme": "none",

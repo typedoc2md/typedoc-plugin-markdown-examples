@@ -11,7 +11,7 @@
     "unified-prettier",
     [
       "remark-github",
-      { "repository": "https://github.com/tgreyuk/typedoc-plugin-markdown" }
+      { "repository": "https://github.com/typedoc2md/typedoc-plugin-markdown" }
     ],
     ["remark-toc", { "heading": "Table of Contents", "maxDepth": 3 }]
   ]

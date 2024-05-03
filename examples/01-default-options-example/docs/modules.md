@@ -1,8 +1,8 @@
-[typedoc-plugin-markdown-examples](README.md) • Docs
+[**Default Options Example**](README.md) • **Docs**
 
 ***
 
-# typedoc-plugin-markdown-examples
+# Default Options Example
 
 ## Modules
 

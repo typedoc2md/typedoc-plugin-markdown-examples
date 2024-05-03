@@ -42,7 +42,7 @@ The added product review.
 
 #### Source
 
-[products.ts:159](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/src/products.ts#L159)
+[products.ts:159](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/products.ts#L159)
 
 ***
 
@@ -66,7 +66,7 @@ The average rating for the specified product.
 
 #### Source
 
-[products.ts:178](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/src/products.ts#L178)
+[products.ts:178](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/products.ts#L178)
 
 ***
 
@@ -90,4 +90,4 @@ An array of product reviews for the specified product.
 
 #### Source
 
-[products.ts:169](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/src/products.ts#L169)
+[products.ts:169](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/products.ts#L169)

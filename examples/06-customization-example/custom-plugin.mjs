@@ -1,5 +1,5 @@
 // @ts-check
-import * as fs from "fs";
+
 import { MarkdownTheme, MarkdownThemeContext } from "typedoc-plugin-markdown";
 
 /**

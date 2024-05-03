@@ -1,8 +1,8 @@
-[typedoc-plugin-markdown-examples](../../README.md) • Docs
+[**Default Options Example**](../../README.md) • **Docs**
 
 ***
 
-[typedoc-plugin-markdown-examples](../../modules.md) / [BillingModule](../README.md) / BillingService
+[Default Options Example](../../modules.md) / [BillingModule](../README.md) / BillingService
 
 # Class: BillingService
 
@@ -29,7 +29,7 @@ Holds all processed transactions within the service.
 
 #### Source
 
-[billing.ts:108](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/src/billing.ts#L108)
+[billing.ts:108](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/billing.ts#L108)
 
 ## Methods
 
@@ -48,7 +48,7 @@ An array of all billing transactions.
 
 #### Source
 
-[billing.ts:126](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/src/billing.ts#L126)
+[billing.ts:126](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/billing.ts#L126)
 
 ***
 
@@ -73,4 +73,4 @@ The processed billing transaction, now stored in the service.
 
 #### Source
 
-[billing.ts:116](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/src/billing.ts#L116)
+[billing.ts:116](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/billing.ts#L116)

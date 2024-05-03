@@ -1,8 +1,9 @@
 ---
+title: SomeClass
 layout: docs
 sidebar: true
 author: Joe Bloggs
-description: Some description
+description: Class description
 ---
 
 [frontmatter-example](../README.md) / SomeClass

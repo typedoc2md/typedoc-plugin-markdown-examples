@@ -1,6 +1,13 @@
 /**
  * @author Joe Bloggs
  *
- * @description Some description
+ * @description Class description
  */
 export class SomeClass {}
+
+/**
+ * @description Interface description
+ */
+export interface SomeInterface {
+  x: string;
+}

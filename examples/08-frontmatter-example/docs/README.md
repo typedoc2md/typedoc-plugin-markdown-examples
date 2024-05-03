@@ -8,3 +8,7 @@ sidebar: true
 ## Classes
 
 - [SomeClass](classes/SomeClass.md)
+
+## Interfaces
+
+- [SomeInterface](interfaces/SomeInterface.md)

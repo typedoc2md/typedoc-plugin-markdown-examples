@@ -1,4 +1,4 @@
-typedoc-plugin-markdown-examples • [Docs](modules.md)
+**Default Options Example** • [**Docs**](modules.md)
 
 ***
 

@@ -1,8 +1,8 @@
-[typedoc-plugin-markdown-examples](../../README.md) • Docs
+[**Default Options Example**](../../README.md) • **Docs**
 
 ***
 
-[typedoc-plugin-markdown-examples](../../modules.md) / [ProductsModule](../README.md) / Product
+[Default Options Example](../../modules.md) / [ProductsModule](../README.md) / Product
 
 # Interface: Product
 
@@ -23,7 +23,7 @@ Name of the product.
 
 #### Source
 
-[products.ts:16](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/src/products.ts#L16)
+[products.ts:16](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/products.ts#L16)
 
 ***
 
@@ -35,7 +35,7 @@ Price of the product in the system's set currency.
 
 #### Source
 
-[products.ts:18](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/src/products.ts#L18)
+[products.ts:18](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/products.ts#L18)
 
 ***
 
@@ -47,4 +47,4 @@ Unique identifier for the product.
 
 #### Source
 
-[products.ts:14](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/bacb1c2264a9626cba5f9e7959f4fc899171a745/examples/src/products.ts#L14)
+[products.ts:14](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/products.ts#L14)

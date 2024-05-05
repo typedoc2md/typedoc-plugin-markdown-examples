@@ -7,7 +7,7 @@
  *
  * Internally typedoc-plugin-remark has added the required toc heading before the first h2 in the document.
  *
- * Therefor heading created by both code comments and TypeDoc generated headings will form part of the TOC.
+ * Therefore heading created by both code comments and TypeDoc generated headings will form part of the TOC.
  *
  * @github
  *
@@ -19,7 +19,7 @@
  *
  * This page has been formatted using the [unified-prettier](https://www.npmjs.com/package/unified-prettier) plugin.
  *
- * typedoc-plugin-markdown does produce well formatted code, however Pretter also:
+ * typedoc-plugin-markdown does produce well formatted code, however Prettier also:
  *
  * - Removes unnecessary escape characters.
  * - Formats code blocks inside comment fenced blocks.

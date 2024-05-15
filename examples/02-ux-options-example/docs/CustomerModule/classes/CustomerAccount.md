@@ -36,7 +36,7 @@ Constructs a new CustomerAccount instance.
 
 #### Source
 
-[customer.ts:88](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/customer.ts#L88)
+[customer.ts:88](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/src/customer.ts#L88)
 
 ## Properties
 
@@ -69,7 +69,7 @@ Adds a new order to the customer's historical record.
 
 #### Source
 
-[customer.ts:127](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/customer.ts#L127)
+[customer.ts:127](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/src/customer.ts#L127)
 
 ***
 
@@ -89,7 +89,7 @@ The billing details.
 
 #### Source
 
-[customer.ts:119](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/customer.ts#L119)
+[customer.ts:119](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/src/customer.ts#L119)
 
 ***
 
@@ -109,7 +109,7 @@ The contact details.
 
 #### Source
 
-[customer.ts:111](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/customer.ts#L111)
+[customer.ts:111](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/src/customer.ts#L111)
 
 ***
 
@@ -129,7 +129,7 @@ The customer's profile data.
 
 #### Source
 
-[customer.ts:103](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/customer.ts#L103)
+[customer.ts:103](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/src/customer.ts#L103)
 
 ***
 
@@ -149,4 +149,4 @@ An array of order history records.
 
 #### Source
 
-[customer.ts:135](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/customer.ts#L135)
+[customer.ts:135](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/src/customer.ts#L135)

@@ -14,7 +14,7 @@
     "typedoc": "0.25.13",
     "typedoc-github-wiki-theme": "^2.0.0",
     "typedoc-plugin-frontmatter": "^1.0.0",
-    "typedoc-plugin-markdown": "^4.0.0",
+    "typedoc-plugin-markdown": "^4.0.2",
     "typedoc-plugin-remark": "^1.0.0",
     "typescript": "^5.4.5",
     "unified-prettier": "^2.0.1"

@@ -91,7 +91,7 @@ This method is typically called after a transaction is completed to maintain a r
 
 ###### Source
 
-[billing.ts:145](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/billing.ts#L145)
+[billing.ts:145](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/src/billing.ts#L145)
 
 ##### getBillingHistory()
 
@@ -110,7 +110,7 @@ An array of all billing transactions in the history.
 
 ###### Source
 
-[billing.ts:154](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/billing.ts#L154)
+[billing.ts:154](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/src/billing.ts#L154)
 
 ***
 
@@ -162,7 +162,7 @@ The generated billing receipt.
 
 ###### Source
 
-[billing.ts:174](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/billing.ts#L174)
+[billing.ts:174](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/src/billing.ts#L174)
 
 ##### getAllReceipts()
 
@@ -181,7 +181,7 @@ An array of all billing receipts.
 
 ###### Source
 
-[billing.ts:189](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/billing.ts#L189)
+[billing.ts:189](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/src/billing.ts#L189)
 
 ***
 
@@ -227,7 +227,7 @@ An array of all billing transactions.
 
 ###### Source
 
-[billing.ts:126](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/billing.ts#L126)
+[billing.ts:126](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/src/billing.ts#L126)
 
 ##### processTransaction()
 
@@ -252,7 +252,7 @@ The processed billing transaction, now stored in the service.
 
 ###### Source
 
-[billing.ts:116](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/billing.ts#L116)
+[billing.ts:116](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/src/billing.ts#L116)
 
 ## Interfaces
 
@@ -265,9 +265,9 @@ Provides a record of the transaction for both the customer and the business.
 
 | Property | Type | Description |
 | :------ | :------ | :------ |
-| `receiptId` | `string` | Unique identifier for the receipt. This ID is crucial for referencing and tracking the receipt<br />in financial records and customer queries. |
-| `timestamp` | `number` | The timestamp (in UNIX epoch time) when the receipt was generated. Provides a precise record of when<br />the transaction was finalized and acknowledged. |
-| `transaction` | [`BillingTransaction`](BillingModule.md#billingtransaction) | The transaction details associated with this receipt. Links the receipt to the actual transaction<br />that took place. |
+| `receiptId` | `string` | Unique identifier for the receipt. This ID is crucial for referencing and tracking the receipt in financial records and customer queries. |
+| `timestamp` | `number` | The timestamp (in UNIX epoch time) when the receipt was generated. Provides a precise record of when the transaction was finalized and acknowledged. |
+| `transaction` | [`BillingTransaction`](BillingModule.md#billingtransaction) | The transaction details associated with this receipt. Links the receipt to the actual transaction that took place. |
 
 ***
 
@@ -280,8 +280,8 @@ This structure encapsulates all key details of a financial transaction within th
 
 | Property | Type | Description |
 | :------ | :------ | :------ |
-| `amount` | `number` | The total amount of money involved in the transaction. This is usually in the smallest unit of the currency,<br />such as cents in USD. |
+| `amount` | `number` | The total amount of money involved in the transaction. This is usually in the smallest unit of the currency, such as cents in USD. |
 | `orderId` | `string` | Identifier for the order associated with this transaction. Helps link the transaction to specific goods or services purchased. |
-| `paymentMethod` | [`PaymentMethod`](BillingModule.md#paymentmethod) | The method of payment used for the transaction, as defined by the PaymentMethod enum.<br />This indicates how the customer chose to pay (e.g., Credit Card, PayPal, Bank Transfer). |
-| `status` | [`TransactionStatus`](BillingModule.md#transactionstatus) | The current status of the transaction, categorized by the TransactionStatus enum. Indicates whether the<br />transaction is pending, completed, or has failed. |
-| `transactionId` | `string` | Unique identifier for the transaction. This ID is used to track and reference the transaction<br />throughout the billing process. |
+| `paymentMethod` | [`PaymentMethod`](BillingModule.md#paymentmethod) | The method of payment used for the transaction, as defined by the PaymentMethod enum. This indicates how the customer chose to pay (e.g., Credit Card, PayPal, Bank Transfer). |
+| `status` | [`TransactionStatus`](BillingModule.md#transactionstatus) | The current status of the transaction, categorized by the TransactionStatus enum. Indicates whether the transaction is pending, completed, or has failed. |
+| `transactionId` | `string` | Unique identifier for the transaction. This ID is used to track and reference the transaction throughout the billing process. |

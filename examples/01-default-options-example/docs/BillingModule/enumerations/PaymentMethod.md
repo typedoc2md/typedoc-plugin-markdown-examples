@@ -19,7 +19,7 @@ Payment via direct bank transfer. Used typically for larger transactions or wher
 
 #### Source
 
-[billing.ts:24](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/billing.ts#L24)
+[billing.ts:24](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/src/billing.ts#L24)
 
 ***
 
@@ -31,7 +31,7 @@ Payment through credit card.
 
 #### Source
 
-[billing.ts:18](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/billing.ts#L18)
+[billing.ts:18](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/src/billing.ts#L18)
 
 ***
 
@@ -43,4 +43,4 @@ Payment through PayPal. Ideal for users who prefer not to directly use their cre
 
 #### Source
 
-[billing.ts:21](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/billing.ts#L21)
+[billing.ts:21](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/src/billing.ts#L21)

@@ -42,7 +42,7 @@ The added product details.
 
 #### Source
 
-[products.ts:68](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/products.ts#L68)
+[products.ts:68](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/src/products.ts#L68)
 
 ***
 
@@ -60,7 +60,7 @@ An array of all product details.
 
 #### Source
 
-[products.ts:77](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/products.ts#L77)
+[products.ts:77](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/src/products.ts#L77)
 
 ***
 
@@ -84,7 +84,7 @@ The product details with the specified ID.
 
 #### Source
 
-[products.ts:86](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/products.ts#L86)
+[products.ts:86](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/src/products.ts#L86)
 
 ***
 
@@ -108,7 +108,7 @@ An array of product details in the specified category.
 
 #### Source
 
-[products.ts:95](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/products.ts#L95)
+[products.ts:95](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/src/products.ts#L95)
 
 ***
 
@@ -132,7 +132,7 @@ The removed product details.
 
 #### Source
 
-[products.ts:124](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/products.ts#L124)
+[products.ts:124](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/src/products.ts#L124)
 
 ***
 
@@ -157,4 +157,4 @@ The updated product details.
 
 #### Source
 
-[products.ts:105](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/products.ts#L105)
+[products.ts:105](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/src/products.ts#L105)

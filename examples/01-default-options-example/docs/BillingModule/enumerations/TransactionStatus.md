@@ -19,7 +19,7 @@ Transaction has been successfully processed.
 
 #### Source
 
-[billing.ts:36](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/billing.ts#L36)
+[billing.ts:36](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/src/billing.ts#L36)
 
 ***
 
@@ -31,7 +31,7 @@ Transaction failed due to an error or rejection.
 
 #### Source
 
-[billing.ts:39](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/billing.ts#L39)
+[billing.ts:39](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/src/billing.ts#L39)
 
 ***
 
@@ -43,4 +43,4 @@ Transaction has been initiated but not yet processed.
 
 #### Source
 
-[billing.ts:33](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/billing.ts#L33)
+[billing.ts:33](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/src/billing.ts#L33)

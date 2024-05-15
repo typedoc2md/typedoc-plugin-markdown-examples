@@ -9,8 +9,8 @@ This structure encapsulates all key details of a financial transaction within th
 
 | Property | Type | Description |
 | :------ | :------ | :------ |
-| `amount` | `number` | The total amount of money involved in the transaction. This is usually in the smallest unit of the currency,<br />such as cents in USD. |
+| `amount` | `number` | The total amount of money involved in the transaction. This is usually in the smallest unit of the currency, such as cents in USD. |
 | `orderId` | `string` | Identifier for the order associated with this transaction. Helps link the transaction to specific goods or services purchased. |
-| `paymentMethod` | [`PaymentMethod`](../wiki/BillingModule.Enumeration.PaymentMethod) | The method of payment used for the transaction, as defined by the PaymentMethod enum.<br />This indicates how the customer chose to pay (e.g., Credit Card, PayPal, Bank Transfer). |
-| `status` | [`TransactionStatus`](../wiki/BillingModule.Enumeration.TransactionStatus) | The current status of the transaction, categorized by the TransactionStatus enum. Indicates whether the<br />transaction is pending, completed, or has failed. |
-| `transactionId` | `string` | Unique identifier for the transaction. This ID is used to track and reference the transaction<br />throughout the billing process. |
+| `paymentMethod` | [`PaymentMethod`](../wiki/BillingModule.Enumeration.PaymentMethod) | The method of payment used for the transaction, as defined by the PaymentMethod enum. This indicates how the customer chose to pay (e.g., Credit Card, PayPal, Bank Transfer). |
+| `status` | [`TransactionStatus`](../wiki/BillingModule.Enumeration.TransactionStatus) | The current status of the transaction, categorized by the TransactionStatus enum. Indicates whether the transaction is pending, completed, or has failed. |
+| `transactionId` | `string` | Unique identifier for the transaction. This ID is used to track and reference the transaction throughout the billing process. |

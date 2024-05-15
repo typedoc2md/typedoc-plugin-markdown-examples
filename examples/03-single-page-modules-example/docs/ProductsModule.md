@@ -72,7 +72,7 @@ The added product details.
 
 ###### Source
 
-[products.ts:68](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/products.ts#L68)
+[products.ts:68](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/src/products.ts#L68)
 
 ##### getAllProducts()
 
@@ -90,7 +90,7 @@ An array of all product details.
 
 ###### Source
 
-[products.ts:77](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/products.ts#L77)
+[products.ts:77](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/src/products.ts#L77)
 
 ##### getProductById()
 
@@ -114,7 +114,7 @@ The product details with the specified ID.
 
 ###### Source
 
-[products.ts:86](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/products.ts#L86)
+[products.ts:86](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/src/products.ts#L86)
 
 ##### getProductsByCategory()
 
@@ -138,7 +138,7 @@ An array of product details in the specified category.
 
 ###### Source
 
-[products.ts:95](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/products.ts#L95)
+[products.ts:95](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/src/products.ts#L95)
 
 ##### removeProduct()
 
@@ -162,7 +162,7 @@ The removed product details.
 
 ###### Source
 
-[products.ts:124](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/products.ts#L124)
+[products.ts:124](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/src/products.ts#L124)
 
 ##### updateProductDetails()
 
@@ -187,7 +187,7 @@ The updated product details.
 
 ###### Source
 
-[products.ts:105](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/products.ts#L105)
+[products.ts:105](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/src/products.ts#L105)
 
 ***
 
@@ -237,7 +237,7 @@ The added product review.
 
 ###### Source
 
-[products.ts:159](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/products.ts#L159)
+[products.ts:159](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/src/products.ts#L159)
 
 ##### getAverageRating()
 
@@ -261,7 +261,7 @@ The average rating for the specified product.
 
 ###### Source
 
-[products.ts:178](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/products.ts#L178)
+[products.ts:178](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/src/products.ts#L178)
 
 ##### getProductReviews()
 
@@ -285,7 +285,7 @@ An array of product reviews for the specified product.
 
 ###### Source
 
-[products.ts:169](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/products.ts#L169)
+[products.ts:169](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/src/products.ts#L169)
 
 ## Interfaces
 
@@ -321,8 +321,8 @@ Extends the basic Product interface to include more comprehensive attributes for
 
 | Property | Type | Description | Inherited from |
 | :------ | :------ | :------ | :------ |
-| `category` | [`ProductCategory`](ProductsModule.md#productcategory) | Category of the product as defined by the ProductCategory enum. This categorization helps in organizing products<br />into sections or departments, facilitating easier product discovery and management. | - |
-| `description` | `string` | Detailed textual description of the product. This provides potential buyers with more information about the<br />product's features, usage, and benefits. | - |
+| `category` | [`ProductCategory`](ProductsModule.md#productcategory) | Category of the product as defined by the ProductCategory enum. This categorization helps in organizing products into sections or departments, facilitating easier product discovery and management. | - |
+| `description` | `string` | Detailed textual description of the product. This provides potential buyers with more information about the product's features, usage, and benefits. | - |
 | `name` | `string` | Name of the product. | [`Product`](ProductsModule.md#product).`name` |
 | `price` | `number` | Price of the product in the system's set currency. | [`Product`](ProductsModule.md#product).`price` |
 | `productId` | `string` | Unique identifier for the product. | [`Product`](ProductsModule.md#product).`productId` |

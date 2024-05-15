@@ -35,7 +35,7 @@ The number of days between the two dates.
 
 #### Source
 
-[index.ts:14](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/05-packages-example/packages/date-time-utils/index.ts#L14)
+[index.ts:14](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/05-packages-example/packages/date-time-utils/index.ts#L14)
 
 ***
 
@@ -59,4 +59,4 @@ True if the date is a weekend (Saturday or Sunday), false otherwise.
 
 #### Source
 
-[index.ts:24](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/05-packages-example/packages/date-time-utils/index.ts#L24)
+[index.ts:24](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/05-packages-example/packages/date-time-utils/index.ts#L24)

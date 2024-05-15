@@ -16,7 +16,7 @@ The [remark-toc](https://github.com/remarkjs/remark-toc) plugin has automaticall
 
 Internally typedoc-plugin-remark has added the required toc heading before the first h2 in the document.
 
-Therefor heading created by both code comments and TypeDoc generated headings will form part of the TOC.
+Therefore heading created by both code comments and TypeDoc generated headings will form part of the TOC.
 
 ## Github
 
@@ -28,7 +28,7 @@ Thanks [**@tgreyuk**](https://github.com/tgreyuk) please see issue [#1](https://
 
 This page has been formatted using the [unified-prettier](https://www.npmjs.com/package/unified-prettier) plugin.
 
-typedoc-plugin-markdown does produce well formatted code, however Pretter also:
+typedoc-plugin-markdown does produce well formatted code, however Prettier also:
 
 - Removes unnecessary escape characters.
 - Formats code blocks inside comment fenced blocks.
@@ -55,4 +55,4 @@ In this function Prettier does removes unnecessary escape characters.
 
 #### Source
 
-[index.ts:45](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/09-remark-example/src/index.ts#L45)
+[index.ts:45](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/09-remark-example/src/index.ts#L45)

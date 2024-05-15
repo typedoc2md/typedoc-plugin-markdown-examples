@@ -29,7 +29,7 @@ Stores all shipment records. This array acts as a database to keep track of all 
 
 #### Source
 
-[shipping.ts:42](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/shipping.ts#L42)
+[shipping.ts:42](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/src/shipping.ts#L42)
 
 ## Methods
 
@@ -48,7 +48,7 @@ An array of all shipping records.
 
 #### Source
 
-[shipping.ts:60](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/shipping.ts#L60)
+[shipping.ts:60](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/src/shipping.ts#L60)
 
 ***
 
@@ -73,4 +73,4 @@ The shipment record that was added to the shipments list.
 
 #### Source
 
-[shipping.ts:50](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/e63f907fc136a040020fb1d12b594c3baad2ce3b/examples/src/shipping.ts#L50)
+[shipping.ts:50](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/src/shipping.ts#L50)

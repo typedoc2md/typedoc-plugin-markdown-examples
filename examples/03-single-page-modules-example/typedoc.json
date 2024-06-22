@@ -14,5 +14,6 @@
   "textContentMappings": {
     "breadcrumbs.home": "Home"
   },
-  "outputFileStrategy": "modules"
+  "outputFileStrategy": "modules",
+  "gitRevision": "main"
 }

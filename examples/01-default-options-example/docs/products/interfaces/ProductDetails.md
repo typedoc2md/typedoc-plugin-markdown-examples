@@ -24,7 +24,7 @@ into sections or departments, facilitating easier product discovery and manageme
 
 #### Defined in
 
-products.ts:54
+[products.ts:54](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/products.ts#L54)
 
 ***
 
@@ -37,7 +37,7 @@ product's features, usage, and benefits.
 
 #### Defined in
 
-products.ts:48
+[products.ts:48](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/products.ts#L48)
 
 ***
 
@@ -53,7 +53,7 @@ Name of the product.
 
 #### Defined in
 
-products.ts:16
+[products.ts:16](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/products.ts#L16)
 
 ***
 
@@ -69,7 +69,7 @@ Price of the product in the system's set currency.
 
 #### Defined in
 
-products.ts:18
+[products.ts:18](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/products.ts#L18)
 
 ***
 
@@ -85,4 +85,4 @@ Unique identifier for the product.
 
 #### Defined in
 
-products.ts:14
+[products.ts:14](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/products.ts#L14)

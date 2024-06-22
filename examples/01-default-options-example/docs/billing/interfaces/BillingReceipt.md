@@ -20,7 +20,7 @@ in financial records and customer queries.
 
 #### Defined in
 
-billing.ts:85
+[billing.ts:85](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/billing.ts#L85)
 
 ***
 
@@ -33,7 +33,7 @@ the transaction was finalized and acknowledged.
 
 #### Defined in
 
-billing.ts:97
+[billing.ts:97](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/billing.ts#L97)
 
 ***
 
@@ -46,4 +46,4 @@ that took place.
 
 #### Defined in
 
-billing.ts:91
+[billing.ts:91](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/billing.ts#L91)

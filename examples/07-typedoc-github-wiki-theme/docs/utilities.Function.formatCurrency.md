@@ -22,4 +22,4 @@ The formatted currency string in the format "$1,234.56".
 
 ## Defined in
 
-utilities.ts:17
+[utilities.ts:17](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/utilities.ts#L17)

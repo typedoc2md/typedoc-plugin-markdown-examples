@@ -26,4 +26,4 @@ The input string in title case.
 
 ## Defined in
 
-utilities.ts:29
+[utilities.ts:29](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/utilities.ts#L29)

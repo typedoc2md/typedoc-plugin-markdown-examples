@@ -27,7 +27,7 @@ Constructs a new CustomerAccount instance.
 
 #### Defined in
 
-customer.ts:88
+[customer.ts:88](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/customer.ts#L88)
 
 ## Methods
 
@@ -49,7 +49,7 @@ Adds a new order to the customer's historical record.
 
 #### Defined in
 
-customer.ts:127
+[customer.ts:127](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/customer.ts#L127)
 
 ***
 
@@ -67,7 +67,7 @@ The billing details.
 
 #### Defined in
 
-customer.ts:119
+[customer.ts:119](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/customer.ts#L119)
 
 ***
 
@@ -85,7 +85,7 @@ The contact details.
 
 #### Defined in
 
-customer.ts:111
+[customer.ts:111](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/customer.ts#L111)
 
 ***
 
@@ -103,7 +103,7 @@ The customer's profile data.
 
 #### Defined in
 
-customer.ts:103
+[customer.ts:103](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/customer.ts#L103)
 
 ***
 
@@ -121,4 +121,4 @@ An array of order history records.
 
 #### Defined in
 
-customer.ts:135
+[customer.ts:135](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/customer.ts#L135)

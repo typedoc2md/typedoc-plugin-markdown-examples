@@ -19,7 +19,7 @@ Transaction has been successfully processed.
 
 #### Defined in
 
-billing.ts:35
+[billing.ts:35](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/billing.ts#L35)
 
 ***
 
@@ -31,7 +31,7 @@ Transaction failed due to an error or rejection.
 
 #### Defined in
 
-billing.ts:38
+[billing.ts:38](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/billing.ts#L38)
 
 ***
 
@@ -43,4 +43,4 @@ Transaction has been initiated but not yet processed.
 
 #### Defined in
 
-billing.ts:32
+[billing.ts:32](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/billing.ts#L32)

@@ -32,7 +32,7 @@ The formatted currency string in the format "$1,234.56".
 
 #### Defined in
 
-utilities.ts:17
+[utilities.ts:17](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/utilities.ts#L17)
 
 ***
 
@@ -51,7 +51,7 @@ The string transformed to title case.
 
 #### Defined in
 
-utilities.ts:41
+[utilities.ts:41](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/utilities.ts#L41)
 
 ***
 
@@ -75,7 +75,7 @@ True if the email address is valid, false otherwise.
 
 #### Defined in
 
-utilities.ts:65
+[utilities.ts:65](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/utilities.ts#L65)
 
 ***
 
@@ -105,7 +105,7 @@ The shuffled array.
 
 #### Defined in
 
-utilities.ts:75
+[utilities.ts:75](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/utilities.ts#L75)
 
 ***
 
@@ -129,7 +129,7 @@ The input string in title case.
 
 #### Defined in
 
-utilities.ts:29
+[utilities.ts:29](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/utilities.ts#L29)
 
 ***
 
@@ -154,4 +154,4 @@ The truncated string.
 
 #### Defined in
 
-utilities.ts:53
+[utilities.ts:53](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/utilities.ts#L53)

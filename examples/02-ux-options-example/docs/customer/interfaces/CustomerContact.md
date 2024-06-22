@@ -13,5 +13,5 @@ Essential for communication and service delivery.
 
 | Property | Type | Description | Defined in |
 | ------ | ------ | ------ | ------ |
-| `email` | `string` | Primary email address for customer communications. | customer.ts:43 |
-| `phone?` | `string` | Optional phone number for additional contact or urgent communications. | customer.ts:45 |
+| `email` | `string` | Primary email address for customer communications. | [customer.ts:43](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/customer.ts#L43) |
+| `phone?` | `string` | Optional phone number for additional contact or urgent communications. | [customer.ts:45](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/customer.ts#L45) |

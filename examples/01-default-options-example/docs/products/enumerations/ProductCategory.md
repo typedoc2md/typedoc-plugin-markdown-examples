@@ -19,7 +19,7 @@ Books category encompasses all genres and types of books, including novels, text
 
 #### Defined in
 
-products.ts:33
+[products.ts:33](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/products.ts#L33)
 
 ***
 
@@ -31,7 +31,7 @@ Clothing category includes apparel items such as shirts, pants, and dresses.
 
 #### Defined in
 
-products.ts:30
+[products.ts:30](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/products.ts#L30)
 
 ***
 
@@ -43,7 +43,7 @@ Electronics category includes items like computers, mobile phones, and other ele
 
 #### Defined in
 
-products.ts:27
+[products.ts:27](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/products.ts#L27)
 
 ***
 
@@ -55,4 +55,4 @@ Home Decor category includes items used for decorating and furnishing a home, li
 
 #### Defined in
 
-products.ts:36
+[products.ts:36](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/products.ts#L36)

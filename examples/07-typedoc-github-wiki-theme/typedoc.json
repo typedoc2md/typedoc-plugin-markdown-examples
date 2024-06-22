@@ -8,5 +8,6 @@
   "parametersFormat": "table",
   "propertiesFormat": "table",
   "typeDeclarationFormat": "table",
-  "indexFormat": "table"
+  "indexFormat": "table",
+  "gitRevision": "main"
 }

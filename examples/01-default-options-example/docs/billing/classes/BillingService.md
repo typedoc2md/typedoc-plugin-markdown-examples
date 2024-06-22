@@ -36,7 +36,7 @@ An array of all billing transactions.
 
 #### Defined in
 
-billing.ts:125
+[billing.ts:125](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/billing.ts#L125)
 
 ***
 
@@ -61,4 +61,4 @@ The processed billing transaction, now stored in the service.
 
 #### Defined in
 
-billing.ts:115
+[billing.ts:115](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/billing.ts#L115)

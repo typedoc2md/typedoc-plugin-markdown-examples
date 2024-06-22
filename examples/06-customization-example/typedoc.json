@@ -8,5 +8,6 @@
   "outputFileStrategy": "members",
   "propertiesFormat": "table",
   "entryFileName": "index",
-  "flattenOutputFiles": true
+  "flattenOutputFiles": true,
+  "gitRevision": "main"
 }

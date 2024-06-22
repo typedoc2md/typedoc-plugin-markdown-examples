@@ -36,7 +36,7 @@ This method is typically called after a transaction is completed to maintain a r
 
 #### Defined in
 
-billing.ts:144
+[billing.ts:144](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/billing.ts#L144)
 
 ***
 
@@ -55,4 +55,4 @@ An array of all billing transactions in the history.
 
 #### Defined in
 
-billing.ts:153
+[billing.ts:153](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/billing.ts#L153)

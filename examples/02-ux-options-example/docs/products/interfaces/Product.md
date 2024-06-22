@@ -17,6 +17,6 @@ Contains the essential identifiers and attributes of a product.
 
 | Property | Type | Description | Defined in |
 | ------ | ------ | ------ | ------ |
-| `name` | `string` | Name of the product. | products.ts:16 |
-| `price` | `number` | Price of the product in the system's set currency. | products.ts:18 |
-| `productId` | `string` | Unique identifier for the product. | products.ts:14 |
+| `name` | `string` | Name of the product. | [products.ts:16](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/products.ts#L16) |
+| `price` | `number` | Price of the product in the system's set currency. | [products.ts:18](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/products.ts#L18) |
+| `productId` | `string` | Unique identifier for the product. | [products.ts:14](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/products.ts#L14) |

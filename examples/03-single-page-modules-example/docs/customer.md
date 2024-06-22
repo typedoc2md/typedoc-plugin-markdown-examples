@@ -19,8 +19,8 @@ These classifications help tailor services and benefits according to customer lo
 
 | Enumeration Member | Value | Description | Defined in |
 | ------ | ------ | ------ | ------ |
-| `Premium` | `"Premium"` | Represents a premium customer who enjoys additional benefits, discounts, and services. | customer.ts:17 |
-| `Regular` | `"Regular"` | Represents a regular customer who receives standard services and pricing. | customer.ts:15 |
+| `Premium` | `"Premium"` | Represents a premium customer who enjoys additional benefits, discounts, and services. | [customer.ts:17](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/customer.ts#L17) |
+| `Regular` | `"Regular"` | Represents a regular customer who receives standard services and pricing. | [customer.ts:15](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/customer.ts#L15) |
 
 ## Classes
 
@@ -56,7 +56,7 @@ Constructs a new CustomerAccount instance.
 
 ###### Defined in
 
-customer.ts:88
+[customer.ts:88](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/customer.ts#L88)
 
 #### Methods
 
@@ -80,7 +80,7 @@ Adds a new order to the customer's historical record.
 
 ###### Defined in
 
-customer.ts:127
+[customer.ts:127](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/customer.ts#L127)
 
 ##### getBillingInfo()
 
@@ -98,7 +98,7 @@ The billing details.
 
 ###### Defined in
 
-customer.ts:119
+[customer.ts:119](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/customer.ts#L119)
 
 ##### getContactInfo()
 
@@ -116,7 +116,7 @@ The contact details.
 
 ###### Defined in
 
-customer.ts:111
+[customer.ts:111](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/customer.ts#L111)
 
 ##### getCustomer()
 
@@ -134,7 +134,7 @@ The customer's profile data.
 
 ###### Defined in
 
-customer.ts:103
+[customer.ts:103](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/customer.ts#L103)
 
 ##### getOrderHistory()
 
@@ -152,7 +152,7 @@ An array of order history records.
 
 ###### Defined in
 
-customer.ts:135
+[customer.ts:135](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/customer.ts#L135)
 
 ***
 
@@ -201,7 +201,7 @@ The added customer account.
 
 ###### Defined in
 
-customer.ts:153
+[customer.ts:153](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/customer.ts#L153)
 
 ##### getAllCustomers()
 
@@ -219,7 +219,7 @@ An array of all customer accounts.
 
 ###### Defined in
 
-customer.ts:171
+[customer.ts:171](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/customer.ts#L171)
 
 ##### getCustomerById()
 
@@ -243,7 +243,7 @@ The customer account with the specified ID.
 
 ###### Defined in
 
-customer.ts:180
+[customer.ts:180](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/customer.ts#L180)
 
 ## Interfaces
 
@@ -256,11 +256,11 @@ Stores comprehensive details about a customer necessary for various business ope
 
 | Property | Type | Description | Defined in |
 | ------ | ------ | ------ | ------ |
-| `address` | `string` | The physical address of the customer, used for shipping and billing purposes. | customer.ts:32 |
-| `customerId` | `string` | A unique identifier for the customer, essential for tracking and customer management. | customer.ts:26 |
-| `email` | `string` | The primary email address of the customer, used for communication and digital receipts. | customer.ts:30 |
-| `name` | `string` | The full name of the customer, used for personalization and identification. | customer.ts:28 |
-| `type` | [`CustomerType`](customer.md#customertype) | The classification of the customer, which can affect the level of service and pricing they receive. | customer.ts:34 |
+| `address` | `string` | The physical address of the customer, used for shipping and billing purposes. | [customer.ts:32](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/customer.ts#L32) |
+| `customerId` | `string` | A unique identifier for the customer, essential for tracking and customer management. | [customer.ts:26](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/customer.ts#L26) |
+| `email` | `string` | The primary email address of the customer, used for communication and digital receipts. | [customer.ts:30](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/customer.ts#L30) |
+| `name` | `string` | The full name of the customer, used for personalization and identification. | [customer.ts:28](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/customer.ts#L28) |
+| `type` | [`CustomerType`](customer.md#customertype) | The classification of the customer, which can affect the level of service and pricing they receive. | [customer.ts:34](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/customer.ts#L34) |
 
 ***
 
@@ -273,8 +273,8 @@ Used for processing payments and managing financial transactions.
 
 | Property | Type | Description | Defined in |
 | ------ | ------ | ------ | ------ |
-| `creditCardNumber` | `string` | The customer's credit card number, used for billing and payment processing. | customer.ts:54 |
-| `expirationDate` | `string` | The expiration date of the credit card, important for validating the card's current validity. | customer.ts:56 |
+| `creditCardNumber` | `string` | The customer's credit card number, used for billing and payment processing. | [customer.ts:54](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/customer.ts#L54) |
+| `expirationDate` | `string` | The expiration date of the credit card, important for validating the card's current validity. | [customer.ts:56](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/customer.ts#L56) |
 
 ***
 
@@ -287,8 +287,8 @@ Essential for communication and service delivery.
 
 | Property | Type | Description | Defined in |
 | ------ | ------ | ------ | ------ |
-| `email` | `string` | Primary email address for customer communications. | customer.ts:43 |
-| `phone?` | `string` | Optional phone number for additional contact or urgent communications. | customer.ts:45 |
+| `email` | `string` | Primary email address for customer communications. | [customer.ts:43](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/customer.ts#L43) |
+| `phone?` | `string` | Optional phone number for additional contact or urgent communications. | [customer.ts:45](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/customer.ts#L45) |
 
 ***
 
@@ -301,6 +301,6 @@ Useful for tracking past transactions and analyzing customer behavior.
 
 | Property | Type | Description | Defined in |
 | ------ | ------ | ------ | ------ |
-| `orderDate` | `Date` | The date when the order was placed, important for historical data and analytics. | customer.ts:67 |
-| `orderId` | `string` | Unique identifier for each order, crucial for order tracking and management. | customer.ts:65 |
-| `totalAmount` | `number` | The total amount spent on the order, used for financial records and customer spending analysis. | customer.ts:69 |
+| `orderDate` | `Date` | The date when the order was placed, important for historical data and analytics. | [customer.ts:67](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/customer.ts#L67) |
+| `orderId` | `string` | Unique identifier for each order, crucial for order tracking and management. | [customer.ts:65](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/customer.ts#L65) |
+| `totalAmount` | `number` | The total amount spent on the order, used for financial records and customer spending analysis. | [customer.ts:69](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/customer.ts#L69) |

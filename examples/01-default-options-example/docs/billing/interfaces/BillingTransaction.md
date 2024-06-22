@@ -20,7 +20,7 @@ such as cents in USD.
 
 #### Defined in
 
-billing.ts:61
+[billing.ts:61](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/billing.ts#L61)
 
 ***
 
@@ -32,7 +32,7 @@ Identifier for the order associated with this transaction. Helps link the transa
 
 #### Defined in
 
-billing.ts:55
+[billing.ts:55](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/billing.ts#L55)
 
 ***
 
@@ -45,7 +45,7 @@ This indicates how the customer chose to pay (e.g., Credit Card, PayPal, Bank Tr
 
 #### Defined in
 
-billing.ts:67
+[billing.ts:67](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/billing.ts#L67)
 
 ***
 
@@ -58,7 +58,7 @@ transaction is pending, completed, or has failed.
 
 #### Defined in
 
-billing.ts:73
+[billing.ts:73](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/billing.ts#L73)
 
 ***
 
@@ -71,4 +71,4 @@ throughout the billing process.
 
 #### Defined in
 
-billing.ts:50
+[billing.ts:50](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/billing.ts#L50)

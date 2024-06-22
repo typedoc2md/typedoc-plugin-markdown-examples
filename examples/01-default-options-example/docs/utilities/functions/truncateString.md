@@ -28,4 +28,4 @@ The truncated string.
 
 ## Defined in
 
-utilities.ts:53
+[utilities.ts:53](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/utilities.ts#L53)

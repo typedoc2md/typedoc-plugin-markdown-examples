@@ -26,4 +26,4 @@ The shuffled array.
 
 ## Defined in
 
-utilities.ts:75
+[utilities.ts:75](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/utilities.ts#L75)

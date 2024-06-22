@@ -19,7 +19,7 @@ The customer's credit card number, used for billing and payment processing.
 
 #### Defined in
 
-customer.ts:54
+[customer.ts:54](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/customer.ts#L54)
 
 ***
 
@@ -31,4 +31,4 @@ The expiration date of the credit card, important for validating the card's curr
 
 #### Defined in
 
-customer.ts:56
+[customer.ts:56](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/customer.ts#L56)

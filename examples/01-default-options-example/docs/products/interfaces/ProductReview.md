@@ -16,7 +16,7 @@ Interface representing a product review.
 
 #### Defined in
 
-products.ts:144
+[products.ts:144](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/products.ts#L144)
 
 ***
 
@@ -26,7 +26,7 @@ products.ts:144
 
 #### Defined in
 
-products.ts:141
+[products.ts:141](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/products.ts#L141)
 
 ***
 
@@ -36,7 +36,7 @@ products.ts:141
 
 #### Defined in
 
-products.ts:143
+[products.ts:143](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/products.ts#L143)
 
 ***
 
@@ -46,7 +46,7 @@ products.ts:143
 
 #### Defined in
 
-products.ts:140
+[products.ts:140](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/products.ts#L140)
 
 ***
 
@@ -56,4 +56,4 @@ products.ts:140
 
 #### Defined in
 
-products.ts:142
+[products.ts:142](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/products.ts#L142)

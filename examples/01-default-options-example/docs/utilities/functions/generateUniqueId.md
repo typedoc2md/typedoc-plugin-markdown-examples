@@ -19,4 +19,4 @@ The string transformed to title case.
 
 ## Defined in
 
-utilities.ts:41
+[utilities.ts:41](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/utilities.ts#L41)

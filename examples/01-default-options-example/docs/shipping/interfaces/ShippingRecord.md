@@ -19,7 +19,7 @@ The destination address where the order should be delivered. This is crucial for
 
 #### Defined in
 
-shipping.ts:26
+[shipping.ts:26](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/shipping.ts#L26)
 
 ***
 
@@ -31,7 +31,7 @@ Identifier for the order being shipped. Links the shipment to a specific custome
 
 #### Defined in
 
-shipping.ts:21
+[shipping.ts:21](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/shipping.ts#L21)
 
 ***
 
@@ -43,7 +43,7 @@ Unique identifier for the shipment. This is used to track and reference the ship
 
 #### Defined in
 
-shipping.ts:16
+[shipping.ts:16](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/shipping.ts#L16)
 
 ***
 
@@ -55,4 +55,4 @@ Current status of the shipment (e.g., "Pending", "Shipped", "Delivered"). Provid
 
 #### Defined in
 
-shipping.ts:31
+[shipping.ts:31](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/shipping.ts#L31)

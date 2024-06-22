@@ -38,7 +38,7 @@ The sum of `a` and `b`.
 
 #### Defined in
 
-[index.ts:15](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/b80b40c4b7617bc48cb05414e6c656078be63721/examples/05-packages-example/packages/simple-math-utils/index.ts#L15)
+[index.ts:15](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/05-packages-example/packages/simple-math-utils/index.ts#L15)
 
 ***
 
@@ -70,7 +70,7 @@ Division by zero is not allowed.
 
 #### Defined in
 
-[index.ts:46](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/b80b40c4b7617bc48cb05414e6c656078be63721/examples/05-packages-example/packages/simple-math-utils/index.ts#L46)
+[index.ts:46](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/05-packages-example/packages/simple-math-utils/index.ts#L46)
 
 ***
 
@@ -98,7 +98,7 @@ The product of `a` and `b`.
 
 #### Defined in
 
-[index.ts:35](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/b80b40c4b7617bc48cb05414e6c656078be63721/examples/05-packages-example/packages/simple-math-utils/index.ts#L35)
+[index.ts:35](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/05-packages-example/packages/simple-math-utils/index.ts#L35)
 
 ***
 
@@ -126,4 +126,4 @@ The difference of `a` and `b`.
 
 #### Defined in
 
-[index.ts:25](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/b80b40c4b7617bc48cb05414e6c656078be63721/examples/05-packages-example/packages/simple-math-utils/index.ts#L25)
+[index.ts:25](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/05-packages-example/packages/simple-math-utils/index.ts#L25)

@@ -9,5 +9,6 @@
   "propertiesFormat": "table",
   "typeDeclarationFormat": "table",
   "indexFormat": "table",
-  "outputFileStrategy": "modules"
+  "outputFileStrategy": "modules",
+  "gitRevision": "main"
 }

@@ -19,7 +19,7 @@ The physical address of the customer, used for shipping and billing purposes.
 
 #### Defined in
 
-customer.ts:32
+[customer.ts:32](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/customer.ts#L32)
 
 ***
 
@@ -31,7 +31,7 @@ A unique identifier for the customer, essential for tracking and customer manage
 
 #### Defined in
 
-customer.ts:26
+[customer.ts:26](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/customer.ts#L26)
 
 ***
 
@@ -43,7 +43,7 @@ The primary email address of the customer, used for communication and digital re
 
 #### Defined in
 
-customer.ts:30
+[customer.ts:30](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/customer.ts#L30)
 
 ***
 
@@ -55,7 +55,7 @@ The full name of the customer, used for personalization and identification.
 
 #### Defined in
 
-customer.ts:28
+[customer.ts:28](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/customer.ts#L28)
 
 ***
 
@@ -67,4 +67,4 @@ The classification of the customer, which can affect the level of service and pr
 
 #### Defined in
 
-customer.ts:34
+[customer.ts:34](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/customer.ts#L34)

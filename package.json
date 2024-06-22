@@ -4,7 +4,7 @@
     "examples/*"
   ],
   "scripts": {
-    "docs": "npm run docs --workspace typedoc-plugin-remark-examples"
+    "docs": "npm run docs --workspaces"
   },
   "author": "Tom Grey",
   "license": "MIT",

@@ -46,7 +46,7 @@ The generated billing receipt.
 
 #### Defined in
 
-billing.ts:173
+[billing.ts:173](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/billing.ts#L173)
 
 ***
 
@@ -67,4 +67,4 @@ An array of all billing receipts.
 
 #### Defined in
 
-billing.ts:188
+[billing.ts:188](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/billing.ts#L188)

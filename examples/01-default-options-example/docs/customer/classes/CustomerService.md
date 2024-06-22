@@ -48,7 +48,7 @@ The added customer account.
 
 #### Defined in
 
-customer.ts:153
+[customer.ts:153](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/customer.ts#L153)
 
 ***
 
@@ -66,7 +66,7 @@ An array of all customer accounts.
 
 #### Defined in
 
-customer.ts:171
+[customer.ts:171](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/customer.ts#L171)
 
 ***
 
@@ -90,4 +90,4 @@ The customer account with the specified ID.
 
 #### Defined in
 
-customer.ts:180
+[customer.ts:180](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/customer.ts#L180)

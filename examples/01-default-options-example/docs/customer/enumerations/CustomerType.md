@@ -19,7 +19,7 @@ Represents a premium customer who enjoys additional benefits, discounts, and ser
 
 #### Defined in
 
-customer.ts:17
+[customer.ts:17](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/customer.ts#L17)
 
 ***
 
@@ -31,4 +31,4 @@ Represents a regular customer who receives standard services and pricing.
 
 #### Defined in
 
-customer.ts:15
+[customer.ts:15](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/customer.ts#L15)

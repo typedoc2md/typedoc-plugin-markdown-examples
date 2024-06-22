@@ -22,9 +22,9 @@ These are used to specify the payment mechanism chosen by a customer.
 
 | Enumeration Member | Value | Description | Defined in |
 | ------ | ------ | ------ | ------ |
-| `BankTransfer` | `"Bank Transfer"` | Payment via direct bank transfer. Used typically for larger transactions or where credit cards and PayPal are not viable. | billing.ts:23 |
-| `CreditCard` | `"Credit Card"` | Payment through credit card. | billing.ts:17 |
-| `PayPal` | `"PayPal"` | Payment through PayPal. Ideal for users who prefer not to directly use their credit card details. | billing.ts:20 |
+| `BankTransfer` | `"Bank Transfer"` | Payment via direct bank transfer. Used typically for larger transactions or where credit cards and PayPal are not viable. | [billing.ts:23](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/billing.ts#L23) |
+| `CreditCard` | `"Credit Card"` | Payment through credit card. | [billing.ts:17](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/billing.ts#L17) |
+| `PayPal` | `"PayPal"` | Payment through PayPal. Ideal for users who prefer not to directly use their credit card details. | [billing.ts:20](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/billing.ts#L20) |
 
 ***
 
@@ -37,9 +37,9 @@ These statuses indicate the current state of a billing transaction in the proces
 
 | Enumeration Member | Value | Description | Defined in |
 | ------ | ------ | ------ | ------ |
-| `Completed` | `"Completed"` | Transaction has been successfully processed. | billing.ts:35 |
-| `Failed` | `"Failed"` | Transaction failed due to an error or rejection. | billing.ts:38 |
-| `Pending` | `"Pending"` | Transaction has been initiated but not yet processed. | billing.ts:32 |
+| `Completed` | `"Completed"` | Transaction has been successfully processed. | [billing.ts:35](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/billing.ts#L35) |
+| `Failed` | `"Failed"` | Transaction failed due to an error or rejection. | [billing.ts:38](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/billing.ts#L38) |
+| `Pending` | `"Pending"` | Transaction has been initiated but not yet processed. | [billing.ts:32](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/billing.ts#L32) |
 
 ## Classes
 
@@ -83,7 +83,7 @@ This method is typically called after a transaction is completed to maintain a r
 
 ###### Defined in
 
-billing.ts:144
+[billing.ts:144](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/billing.ts#L144)
 
 ##### getBillingHistory()
 
@@ -102,7 +102,7 @@ An array of all billing transactions in the history.
 
 ###### Defined in
 
-billing.ts:153
+[billing.ts:153](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/billing.ts#L153)
 
 ***
 
@@ -148,7 +148,7 @@ The generated billing receipt.
 
 ###### Defined in
 
-billing.ts:173
+[billing.ts:173](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/billing.ts#L173)
 
 ##### getAllReceipts()
 
@@ -167,7 +167,7 @@ An array of all billing receipts.
 
 ###### Defined in
 
-billing.ts:188
+[billing.ts:188](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/billing.ts#L188)
 
 ***
 
@@ -207,7 +207,7 @@ An array of all billing transactions.
 
 ###### Defined in
 
-billing.ts:125
+[billing.ts:125](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/billing.ts#L125)
 
 ##### processTransaction()
 
@@ -232,7 +232,7 @@ The processed billing transaction, now stored in the service.
 
 ###### Defined in
 
-billing.ts:115
+[billing.ts:115](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/billing.ts#L115)
 
 ## Interfaces
 
@@ -245,9 +245,9 @@ Provides a record of the transaction for both the customer and the business.
 
 | Property | Type | Description | Defined in |
 | ------ | ------ | ------ | ------ |
-| `receiptId` | `string` | Unique identifier for the receipt. This ID is crucial for referencing and tracking the receipt in financial records and customer queries. | billing.ts:85 |
-| `timestamp` | `number` | The timestamp (in UNIX epoch time) when the receipt was generated. Provides a precise record of when the transaction was finalized and acknowledged. | billing.ts:97 |
-| `transaction` | [`BillingTransaction`](billing.md#billingtransaction) | The transaction details associated with this receipt. Links the receipt to the actual transaction that took place. | billing.ts:91 |
+| `receiptId` | `string` | Unique identifier for the receipt. This ID is crucial for referencing and tracking the receipt in financial records and customer queries. | [billing.ts:85](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/billing.ts#L85) |
+| `timestamp` | `number` | The timestamp (in UNIX epoch time) when the receipt was generated. Provides a precise record of when the transaction was finalized and acknowledged. | [billing.ts:97](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/billing.ts#L97) |
+| `transaction` | [`BillingTransaction`](billing.md#billingtransaction) | The transaction details associated with this receipt. Links the receipt to the actual transaction that took place. | [billing.ts:91](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/billing.ts#L91) |
 
 ***
 
@@ -260,8 +260,8 @@ This structure encapsulates all key details of a financial transaction within th
 
 | Property | Type | Description | Defined in |
 | ------ | ------ | ------ | ------ |
-| `amount` | `number` | The total amount of money involved in the transaction. This is usually in the smallest unit of the currency, such as cents in USD. | billing.ts:61 |
-| `orderId` | `string` | Identifier for the order associated with this transaction. Helps link the transaction to specific goods or services purchased. | billing.ts:55 |
-| `paymentMethod` | [`PaymentMethod`](billing.md#paymentmethod) | The method of payment used for the transaction, as defined by the PaymentMethod enum. This indicates how the customer chose to pay (e.g., Credit Card, PayPal, Bank Transfer). | billing.ts:67 |
-| `status` | [`TransactionStatus`](billing.md#transactionstatus) | The current status of the transaction, categorized by the TransactionStatus enum. Indicates whether the transaction is pending, completed, or has failed. | billing.ts:73 |
-| `transactionId` | `string` | Unique identifier for the transaction. This ID is used to track and reference the transaction throughout the billing process. | billing.ts:50 |
+| `amount` | `number` | The total amount of money involved in the transaction. This is usually in the smallest unit of the currency, such as cents in USD. | [billing.ts:61](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/billing.ts#L61) |
+| `orderId` | `string` | Identifier for the order associated with this transaction. Helps link the transaction to specific goods or services purchased. | [billing.ts:55](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/billing.ts#L55) |
+| `paymentMethod` | [`PaymentMethod`](billing.md#paymentmethod) | The method of payment used for the transaction, as defined by the PaymentMethod enum. This indicates how the customer chose to pay (e.g., Credit Card, PayPal, Bank Transfer). | [billing.ts:67](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/billing.ts#L67) |
+| `status` | [`TransactionStatus`](billing.md#transactionstatus) | The current status of the transaction, categorized by the TransactionStatus enum. Indicates whether the transaction is pending, completed, or has failed. | [billing.ts:73](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/billing.ts#L73) |
+| `transactionId` | `string` | Unique identifier for the transaction. This ID is used to track and reference the transaction throughout the billing process. | [billing.ts:50](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/billing.ts#L50) |

@@ -44,7 +44,7 @@ The added product review.
 
 #### Defined in
 
-products.ts:159
+[products.ts:159](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/products.ts#L159)
 
 ***
 
@@ -70,7 +70,7 @@ The average rating for the specified product.
 
 #### Defined in
 
-products.ts:178
+[products.ts:178](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/products.ts#L178)
 
 ***
 
@@ -96,4 +96,4 @@ An array of product reviews for the specified product.
 
 #### Defined in
 
-products.ts:169
+[products.ts:169](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/products.ts#L169)

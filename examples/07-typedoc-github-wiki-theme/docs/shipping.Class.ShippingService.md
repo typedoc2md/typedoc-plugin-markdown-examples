@@ -32,7 +32,7 @@ An array of all shipping records.
 
 #### Defined in
 
-shipping.ts:61
+[shipping.ts:61](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/shipping.ts#L61)
 
 ***
 
@@ -57,4 +57,4 @@ The shipment record that was added to the shipments list.
 
 #### Defined in
 
-shipping.ts:51
+[shipping.ts:51](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/dummy-api/src/shipping.ts#L51)

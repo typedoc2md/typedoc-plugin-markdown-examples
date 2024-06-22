@@ -14,5 +14,6 @@
     "layout": "docs",
     "sidebar": true
   },
-  "frontmatterCommentTags": ["author", "description"]
+  "frontmatterCommentTags": ["author", "description"],
+  "gitRevision": "main"
 }

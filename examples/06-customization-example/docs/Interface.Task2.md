@@ -7,7 +7,7 @@
 
 # Interface: Task2
 
-> "content.begin" hook - last updated 2024-06-22T12:02:36.634Z
+> "content.begin" hook - last updated 2024-06-22T12:22:17.089Z
 
 ## Properties
 

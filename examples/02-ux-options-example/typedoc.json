@@ -13,5 +13,6 @@
   "expandObjects": true,
   "textContentMappings": {
     "breadcrumbs.home": "Home"
-  }
+  },
+  "gitRevision": "main"
 }

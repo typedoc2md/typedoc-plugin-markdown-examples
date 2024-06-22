@@ -7,5 +7,6 @@
   "readme": "./README.md",
   "mergeReadme": true,
   "indexFormat": "table",
-  "outputFileStrategy": "modules"
+  "outputFileStrategy": "modules",
+  "packageOptions": { "gitRevision": "main" }
 }

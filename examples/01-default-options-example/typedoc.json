@@ -3,5 +3,6 @@
   "entryPoints": ["../../dummy-api/src/*"],
   "name": "Default Options Example",
   "plugin": ["typedoc-plugin-markdown"],
-  "readme": "./README.md"
+  "readme": "./README.md",
+  "gitRevision": "main"
 }

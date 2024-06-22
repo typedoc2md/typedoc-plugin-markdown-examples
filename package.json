@@ -1,7 +1,8 @@
 {
   "name": "typedoc-plugin-markdown-examples",
   "workspaces": [
-    "examples/*"
+    "./examples/core/*",
+    "./examples/utils/*"
   ],
   "scripts": {
     "docs": "npm run docs --workspaces"
@@ -15,7 +16,7 @@
     "typedoc-github-wiki-theme": "^2.0.0",
     "typedoc-plugin-frontmatter": "^1.0.0",
     "typedoc-plugin-markdown": "^4.1.0",
-    "typedoc-plugin-remark": "^1.0.1",
+    "typedoc-plugin-remark": "^1.0.2",
     "typescript": "^5.5.2",
     "unified-prettier": "^2.0.1"
   }

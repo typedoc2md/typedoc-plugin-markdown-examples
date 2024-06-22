@@ -1,0 +1,16 @@
+name: Deploy to Wiki
+on:
+  push:
+    branches:
+      - update
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Deploy to GitHub Wiki
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: "wiki"
+          publish_dir: "./examples/integrations/github-wiki/docs"

@@ -1,7 +1,7 @@
 ## API
 
-- [BillingModule](../wiki/BillingModule)
-- [CustomerModule](../wiki/CustomerModule)
-- [ProductsModule](../wiki/ProductsModule)
-- [ShippingModule](../wiki/ShippingModule)
-- [UtilitiesModule](../wiki/UtilitiesModule)
+- [billing](../wiki/billing)
+- [customer](../wiki/customer)
+- [products](../wiki/products)
+- [shipping](../wiki/shipping)
+- [utilities](../wiki/utilities)

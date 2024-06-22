@@ -1,0 +1,22 @@
+[**typedoc-plugin-markdown-examples**](../../README.md) • **Docs**
+
+***
+
+[Home](../../README.md) / [products](../README.md) / Product
+
+# Interface: Product
+
+Interface representing a product.
+Contains the essential identifiers and attributes of a product.
+
+## Extended by
+
+- [`ProductDetails`](ProductDetails.md)
+
+## Properties
+
+| Property | Type | Description | Defined in |
+| ------ | ------ | ------ | ------ |
+| `name` | `string` | Name of the product. | products.ts:16 |
+| `price` | `number` | Price of the product in the system's set currency. | products.ts:18 |
+| `productId` | `string` | Unique identifier for the product. | products.ts:14 |

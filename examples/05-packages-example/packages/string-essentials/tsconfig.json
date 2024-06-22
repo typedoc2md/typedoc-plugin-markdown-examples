@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
     "module": "commonjs",
+    "lib": ["ES2015"],
     "moduleResolution": "node"
   },
   "include": ["**/*.ts"]

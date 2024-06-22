@@ -15,14 +15,12 @@ This example demonstrates the result of using **typedoc-plugin-markdown** with e
 - Using code blocks for signatures and declarations.
 - Embedding index page into the readme to create a single entry point.
 
-## API Index
-
-### Modules
+## Modules
 
 | Module | Description |
-| :------ | :------ |
-| [BillingModule](BillingModule/README.md) | This module provides the necessary types and services for managing billing operations. |
-| [CustomerModule](CustomerModule/README.md) | This module contains types and services related to customer management. |
-| [ProductsModule](ProductsModule/README.md) | This module contains types and services related to product management. |
-| [ShippingModule](ShippingModule/README.md) | This module contains types and services related to shipping. |
-| [UtilitiesModule](UtilitiesModule/README.md) | This module contains generic utility functions useful for various operations. |
+| ------ | ------ |
+| [billing](billing/README.md) | Includes enums for payment methods and transaction statuses, interfaces for billing transactions and receipts, and services to process transactions, manage billing history, and generate receipts. |
+| [customer](customer/README.md) | This module contains types and services related to customer management. |
+| [products](products/README.md) | This module contains types and services related to product management. |
+| [shipping](shipping/README.md) | This module contains types and services related to shipping. It includes definitions for shipping records and services to manage the logistics of shipping orders. |
+| [utilities](utilities/README.md) | This module contains generic utility functions useful for various operations. |

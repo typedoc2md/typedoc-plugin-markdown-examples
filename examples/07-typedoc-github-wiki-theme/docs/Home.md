@@ -3,9 +3,9 @@
 ## Modules
 
 | Module | Description |
-| :------ | :------ |
-| [BillingModule](../wiki/BillingModule) | This module provides the necessary types and services for managing billing operations. |
-| [CustomerModule](../wiki/CustomerModule) | This module contains types and services related to customer management. |
-| [ProductsModule](../wiki/ProductsModule) | This module contains types and services related to product management. |
-| [ShippingModule](../wiki/ShippingModule) | This module contains types and services related to shipping. |
-| [UtilitiesModule](../wiki/UtilitiesModule) | This module contains generic utility functions useful for various operations. |
+| ------ | ------ |
+| [billing](../wiki/billing) | Includes enums for payment methods and transaction statuses, interfaces for billing transactions and receipts, and services to process transactions, manage billing history, and generate receipts. |
+| [customer](../wiki/customer) | This module contains types and services related to customer management. |
+| [products](../wiki/products) | This module contains types and services related to product management. |
+| [shipping](../wiki/shipping) | This module contains types and services related to shipping. It includes definitions for shipping records and services to manage the logistics of shipping orders. |
+| [utilities](../wiki/utilities) | This module contains generic utility functions useful for various operations. |

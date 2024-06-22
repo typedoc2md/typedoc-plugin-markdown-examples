@@ -23,14 +23,11 @@ You can also explore the [examples](./examples) folder and view the `typedoc.jso
 - [typedoc-plugin-frontmatter](./examples/08-frontmatter-example/docs/README.md): Showcases how frontmatter can be added to pages.
 - [typedoc-plugin-remark](./examples/09-remark-example/docs/README.md): Showcases how output can be parsed with Remark plugins.
 
-### Themes
+### Themes and Integrations
 
-- [typedoc-github-wiki-theme](../../wiki): Showcases output on GitHub Wiki pages.
-
-## Examples on StackBlitz
-
-- [typedoc-vitepress-theme (StackBlitz ↗️)](https://stackblitz.com/~/github.com/typedoc-plugin-markdown/typedoc-vitepress-theme-example): Showcases output for VitePress docs generator.
-- [docusaurus-plugin-typedoc (StackBlitz ↗️)](https://stackblitz.com/~/github.com/typedoc-plugin-markdown/docusaurus-plugin-typedoc-example): Showcases output for Docusaurus docs generator.
+- [typedoc-github-wiki-theme (opens in wiki tab ↗️)](../../wiki): Showcases output on GitHub Wiki pages.
+- [typedoc-plugin-vitepress (opens in demo site ↗️)](../../wiki): Showcases output for VitePress docs generator..
+- [docusaurus-plugin-typedoc (opens in demo site ↗️)](../../wiki): Showcases output for Docusaurus docs generator.
 
 ## Building examples locally
 

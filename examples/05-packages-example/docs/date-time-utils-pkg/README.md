@@ -6,6 +6,8 @@
 
 # date-time-utils-pkg
 
+**`Package Documentation`**
+
 This package provides utility functions for handling dates and times without external libraries,
 including formatting dates, calculating differences between dates, and checking for weekend days.
 
@@ -33,9 +35,9 @@ The end date.
 
 The number of days between the two dates.
 
-#### Source
+#### Defined in
 
-[index.ts:14](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/05-packages-example/packages/date-time-utils/index.ts#L14)
+[index.ts:14](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/b80b40c4b7617bc48cb05414e6c656078be63721/examples/05-packages-example/packages/date-time-utils/index.ts#L14)
 
 ***
 
@@ -57,6 +59,6 @@ The date to check.
 
 True if the date is a weekend (Saturday or Sunday), false otherwise.
 
-#### Source
+#### Defined in
 
-[index.ts:24](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/05-packages-example/packages/date-time-utils/index.ts#L24)
+[index.ts:24](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/b80b40c4b7617bc48cb05414e6c656078be63721/examples/05-packages-example/packages/date-time-utils/index.ts#L24)

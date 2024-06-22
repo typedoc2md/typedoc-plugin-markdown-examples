@@ -20,7 +20,7 @@ Utilizes the Intl.NumberFormat API to handle locale-specific currency formatting
 #### Parameters
 
 | Parameter | Type | Description |
-| :------ | :------ | :------ |
+| ------ | ------ | ------ |
 | `amount` | `number` | The numeric value to be formatted. |
 | `currencyCode` | `string` | The ISO currency code (e.g., USD, EUR) to specify the currency. |
 
@@ -30,9 +30,9 @@ Utilizes the Intl.NumberFormat API to handle locale-specific currency formatting
 
 The formatted currency string in the format "$1,234.56".
 
-#### Source
+#### Defined in
 
-[utilities.ts:17](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/src/utilities.ts#L17)
+utilities.ts:17
 
 ***
 
@@ -49,9 +49,9 @@ Effective for formatting titles or names in a readable format.
 
 The string transformed to title case.
 
-#### Source
+#### Defined in
 
-[utilities.ts:41](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/src/utilities.ts#L41)
+utilities.ts:41
 
 ***
 
@@ -64,7 +64,7 @@ Function to check if a value is a valid email address.
 #### Parameters
 
 | Parameter | Type | Description |
-| :------ | :------ | :------ |
+| ------ | ------ | ------ |
 | `email` | `string` | The email address to be validated. |
 
 #### Returns
@@ -73,9 +73,9 @@ Function to check if a value is a valid email address.
 
 True if the email address is valid, false otherwise.
 
-#### Source
+#### Defined in
 
-[utilities.ts:65](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/src/utilities.ts#L65)
+utilities.ts:65
 
 ***
 
@@ -85,16 +85,16 @@ True if the email address is valid, false otherwise.
 
 Function to shuffle an array.
 
-#### Type parameters
+#### Type Parameters
 
-| Type parameter |
-| :------ |
+| Type Parameter |
+| ------ |
 | `T` |
 
 #### Parameters
 
 | Parameter | Type | Description |
-| :------ | :------ | :------ |
+| ------ | ------ | ------ |
 | `array` | `T`[] | The array to be shuffled. |
 
 #### Returns
@@ -103,9 +103,9 @@ Function to shuffle an array.
 
 The shuffled array.
 
-#### Source
+#### Defined in
 
-[utilities.ts:75](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/src/utilities.ts#L75)
+utilities.ts:75
 
 ***
 
@@ -118,7 +118,7 @@ Function to convert a string to title case.
 #### Parameters
 
 | Parameter | Type | Description |
-| :------ | :------ | :------ |
+| ------ | ------ | ------ |
 | `input` | `string` | The input string. |
 
 #### Returns
@@ -127,9 +127,9 @@ Function to convert a string to title case.
 
 The input string in title case.
 
-#### Source
+#### Defined in
 
-[utilities.ts:29](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/src/utilities.ts#L29)
+utilities.ts:29
 
 ***
 
@@ -142,7 +142,7 @@ Function to truncate a string to a specified length.
 #### Parameters
 
 | Parameter | Type | Description |
-| :------ | :------ | :------ |
+| ------ | ------ | ------ |
 | `input` | `string` | The input string. |
 | `maxLength` | `number` | The maximum length of the truncated string. |
 
@@ -152,6 +152,6 @@ Function to truncate a string to a specified length.
 
 The truncated string.
 
-#### Source
+#### Defined in
 
-[utilities.ts:53](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/src/utilities.ts#L53)
+utilities.ts:53

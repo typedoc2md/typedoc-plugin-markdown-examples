@@ -1,7 +1,7 @@
 /**
  * The comments in this block have been transformed by remark.
  *
- * @inPageToc
+ * ## remark-toc
  *
  * The [remark-toc](https://github.com/remarkjs/remark-toc) plugin has automatically turned page headers into an inline TOC.
  *
@@ -9,13 +9,13 @@
  *
  * Therefore heading created by both code comments and TypeDoc generated headings will form part of the TOC.
  *
- * @github
+ * ## remark-github
  *
  * Here we can automatically link to github items and users using [remark-github](https://github.com/remarkjs/remark-github).
  *
  * Thanks \@tgreyuk please see issue #1.
  *
- * @prettier
+ * ## unified-prettier
  *
  * This page has been formatted using the [unified-prettier](https://www.npmjs.com/package/unified-prettier) plugin.
  *

@@ -6,8 +6,8 @@
 
 ## Modules
 
-- [BillingModule](BillingModule/README.md)
-- [CustomerModule](CustomerModule/README.md)
-- [ProductsModule](ProductsModule/README.md)
-- [ShippingModule](ShippingModule/README.md)
-- [UtilitiesModule](UtilitiesModule/README.md)
+- [billing](billing/README.md)
+- [customer](customer/README.md)
+- [products](products/README.md)
+- [shipping](shipping/README.md)
+- [utilities](utilities/README.md)

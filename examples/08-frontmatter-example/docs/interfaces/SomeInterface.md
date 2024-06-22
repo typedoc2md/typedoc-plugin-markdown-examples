@@ -14,6 +14,6 @@ description: Interface description
 
 > **x**: `string`
 
-#### Source
+#### Defined in
 
-[index.ts:12](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/08-frontmatter-example/src/index.ts#L12)
+[index.ts:12](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/b80b40c4b7617bc48cb05414e6c656078be63721/examples/08-frontmatter-example/src/index.ts#L12)

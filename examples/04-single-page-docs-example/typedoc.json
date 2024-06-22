@@ -1,6 +1,6 @@
 {
   "$schema": "https://typedoc-plugin-markdown.org/schema.json",
-  "entryPoints": ["../src/utilities.ts"],
+  "entryPoints": ["../../dummy-api/src/utilities.ts"],
   "plugin": ["typedoc-plugin-markdown"],
   "readme": "none",
   "mergeReadme": true,

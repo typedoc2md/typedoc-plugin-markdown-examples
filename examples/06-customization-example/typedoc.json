@@ -5,6 +5,8 @@
   "theme": "custom-markdown-theme",
   "readme": "none",
   "disableSources": true,
-  "outputFileStrategy": "modules",
-  "propertiesFormat": "table"
+  "outputFileStrategy": "members",
+  "propertiesFormat": "table",
+  "entryFileName": "index",
+  "flattenOutputFiles": true
 }

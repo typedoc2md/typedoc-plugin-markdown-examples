@@ -6,6 +6,8 @@
 
 # simple-math-utils-pkg
 
+**`Package Documentation`**
+
 This package provides simple arithmetic operations such as addition, subtraction,
 multiplication, and division. It is intended for use as a utility module in larger applications that require
 basic mathematical operations. The functions are type-safe and throw errors for invalid operations like division by zero.
@@ -34,9 +36,9 @@ The second number to add.
 
 The sum of `a` and `b`.
 
-#### Source
+#### Defined in
 
-[index.ts:15](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/05-packages-example/packages/simple-math-utils/index.ts#L15)
+[index.ts:15](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/b80b40c4b7617bc48cb05414e6c656078be63721/examples/05-packages-example/packages/simple-math-utils/index.ts#L15)
 
 ***
 
@@ -66,9 +68,9 @@ The quotient of `a` and `b`.
 
 Division by zero is not allowed.
 
-#### Source
+#### Defined in
 
-[index.ts:46](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/05-packages-example/packages/simple-math-utils/index.ts#L46)
+[index.ts:46](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/b80b40c4b7617bc48cb05414e6c656078be63721/examples/05-packages-example/packages/simple-math-utils/index.ts#L46)
 
 ***
 
@@ -94,9 +96,9 @@ The second number to multiply.
 
 The product of `a` and `b`.
 
-#### Source
+#### Defined in
 
-[index.ts:35](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/05-packages-example/packages/simple-math-utils/index.ts#L35)
+[index.ts:35](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/b80b40c4b7617bc48cb05414e6c656078be63721/examples/05-packages-example/packages/simple-math-utils/index.ts#L35)
 
 ***
 
@@ -122,6 +124,6 @@ The number to subtract.
 
 The difference of `a` and `b`.
 
-#### Source
+#### Defined in
 
-[index.ts:25](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/05-packages-example/packages/simple-math-utils/index.ts#L25)
+[index.ts:25](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/b80b40c4b7617bc48cb05414e6c656078be63721/examples/05-packages-example/packages/simple-math-utils/index.ts#L25)

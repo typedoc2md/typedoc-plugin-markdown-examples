@@ -6,6 +6,8 @@
 
 # string-essentials-pkg
 
+**`Package Documentation`**
+
 This package provides utility functions for string manipulation,
 
 including reversing strings, capitalizing the first letter, and checking for palindromes.
@@ -30,9 +32,9 @@ The string to capitalize.
 
 The string with the first letter capitalized.
 
-#### Source
+#### Defined in
 
-[index.ts:23](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/05-packages-example/packages/string-essentials/index.ts#L23)
+[index.ts:23](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/b80b40c4b7617bc48cb05414e6c656078be63721/examples/05-packages-example/packages/string-essentials/index.ts#L23)
 
 ***
 
@@ -54,9 +56,9 @@ The string to check.
 
 True if the string is a palindrome, false otherwise.
 
-#### Source
+#### Defined in
 
-[index.ts:32](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/05-packages-example/packages/string-essentials/index.ts#L32)
+[index.ts:32](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/b80b40c4b7617bc48cb05414e6c656078be63721/examples/05-packages-example/packages/string-essentials/index.ts#L32)
 
 ***
 
@@ -78,6 +80,6 @@ The string to reverse.
 
 The reversed string.
 
-#### Source
+#### Defined in
 
-[index.ts:14](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/05-packages-example/packages/string-essentials/index.ts#L14)
+[index.ts:14](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/b80b40c4b7617bc48cb05414e6c656078be63721/examples/05-packages-example/packages/string-essentials/index.ts#L14)

@@ -4,13 +4,13 @@ The comments in this block have been transformed by remark.
 
 ## Table of Contents
 
-- [In Page Toc](#in-page-toc)
-- [Github](#github)
-- [Prettier](#prettier)
+- [remark-toc](#remark-toc)
+- [remark-github](#remark-github)
+- [unified-prettier](#unified-prettier)
 - [Variables](#variables)
   - [\_\_variable_with_underscores\_\_](#__variable_with_underscores__)
 
-## In Page Toc
+## remark-toc
 
 The [remark-toc](https://github.com/remarkjs/remark-toc) plugin has automatically turned page headers into an inline TOC.
 
@@ -18,13 +18,13 @@ Internally typedoc-plugin-remark has added the required toc heading before the f
 
 Therefore heading created by both code comments and TypeDoc generated headings will form part of the TOC.
 
-## Github
+## remark-github
 
 Here we can automatically link to github items and users using [remark-github](https://github.com/remarkjs/remark-github).
 
 Thanks [**@tgreyuk**](https://github.com/tgreyuk) please see issue [#1](https://github.com/typedoc2md/typedoc-plugin-markdown/issues/1).
 
-## Prettier
+## unified-prettier
 
 This page has been formatted using the [unified-prettier](https://www.npmjs.com/package/unified-prettier) plugin.
 
@@ -53,6 +53,6 @@ reallyUgly(javascript);
 
 In this function Prettier does removes unnecessary escape characters.
 
-#### Source
+#### Defined in
 
-[index.ts:45](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/38eb87a4b515962ebbfbbc47ab56d2442dce4b6d/examples/09-remark-example/src/index.ts#L45)
+[index.ts:45](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/b80b40c4b7617bc48cb05414e6c656078be63721/examples/09-remark-example/src/index.ts#L45)

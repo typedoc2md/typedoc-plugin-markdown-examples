@@ -1,0 +1,15 @@
+{
+  "name": "docusaurus-plugin-typedoc-example",
+  "workspaces": [
+    "docs-website"
+  ],
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npm run start --workspace docs-website",
+    "build": "npm run build --workspace docs-website"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.6",
+    "typescript": "^5.4.5"
+  }
+}

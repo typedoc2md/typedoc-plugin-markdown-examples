@@ -1,7 +1,7 @@
 {
   "$schema": "https://typedoc-plugin-markdown.org/schema.json",
   "name": "github-wiki-example",
-  "entryPoints": ["../src/*"],
+  "entryPoints": ["../../dummy-api/src/*"],
   "plugin": ["typedoc-plugin-markdown", "typedoc-github-wiki-theme"],
   "readme": "none",
   "enumMembersFormat": "table",

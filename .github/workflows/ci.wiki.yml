@@ -1,16 +1,13 @@
-name: Deploy to Wiki
-on:
-  push:
-    branches:
-      - updates
+name: Documentation
+on: [push]
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: Deploy to GitHub Wiki
-        uses: sharkdp/github-wiki-publish@v1
+      - uses: actions/checkout@v1
+      - name: Upload Documentation to Wiki
+        uses: SwiftDocOrg/github-wiki-publish-action@v1
         with:
-          wiki-repo: ${{ github.repository }}.wiki.git
-          commit-message: "Update Wiki"
-          target-directory: "./examples/integrations/github-wiki/docs"
+          path: "examples/integrations/github-wiki/docs"
+        env:
+          GH_PERSONAL_ACCESS_TOKEN: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}

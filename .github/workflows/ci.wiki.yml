@@ -12,5 +12,5 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: "wiki"
+          publish_branch: "updates"
           publish_dir: "./examples/integrations/github-wiki/docs"

@@ -55,4 +55,4 @@ In this function Prettier does removes unnecessary escape characters.
 
 #### Defined in
 
-index.ts:45
+[index.ts:45](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/utils/remark/src/index.ts#L45)

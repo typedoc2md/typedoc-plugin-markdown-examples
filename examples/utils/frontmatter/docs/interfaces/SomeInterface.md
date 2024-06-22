@@ -16,4 +16,4 @@ description: Interface description
 
 #### Defined in
 
-index.ts:12
+[index.ts:12](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/utils/frontmatter/src/index.ts#L12)

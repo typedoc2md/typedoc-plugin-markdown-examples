@@ -11,7 +11,8 @@ You can also explore the respective directories and explore the configuration of
 - [Customized UX options](./examples/core/02-ux-options/docs/README.md) - showcases how the UX can be customized.
 - [Single page modules](./examples/core/03-single-page-modules/docs/README.md) - showcases output with single page modules.
 - [Packages example](./examples/core/05-packages/docs/README.md) - showcases output for entrypointStrategy "packages".
-- [Customization example](./examples/core/06-customization/docs/README.md) - showcases how output can be customized with hooks and custom theme.
+- [Localization example](./examples/core/06-localization/docs/README.md) - showcases how output can be output in another language.
+- [Customization example](./examples/core/07-customization/docs/index.md) - showcases how output can be customized with hooks and custom theme.
 
 ## Utils Examples
 

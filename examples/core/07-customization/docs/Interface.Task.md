@@ -3,11 +3,11 @@
   <em>Welcome to customization-example with a customised header partial!!</em>
 </div>
 
-[customization-example](index.md) / Task2
+[customization-example](index.md) / Task
 
-# Interface: Task2
+# Interface: Task
 
-> "content.begin" hook - last updated 2024-06-22T21:24:47.164Z
+> "content.begin" hook - last updated 2024-06-22T22:42:18.681Z
 
 ## Properties
 

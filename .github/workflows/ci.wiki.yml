@@ -2,7 +2,7 @@ name: Deploy to Wiki
 on:
   push:
     branches:
-      - update
+      - updates
 jobs:
   deploy:
     runs-on: ubuntu-latest

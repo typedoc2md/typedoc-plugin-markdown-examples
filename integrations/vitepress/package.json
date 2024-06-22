@@ -1,0 +1,13 @@
+{
+  "name": "typedoc-vitepress-theme-example",
+  "workspaces": [
+    "docs"
+  ],
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npm run docs:dev --workspace docs"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}

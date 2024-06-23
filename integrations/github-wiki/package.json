@@ -1,0 +1,13 @@
+{
+  "name": "github-wiki-example",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "docs": "typedoc"
+  },
+  "devDependencies": {
+    "typedoc": "^0.26.0",
+    "typedoc-github-wiki-theme": "^2.0.0",
+    "typedoc-plugin-markdown": "^4.1.0"
+  }
+}

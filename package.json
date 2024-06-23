@@ -8,15 +8,5 @@
     "docs": "npm run docs --workspaces"
   },
   "author": "Tom Grey",
-  "license": "MIT",
-  "devDependencies": {
-    "remark-github": "^12.0.0",
-    "remark-toc": "^9.0.0",
-    "typedoc": "0.26.0",
-    "typedoc-plugin-frontmatter": "^1.0.0",
-    "typedoc-plugin-markdown": "^4.1.0",
-    "typedoc-plugin-remark": "^1.0.2",
-    "typescript": "^5.5.2",
-    "unified-prettier": "^2.0.1"
-  }
+  "license": "MIT"
 }

@@ -6,8 +6,6 @@
 
 # date-time-utils-pkg
 
-**`Package Documentation`**
-
 This package provides utility functions for handling dates and times without external libraries,
 including formatting dates, calculating differences between dates, and checking for weekend days.
 

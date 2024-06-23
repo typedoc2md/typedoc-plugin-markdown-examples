@@ -1,5 +1,5 @@
 {
-  "name": "customization",
+  "name": "default",
   "version": "1.0.0",
   "scripts": {
     "docs": "typedoc"

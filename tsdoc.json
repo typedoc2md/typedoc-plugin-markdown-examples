@@ -3,10 +3,6 @@
   "extends": ["typedoc/tsdoc.json"],
   "tagDefinitions": [
     {
-      "tagName": "@author",
-      "syntaxKind": "block"
-    },
-    {
       "tagName": "@description",
       "syntaxKind": "block"
     }

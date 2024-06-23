@@ -1,7 +1,0 @@
-{
-  "name": "ux-options-example",
-  "version": "1.0.0",
-  "scripts": {
-    "docs": "typedoc"
-  }
-}

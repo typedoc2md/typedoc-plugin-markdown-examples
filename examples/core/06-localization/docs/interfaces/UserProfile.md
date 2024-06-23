@@ -22,7 +22,7 @@
 
 #### 定义于
 
-index.ts:59
+[index.ts:59](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/core/06-localization/src/index.ts#L59)
 
 ***
 
@@ -32,7 +32,7 @@ index.ts:59
 
 #### 定义于
 
-index.ts:58
+[index.ts:58](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/core/06-localization/src/index.ts#L58)
 
 ***
 
@@ -42,7 +42,7 @@ index.ts:58
 
 #### 定义于
 
-index.ts:57
+[index.ts:57](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/core/06-localization/src/index.ts#L57)
 
 ***
 
@@ -52,7 +52,7 @@ index.ts:57
 
 #### 定义于
 
-index.ts:55
+[index.ts:55](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/core/06-localization/src/index.ts#L55)
 
 ***
 
@@ -62,7 +62,7 @@ index.ts:55
 
 #### 定义于
 
-index.ts:56
+[index.ts:56](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/core/06-localization/src/index.ts#L56)
 
 ## 方法
 
@@ -76,7 +76,7 @@ index.ts:56
 
 #### 定义于
 
-index.ts:66
+[index.ts:66](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/core/06-localization/src/index.ts#L66)
 
 ***
 
@@ -90,7 +90,7 @@ index.ts:66
 
 #### 定义于
 
-index.ts:68
+[index.ts:68](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/core/06-localization/src/index.ts#L68)
 
 ***
 
@@ -108,4 +108,4 @@ index.ts:68
 
 #### 定义于
 
-index.ts:67
+[index.ts:67](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/core/06-localization/src/index.ts#L67)

@@ -6,8 +6,6 @@
 
 # string-essentials-pkg
 
-**`Package Documentation`**
-
 This package provides utility functions for string manipulation,
 
 including reversing strings, capitalizing the first letter, and checking for palindromes.

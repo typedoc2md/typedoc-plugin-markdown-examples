@@ -6,8 +6,6 @@
 
 # simple-math-utils-pkg
 
-**`Package Documentation`**
-
 This package provides simple arithmetic operations such as addition, subtraction,
 multiplication, and division. It is intended for use as a utility module in larger applications that require
 basic mathematical operations. The functions are type-safe and throw errors for invalid operations like division by zero.

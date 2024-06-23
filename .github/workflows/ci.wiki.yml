@@ -1,8 +1,8 @@
 name: Deploy Github Wiki
 on:
   push:
-    branches:
-      - wiki
+    paths:
+      - "examples/integrations/github-wiki/docs/**"
 jobs:
   build:
     runs-on: ubuntu-latest

@@ -1,4 +1,4 @@
-## API c
+## API
 
 - [billing](../wiki/billing)
 - [customer](../wiki/customer)

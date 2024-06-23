@@ -38,8 +38,8 @@ const config = {
     [
       "docusaurus-plugin-typedoc",
       {
-        entryPoints: ["../../../dummy-api/src/*"],
-        tsconfig: "../../../dummy-api/tsconfig.json",
+        entryPoints: ["../../dummy-api/src/*"],
+        tsconfig: "../../dummy-api/tsconfig.json",
         plugin: ["./typedoc-plugin.mjs"],
         readme: "none",
         indexFormat: "table",

@@ -1,9 +1,6 @@
 # Dependencies
 /node_modules
 
-# Temp
-docs/api
-
 # Production
 /build
 

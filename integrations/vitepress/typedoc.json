@@ -1,5 +1,5 @@
 {
-  "entryPoints": ["../../../dummy-api/src/*"],
+  "entryPoints": ["../../dummy-api/src/*"],
   "plugin": ["typedoc-plugin-markdown", "typedoc-vitepress-theme"],
   "githubPages": false,
   "readme": "none",

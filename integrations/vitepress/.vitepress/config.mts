@@ -13,7 +13,7 @@ export default defineConfig({
     sidebar: [
       {
         text: "API",
-        link: "/api/",
+        link: "/api",
         items: typedocSidebar,
       },
     ],

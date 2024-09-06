@@ -7,19 +7,24 @@ This repository contains examples of output generated using [typedoc-plugin-mark
 The examples link directly to the typedoc generated output in this repository.
 You can also browse the respective directories and view the configuration of each example.
 
-### Core Examples
+### Core Output
 
-- [default-example](./examples/core/01-default/docs/README.md) - showcases the default output of the plugin.
-- [customized-ux](./examples/core/02-customized-ux/docs/README.md) - showcases how the UX can be customized.
-- [single-page-modules](./examples/core/03-single-page-modules/docs/README.md) - showcases output with single page modules.
-- [packages](./examples/core/05-packages/docs/README.md) - showcases output for entrypointStrategy "packages".
-- [localization](./examples/core/06-localization/docs/README.md) - showcases how output can be output in another language.
-- [customization](./examples/core/07-customization/docs/index.md) - showcases how output can be customized with hooks and custom theme.
+| Example Link                                                         | Description                                                                 |
+| -------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| [Default](./examples/default/docs/README.md)                         | Highlights how the plugin behaves with default settings.                    |
+| [UX Options](./examples/customized-ux/docs/README.md)                | Demonstrates how to adjust the user experience with custom display options. |
+| [Single Page Modules](./examples/single-page-modules/docs/README.md) | Shows how documentation can be generated with a single module per page.     |
+| [Single Page Docs](./examples/single-page-docs/docs/README.md)       | Shows how docs can be generated to a single file with a single entry point. |
+| [Packages](./examples/packages/docs/README.md)                       | Illustrates the output for the "packages" entrypoint strategy.              |
+| [Localization](./examples/localization/docs/README.md)               | Shows how to localize the plugin output to different languages.             |
+| [Customization](./examples/customization/docs/index.md)              | Demonstrates advanced customization using hooks and custom themes.          |
 
-### Utils Examples
+### Utils
 
-- [frontmatter](./examples/utils/frontmatter/docs/README.md) - showcases how frontmatter can be added to pages.
-- [remark](./examples/utils/remark/docs/README.md) - showcases how output can be parsed with Remark plugins.
+| Example Link                                               | Description                                             |
+| ---------------------------------------------------------- | ------------------------------------------------------- |
+| [Frontmatter](./examples/utils/frontmatter/docs/README.md) | Showcases how frontmatter can be added to pages.        |
+| [Remark](./examples/utils/remark/docs/README.md)           | Showcases how output can be parsed with Remark plugins. |
 
 ## Running Examples Locally
 
@@ -30,6 +35,7 @@ If you would like to explore the examples and configure yourself clone the repos
 ```shell
 git clone git@github.com:typedoc2md/typedoc-plugin-markdown-examples.git
 cd typedoc-plugin-markdown-examples
+git submodule update --init --recursive
 ```
 
 ### 2. Install Dependencies
@@ -49,5 +55,5 @@ npm run docs
 To run a specific example:
 
 ```shell
-npm run docs --workspace ux-options
+npm run docs --workspace display-options
 ```

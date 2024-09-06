@@ -1,7 +1,0 @@
-{
-  "name": "customized-ux",
-  "version": "1.0.0",
-  "scripts": {
-    "docs": "typedoc"
-  }
-}

@@ -1,8 +1,7 @@
 {
   "name": "typedoc-plugin-markdown-examples",
   "workspaces": [
-    "./examples/core/*",
-    "./examples/utils/*"
+    "./examples/*"
   ],
   "scripts": {
     "docs": "npm run docs --workspaces"
@@ -10,8 +9,8 @@
   "author": "Tom Grey",
   "license": "MIT",
   "devDependencies": {
-    "typedoc": "0.26.3",
-    "typedoc-plugin-markdown": "^4.1.1",
-    "typescript": "^5.5.3"
+    "typedoc": "0.26.6",
+    "typedoc-plugin-markdown": "^4.2.7",
+    "typescript": "^5.5.4"
   }
 }

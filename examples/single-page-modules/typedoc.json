@@ -1,0 +1,19 @@
+{
+  "$schema": "https://typedoc-plugin-markdown.org/schema.json",
+  "entryPoints": ["../../dummy-typescript-api/src/*"],
+  "plugin": ["typedoc-plugin-markdown"],
+  "readme": "./README.md",
+  "mergeReadme": true,
+  "enumMembersFormat": "table",
+  "parametersFormat": "table",
+  "propertiesFormat": "table",
+  "typeDeclarationFormat": "table",
+  "indexFormat": "table",
+  "useCodeBlocks": true,
+  "expandObjects": true,
+  "textContentMappings": {
+    "breadcrumbs.home": "Home"
+  },
+  "outputFileStrategy": "modules",
+  "gitRevision": "main"
+}

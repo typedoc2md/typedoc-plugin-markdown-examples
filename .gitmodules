@@ -1,0 +1,3 @@
+[submodule "dummy-typescript-api"]
+	path = dummy-typescript-api
+	url = https://github.com/typedoc2md/dummy-typescript-api.git

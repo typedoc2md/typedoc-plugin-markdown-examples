@@ -11,8 +11,8 @@ You can also browse the respective directories and view the configuration of eac
 
 | Example Link                                                         | Description                                                                 |
 | -------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| [Default](./examples/default/docs/README.md)                         | Highlights how the plugin behaves with default settings.                    |
-| [UX Options](./examples/customized-ux/docs/README.md)                | Demonstrates how to adjust the user experience with custom display options. |
+| [Default Options](./examples/default-options/docs/README.md)         | Highlights how the plugin behaves with default settings.                    |
+| [Display Options](./examples/display-options/docs/README.md)         | Demonstrates how to adjust the user experience with custom display options. |
 | [Single Page Modules](./examples/single-page-modules/docs/README.md) | Shows how documentation can be generated with a single module per page.     |
 | [Single Page Docs](./examples/single-page-docs/docs/README.md)       | Shows how docs can be generated to a single file with a single entry point. |
 | [Packages](./examples/packages/docs/README.md)                       | Illustrates the output for the "packages" entrypoint strategy.              |
@@ -21,10 +21,10 @@ You can also browse the respective directories and view the configuration of eac
 
 ### Utils
 
-| Example Link                                               | Description                                             |
-| ---------------------------------------------------------- | ------------------------------------------------------- |
-| [Frontmatter](./examples/utils/frontmatter/docs/README.md) | Showcases how frontmatter can be added to pages.        |
-| [Remark](./examples/utils/remark/docs/README.md)           | Showcases how output can be parsed with Remark plugins. |
+| Example Link                                         | Description                                             |
+| ---------------------------------------------------- | ------------------------------------------------------- |
+| [Frontmatter](./examples/frontmatter/docs/README.md) | Showcases how frontmatter can be added to pages.        |
+| [Remark](./examples/remark/docs/README.md)           | Showcases how output can be parsed with Remark plugins. |
 
 ## Running Examples Locally
 

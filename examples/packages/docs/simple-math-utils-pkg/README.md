@@ -1,7 +1,3 @@
-**simple-math-utils-pkg v1.0.0** • **Docs**
-
-***
-
 [packages-example](../README.md) / simple-math-utils-pkg
 
 # simple-math-utils-pkg
@@ -20,13 +16,10 @@ Adds two numbers.
 
 #### Parameters
 
-• **a**: `number`
-
-The first number to add.
-
-• **b**: `number`
-
-The second number to add.
+| Parameter | Type | Description |
+| ------ | ------ | ------ |
+| `a` | `number` | The first number to add. |
+| `b` | `number` | The second number to add. |
 
 #### Returns
 
@@ -48,13 +41,10 @@ Divides the first number by the second.
 
 #### Parameters
 
-• **a**: `number`
-
-The numerator.
-
-• **b**: `number`
-
-The denominator. Must not be zero.
+| Parameter | Type | Description |
+| ------ | ------ | ------ |
+| `a` | `number` | The numerator. |
+| `b` | `number` | The denominator. Must not be zero. |
 
 #### Returns
 
@@ -80,13 +70,10 @@ Multiplies two numbers.
 
 #### Parameters
 
-• **a**: `number`
-
-The first number to multiply.
-
-• **b**: `number`
-
-The second number to multiply.
+| Parameter | Type | Description |
+| ------ | ------ | ------ |
+| `a` | `number` | The first number to multiply. |
+| `b` | `number` | The second number to multiply. |
 
 #### Returns
 
@@ -108,13 +95,10 @@ Subtracts the second number from the first.
 
 #### Parameters
 
-• **a**: `number`
-
-The number from which to subtract.
-
-• **b**: `number`
-
-The number to subtract.
+| Parameter | Type | Description |
+| ------ | ------ | ------ |
+| `a` | `number` | The number from which to subtract. |
+| `b` | `number` | The number to subtract. |
 
 #### Returns
 

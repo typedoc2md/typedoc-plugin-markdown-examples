@@ -1,7 +1,3 @@
-**packages-example** • **Docs**
-
-***
-
 # :wave: TypeDoc Packages Example
 
 ## Overview

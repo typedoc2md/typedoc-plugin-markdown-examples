@@ -1,7 +1,3 @@
-**date-time-utils-pkg v3.0.0** • **Docs**
-
-***
-
 [packages-example](../README.md) / date-time-utils-pkg
 
 # date-time-utils-pkg
@@ -19,13 +15,10 @@ Calculates the number of days between two dates.
 
 #### Parameters
 
-• **startDate**: `Date`
-
-The start date.
-
-• **endDate**: `Date`
-
-The end date.
+| Parameter | Type | Description |
+| ------ | ------ | ------ |
+| `startDate` | `Date` | The start date. |
+| `endDate` | `Date` | The end date. |
 
 #### Returns
 
@@ -47,9 +40,9 @@ Checks if a given date is a weekend.
 
 #### Parameters
 
-• **date**: `Date`
-
-The date to check.
+| Parameter | Type | Description |
+| ------ | ------ | ------ |
+| `date` | `Date` | The date to check. |
 
 #### Returns
 

@@ -1,7 +1,3 @@
-**string-essentials-pkg v1.0.0** • **Docs**
-
-***
-
 [packages-example](../README.md) / string-essentials-pkg
 
 # string-essentials-pkg
@@ -20,9 +16,9 @@ Capitalizes the first letter of the provided string.
 
 #### Parameters
 
-• **str**: `string`
-
-The string to capitalize.
+| Parameter | Type | Description |
+| ------ | ------ | ------ |
+| `str` | `string` | The string to capitalize. |
 
 #### Returns
 
@@ -44,9 +40,9 @@ Checks if the provided string is a palindrome.
 
 #### Parameters
 
-• **str**: `string`
-
-The string to check.
+| Parameter | Type | Description |
+| ------ | ------ | ------ |
+| `str` | `string` | The string to check. |
 
 #### Returns
 
@@ -68,9 +64,9 @@ Reverses the provided string.
 
 #### Parameters
 
-• **str**: `string`
-
-The string to reverse.
+| Parameter | Type | Description |
+| ------ | ------ | ------ |
+| `str` | `string` | The string to reverse. |
 
 #### Returns
 

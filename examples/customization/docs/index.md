@@ -5,7 +5,7 @@
 
 # customization
 
-> "content.begin" hook - last updated 2024-09-06T16:54:03.719Z
+> "content.begin" hook - last updated 2024-09-30T21:32:43.813Z
 
 ## Interfaces
 

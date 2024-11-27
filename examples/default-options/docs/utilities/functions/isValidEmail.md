@@ -1,4 +1,4 @@
-[**Default Options Example**](../../README.md) • **Docs**
+[**Default Options Example**](../../README.md)
 
 ***
 
@@ -12,7 +12,9 @@ Function to check if a value is a valid email address.
 
 ## Parameters
 
-• **email**: `string`
+### email
+
+`string`
 
 The email address to be validated.
 

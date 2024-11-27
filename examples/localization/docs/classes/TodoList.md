@@ -24,7 +24,9 @@
 
 #### 参数
 
-• **task**: `string`
+##### task
+
+`string`
 
 #### 返回
 
@@ -42,7 +44,9 @@
 
 #### 参数
 
-• **index**: `number`
+##### index
+
+`number`
 
 #### 返回
 
@@ -74,7 +78,9 @@
 
 #### 参数
 
-• **index**: `number`
+##### index
+
+`number`
 
 #### 返回
 

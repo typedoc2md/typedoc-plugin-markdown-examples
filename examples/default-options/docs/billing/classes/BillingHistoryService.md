@@ -1,4 +1,4 @@
-[**Default Options Example**](../../README.md) • **Docs**
+[**Default Options Example**](../../README.md)
 
 ***
 
@@ -30,7 +30,9 @@ This method is typically called after a transaction is completed to maintain a r
 
 #### Parameters
 
-• **transaction**: [`BillingTransaction`](../interfaces/BillingTransaction.md)
+##### transaction
+
+[`BillingTransaction`](../interfaces/BillingTransaction.md)
 
 The billing transaction to be added to the history.
 

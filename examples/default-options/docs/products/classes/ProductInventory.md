@@ -1,4 +1,4 @@
-[**Default Options Example**](../../README.md) • **Docs**
+[**Default Options Example**](../../README.md)
 
 ***
 
@@ -28,7 +28,9 @@ Add a new product to the inventory.
 
 #### Parameters
 
-• **product**: [`ProductDetails`](../interfaces/ProductDetails.md)
+##### product
+
+[`ProductDetails`](../interfaces/ProductDetails.md)
 
 The product to be added.
 
@@ -70,7 +72,9 @@ Get product details by ID.
 
 #### Parameters
 
-• **productId**: `string`
+##### productId
+
+`string`
 
 The ID of the product.
 
@@ -94,7 +98,9 @@ Get products by category.
 
 #### Parameters
 
-• **category**: [`ProductCategory`](../enumerations/ProductCategory.md)
+##### category
+
+[`ProductCategory`](../enumerations/ProductCategory.md)
 
 The product category.
 
@@ -118,7 +124,9 @@ Remove a product from the inventory.
 
 #### Parameters
 
-• **productId**: `string`
+##### productId
+
+`string`
 
 The ID of the product to be removed.
 
@@ -142,11 +150,15 @@ Update product details.
 
 #### Parameters
 
-• **productId**: `string`
+##### productId
+
+`string`
 
 The ID of the product to be updated.
 
-• **updatedDetails**: [`ProductDetails`](../interfaces/ProductDetails.md)
+##### updatedDetails
+
+[`ProductDetails`](../interfaces/ProductDetails.md)
 
 The updated product details.
 

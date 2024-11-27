@@ -6,6 +6,6 @@
     "docs": "typedoc"
   },
   "devDependencies": {
-    "typedoc-github-wiki-theme": "^2.0.0"
+    "typedoc-github-wiki-theme": "^2.1.0"
   }
 }

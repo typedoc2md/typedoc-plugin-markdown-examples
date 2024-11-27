@@ -1,4 +1,4 @@
-[**Default Options Example**](../../README.md) • **Docs**
+[**Default Options Example**](../../README.md)
 
 ***
 
@@ -28,7 +28,9 @@ Add a new product review.
 
 #### Parameters
 
-• **review**: [`ProductReview`](../interfaces/ProductReview.md)
+##### review
+
+[`ProductReview`](../interfaces/ProductReview.md)
 
 The product review to be added.
 
@@ -52,7 +54,9 @@ Get the average rating for a specific product.
 
 #### Parameters
 
-• **productId**: `string`
+##### productId
+
+`string`
 
 The ID of the product.
 
@@ -76,7 +80,9 @@ Get all product reviews for a specific product.
 
 #### Parameters
 
-• **productId**: `string`
+##### productId
+
+`string`
 
 The ID of the product.
 

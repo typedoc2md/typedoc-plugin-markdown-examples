@@ -8,7 +8,6 @@
   "readme": "none",
   "outputFileStrategy": "modules",
   "remarkPlugins": [
-    "unified-prettier",
     [
       "remark-github",
       { "repository": "https://github.com/typedoc2md/typedoc-plugin-markdown" }

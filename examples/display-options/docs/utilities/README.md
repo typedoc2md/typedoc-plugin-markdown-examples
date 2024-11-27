@@ -1,4 +1,4 @@
-[**dummy-typescript-api**](../README.md) • **Docs**
+[**dummy-typescript-api**](../README.md)
 
 ***
 

@@ -1,4 +1,4 @@
-**dummy-typescript-api** • **Docs**
+**dummy-typescript-api**
 
 ***
 

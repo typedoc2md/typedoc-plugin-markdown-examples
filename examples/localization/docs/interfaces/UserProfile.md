@@ -2,7 +2,7 @@
 
 # 接口: UserProfile
 
-## 特性
+## 属性
 
 ### address
 
@@ -100,7 +100,9 @@
 
 #### 参数
 
-• **newEmail**: `string`
+##### newEmail
+
+`string`
 
 #### 返回
 

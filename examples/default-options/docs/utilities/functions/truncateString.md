@@ -1,4 +1,4 @@
-[**Default Options Example**](../../README.md) • **Docs**
+[**Default Options Example**](../../README.md)
 
 ***
 
@@ -12,11 +12,15 @@ Function to truncate a string to a specified length.
 
 ## Parameters
 
-• **input**: `string`
+### input
+
+`string`
 
 The input string.
 
-• **maxLength**: `number`
+### maxLength
+
+`number`
 
 The maximum length of the truncated string.
 

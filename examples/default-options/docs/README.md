@@ -1,4 +1,4 @@
-**Default Options Example** • [**Docs**](modules.md)
+**Default Options Example**
 
 ***
 

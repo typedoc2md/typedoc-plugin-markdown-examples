@@ -5,6 +5,6 @@
     "docs": "typedoc"
   },
   "devDependencies": {
-    "typedoc-plugin-frontmatter": "^1.0.0"
+    "typedoc-plugin-frontmatter": "^1.1.0"
   }
 }

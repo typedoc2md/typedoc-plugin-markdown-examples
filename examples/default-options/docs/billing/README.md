@@ -1,4 +1,4 @@
-[**Default Options Example**](../README.md) • **Docs**
+[**Default Options Example**](../README.md)
 
 ***
 

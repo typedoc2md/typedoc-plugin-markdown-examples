@@ -1,4 +1,4 @@
-[**Default Options Example**](../../README.md) • **Docs**
+[**Default Options Example**](../../README.md)
 
 ***
 
@@ -49,7 +49,9 @@ This simulates the transaction execution and storage in a production environment
 
 #### Parameters
 
-• **transaction**: [`BillingTransaction`](../interfaces/BillingTransaction.md)
+##### transaction
+
+[`BillingTransaction`](../interfaces/BillingTransaction.md)
 
 The billing transaction to be processed.
 

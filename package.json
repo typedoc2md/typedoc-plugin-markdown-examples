@@ -9,8 +9,8 @@
   "author": "Tom Grey",
   "license": "MIT",
   "devDependencies": {
-    "typedoc": "0.26.6",
-    "typedoc-plugin-markdown": "^4.2.7",
-    "typescript": "^5.5.4"
+    "typedoc": "^0.27.0",
+    "typedoc-plugin-markdown": "^4.3.0",
+    "typescript": "^5.7.2"
   }
 }

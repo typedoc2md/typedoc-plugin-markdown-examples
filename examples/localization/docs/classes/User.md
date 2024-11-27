@@ -14,21 +14,35 @@
 
 #### 参数
 
-• **id**: `number`
+##### id
 
-• **name**: `string`
+`number`
 
-• **email**: `string`
+##### name
 
-• **address**
+`string`
 
-• **address.city**: `string`
+##### email
 
-• **address.country?**: `string`
+`string`
 
-• **address.street?**: `string`
+##### address
 
-• **age?**: `number`
+###### address.city
+
+`string`
+
+###### address.country
+
+`string`
+
+###### address.street
+
+`string`
+
+##### age?
+
+`number`
 
 #### 返回
 
@@ -38,7 +52,7 @@
 
 [index.ts:83](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/localization/src/index.ts#L83)
 
-## 特性
+## 属性
 
 ### address
 
@@ -164,7 +178,9 @@
 
 #### 参数
 
-• **newEmail**: `string`
+##### newEmail
+
+`string`
 
 #### 返回
 

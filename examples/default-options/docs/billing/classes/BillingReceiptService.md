@@ -1,4 +1,4 @@
-[**Default Options Example**](../../README.md) • **Docs**
+[**Default Options Example**](../../README.md)
 
 ***
 
@@ -30,7 +30,9 @@ Each receipt includes a unique ID and timestamp, essential for record-keeping an
 
 #### Parameters
 
-• **transaction**: [`BillingTransaction`](../interfaces/BillingTransaction.md)
+##### transaction
+
+[`BillingTransaction`](../interfaces/BillingTransaction.md)
 
 The billing transaction for which to generate a receipt.
 

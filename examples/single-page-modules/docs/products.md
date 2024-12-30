@@ -12,6 +12,8 @@ This module contains types and services related to product management.
 
 ### ProductCategory
 
+Defined in: [products.ts:25](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L25)
+
 Enum representing different product categories.
 Helps categorize products into logical groupings for easier management and browsing.
 
@@ -19,14 +21,16 @@ Helps categorize products into logical groupings for easier management and brows
 
 | Enumeration Member | Value | Description | Defined in |
 | ------ | ------ | ------ | ------ |
-| `Books` | `"Books"` | Books category encompasses all genres and types of books, including novels, textbooks, and guides. | [products.ts:33](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L33) |
-| `Clothing` | `"Clothing"` | Clothing category includes apparel items such as shirts, pants, and dresses. | [products.ts:30](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L30) |
-| `Electronics` | `"Electronics"` | Electronics category includes items like computers, mobile phones, and other electronic devices. | [products.ts:27](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L27) |
-| `HomeDecor` | `"Home Decor"` | Home Decor category includes items used for decorating and furnishing a home, like furniture, paintings, and decor items. | [products.ts:36](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L36) |
+| <a id="books"></a> `Books` | `"Books"` | Books category encompasses all genres and types of books, including novels, textbooks, and guides. | [products.ts:33](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L33) |
+| <a id="clothing"></a> `Clothing` | `"Clothing"` | Clothing category includes apparel items such as shirts, pants, and dresses. | [products.ts:30](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L30) |
+| <a id="electronics"></a> `Electronics` | `"Electronics"` | Electronics category includes items like computers, mobile phones, and other electronic devices. | [products.ts:27](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L27) |
+| <a id="homedecor"></a> `HomeDecor` | `"Home Decor"` | Home Decor category includes items used for decorating and furnishing a home, like furniture, paintings, and decor items. | [products.ts:36](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L36) |
 
 ## Classes
 
 ### ProductInventory
+
+Defined in: [products.ts:60](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L60)
 
 Class representing a product inventory.
 
@@ -50,6 +54,8 @@ new ProductInventory(): ProductInventory
 addProduct(product): ProductDetails
 ```
 
+Defined in: [products.ts:68](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L68)
+
 Add a new product to the inventory.
 
 ###### Parameters
@@ -64,15 +70,13 @@ Add a new product to the inventory.
 
 The added product details.
 
-###### Defined in
-
-[products.ts:68](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L68)
-
 ##### getAllProducts()
 
 ```ts
 getAllProducts(): ProductDetails[]
 ```
+
+Defined in: [products.ts:77](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L77)
 
 Get all products in the inventory.
 
@@ -82,15 +86,13 @@ Get all products in the inventory.
 
 An array of all product details.
 
-###### Defined in
-
-[products.ts:77](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L77)
-
 ##### getProductById()
 
 ```ts
 getProductById(productId): ProductDetails
 ```
+
+Defined in: [products.ts:86](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L86)
 
 Get product details by ID.
 
@@ -106,15 +108,13 @@ Get product details by ID.
 
 The product details with the specified ID.
 
-###### Defined in
-
-[products.ts:86](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L86)
-
 ##### getProductsByCategory()
 
 ```ts
 getProductsByCategory(category): ProductDetails[]
 ```
+
+Defined in: [products.ts:95](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L95)
 
 Get products by category.
 
@@ -130,15 +130,13 @@ Get products by category.
 
 An array of product details in the specified category.
 
-###### Defined in
-
-[products.ts:95](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L95)
-
 ##### removeProduct()
 
 ```ts
 removeProduct(productId): ProductDetails
 ```
+
+Defined in: [products.ts:124](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L124)
 
 Remove a product from the inventory.
 
@@ -154,15 +152,13 @@ Remove a product from the inventory.
 
 The removed product details.
 
-###### Defined in
-
-[products.ts:124](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L124)
-
 ##### updateProductDetails()
 
 ```ts
 updateProductDetails(productId, updatedDetails): ProductDetails
 ```
+
+Defined in: [products.ts:105](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L105)
 
 Update product details.
 
@@ -179,13 +175,11 @@ Update product details.
 
 The updated product details.
 
-###### Defined in
-
-[products.ts:105](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L105)
-
 ***
 
 ### ProductReviewService
+
+Defined in: [products.ts:151](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L151)
 
 Service for managing product reviews.
 
@@ -209,6 +203,8 @@ new ProductReviewService(): ProductReviewService
 addProductReview(review): ProductReview
 ```
 
+Defined in: [products.ts:159](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L159)
+
 Add a new product review.
 
 ###### Parameters
@@ -223,15 +219,13 @@ Add a new product review.
 
 The added product review.
 
-###### Defined in
-
-[products.ts:159](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L159)
-
 ##### getAverageRating()
 
 ```ts
 getAverageRating(productId): number
 ```
+
+Defined in: [products.ts:178](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L178)
 
 Get the average rating for a specific product.
 
@@ -247,15 +241,13 @@ Get the average rating for a specific product.
 
 The average rating for the specified product.
 
-###### Defined in
-
-[products.ts:178](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L178)
-
 ##### getProductReviews()
 
 ```ts
 getProductReviews(productId): ProductReview[]
 ```
+
+Defined in: [products.ts:169](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L169)
 
 Get all product reviews for a specific product.
 
@@ -271,13 +263,11 @@ Get all product reviews for a specific product.
 
 An array of product reviews for the specified product.
 
-###### Defined in
-
-[products.ts:169](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L169)
-
 ## Interfaces
 
 ### Product
+
+Defined in: [products.ts:12](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L12)
 
 Interface representing a product.
 Contains the essential identifiers and attributes of a product.
@@ -290,13 +280,15 @@ Contains the essential identifiers and attributes of a product.
 
 | Property | Type | Description | Defined in |
 | ------ | ------ | ------ | ------ |
-| `name` | `string` | Name of the product. | [products.ts:16](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L16) |
-| `price` | `number` | Price of the product in the system's set currency. | [products.ts:18](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L18) |
-| `productId` | `string` | Unique identifier for the product. | [products.ts:14](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L14) |
+| <a id="name"></a> `name` | `string` | Name of the product. | [products.ts:16](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L16) |
+| <a id="price"></a> `price` | `number` | Price of the product in the system's set currency. | [products.ts:18](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L18) |
+| <a id="productid"></a> `productId` | `string` | Unique identifier for the product. | [products.ts:14](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L14) |
 
 ***
 
 ### ProductDetails
+
+Defined in: [products.ts:43](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L43)
 
 Interface representing product details.
 Extends the basic Product interface to include more comprehensive attributes for detailed product management.
@@ -309,15 +301,17 @@ Extends the basic Product interface to include more comprehensive attributes for
 
 | Property | Type | Description | Inherited from | Defined in |
 | ------ | ------ | ------ | ------ | ------ |
-| `category` | [`ProductCategory`](products.md#productcategory) | Category of the product as defined by the ProductCategory enum. This categorization helps in organizing products into sections or departments, facilitating easier product discovery and management. | - | [products.ts:54](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L54) |
-| `description` | `string` | Detailed textual description of the product. This provides potential buyers with more information about the product's features, usage, and benefits. | - | [products.ts:48](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L48) |
-| `name` | `string` | Name of the product. | [`Product`](products.md#product).`name` | [products.ts:16](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L16) |
-| `price` | `number` | Price of the product in the system's set currency. | [`Product`](products.md#product).`price` | [products.ts:18](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L18) |
-| `productId` | `string` | Unique identifier for the product. | [`Product`](products.md#product).`productId` | [products.ts:14](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L14) |
+| <a id="category"></a> `category` | [`ProductCategory`](products.md#productcategory) | Category of the product as defined by the ProductCategory enum. This categorization helps in organizing products into sections or departments, facilitating easier product discovery and management. | - | [products.ts:54](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L54) |
+| <a id="description"></a> `description` | `string` | Detailed textual description of the product. This provides potential buyers with more information about the product's features, usage, and benefits. | - | [products.ts:48](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L48) |
+| <a id="name-1"></a> `name` | `string` | Name of the product. | [`Product`](products.md#product).[`name`](products.md#name) | [products.ts:16](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L16) |
+| <a id="price-1"></a> `price` | `number` | Price of the product in the system's set currency. | [`Product`](products.md#product).[`price`](products.md#price) | [products.ts:18](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L18) |
+| <a id="productid-1"></a> `productId` | `string` | Unique identifier for the product. | [`Product`](products.md#product).[`productId`](products.md#productid) | [products.ts:14](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L14) |
 
 ***
 
 ### ProductReview
+
+Defined in: [products.ts:139](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L139)
 
 Interface representing a product review.
 
@@ -325,8 +319,8 @@ Interface representing a product review.
 
 | Property | Type | Defined in |
 | ------ | ------ | ------ |
-| `comment?` | `string` | [products.ts:144](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L144) |
-| `productId` | `string` | [products.ts:141](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L141) |
-| `rating` | `number` | [products.ts:143](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L143) |
-| `reviewId` | `string` | [products.ts:140](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L140) |
-| `username` | `string` | [products.ts:142](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L142) |
+| <a id="comment"></a> `comment?` | `string` | [products.ts:144](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L144) |
+| <a id="productid-2"></a> `productId` | `string` | [products.ts:141](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L141) |
+| <a id="rating"></a> `rating` | `number` | [products.ts:143](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L143) |
+| <a id="reviewid"></a> `reviewId` | `string` | [products.ts:140](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L140) |
+| <a id="username"></a> `username` | `string` | [products.ts:142](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L142) |

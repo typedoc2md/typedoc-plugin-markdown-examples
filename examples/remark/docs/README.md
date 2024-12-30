@@ -29,6 +29,4 @@ Thanks [**@tgreyuk**](https://github.com/tgreyuk) please see issue [#1](https://
 
 > `const` **helloWorld**: `true` = `true`
 
-#### Defined in
-
-[index.ts:21](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/remark/src/index.ts#L21)
+Defined in: [index.ts:21](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/remark/src/index.ts#L21)

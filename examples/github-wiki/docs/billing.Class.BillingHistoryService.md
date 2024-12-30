@@ -2,6 +2,8 @@
 
 # Class: BillingHistoryService
 
+Defined in: [billing.ts:135](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L135)
+
 Service for managing billing history.
 Provides functionality to store and retrieve the history of transactions.
 
@@ -21,6 +23,8 @@ Provides functionality to store and retrieve the history of transactions.
 
 > **addTransactionToHistory**(`transaction`): `void`
 
+Defined in: [billing.ts:144](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L144)
+
 Adds a transaction to the billing history.
 This method is typically called after a transaction is completed to maintain a record.
 
@@ -34,15 +38,13 @@ This method is typically called after a transaction is completed to maintain a r
 
 `void`
 
-#### Defined in
-
-[billing.ts:144](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L144)
-
 ***
 
 ### getBillingHistory()
 
 > **getBillingHistory**(): [`BillingTransaction`](../wiki/billing.Interface.BillingTransaction)[]
+
+Defined in: [billing.ts:153](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L153)
 
 Retrieves the complete billing history, providing access to all transactions that have been recorded.
 This is useful for historical analysis and auditing purposes.
@@ -52,7 +54,3 @@ This is useful for historical analysis and auditing purposes.
 [`BillingTransaction`](../wiki/billing.Interface.BillingTransaction)[]
 
 An array of all billing transactions in the history.
-
-#### Defined in
-
-[billing.ts:153](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L153)

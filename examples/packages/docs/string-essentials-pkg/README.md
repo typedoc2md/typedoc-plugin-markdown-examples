@@ -12,6 +12,8 @@ including reversing strings, capitalizing the first letter, and checking for pal
 
 > **capitalize**(`str`): `string`
 
+Defined in: [index.ts:23](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/packages/packages/string-essentials/index.ts#L23)
+
 Capitalizes the first letter of the provided string.
 
 #### Parameters
@@ -26,15 +28,13 @@ Capitalizes the first letter of the provided string.
 
 The string with the first letter capitalized.
 
-#### Defined in
-
-[index.ts:23](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/packages/packages/string-essentials/index.ts#L23)
-
 ***
 
 ### isPalindrome()
 
 > **isPalindrome**(`str`): `boolean`
+
+Defined in: [index.ts:32](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/packages/packages/string-essentials/index.ts#L32)
 
 Checks if the provided string is a palindrome.
 
@@ -50,15 +50,13 @@ Checks if the provided string is a palindrome.
 
 True if the string is a palindrome, false otherwise.
 
-#### Defined in
-
-[index.ts:32](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/packages/packages/string-essentials/index.ts#L32)
-
 ***
 
 ### reverse()
 
 > **reverse**(`str`): `string`
+
+Defined in: [index.ts:14](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/packages/packages/string-essentials/index.ts#L14)
 
 Reverses the provided string.
 
@@ -73,7 +71,3 @@ Reverses the provided string.
 `string`
 
 The reversed string.
-
-#### Defined in
-
-[index.ts:14](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/packages/packages/string-essentials/index.ts#L14)

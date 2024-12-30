@@ -7,12 +7,12 @@
 
 # Interface: Task2
 
-> "content.begin" hook - last updated 2024-11-27T16:19:25.772Z
+> "content.begin" hook - last updated 2024-12-30T22:03:20.772Z
 
 ## Properties
 
 | Property | Type |
 | ------ | ------ |
-| `description` | `string` |
-| `id` | `number` |
-| `title` | `string` |
+| <a id="description"></a> `description` | `string` |
+| <a id="id"></a> `id` | `number` |
+| <a id="title"></a> `title` | `string` |

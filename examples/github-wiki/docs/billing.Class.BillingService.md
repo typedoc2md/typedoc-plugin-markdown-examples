@@ -2,6 +2,8 @@
 
 # Class: BillingService
 
+Defined in: [billing.ts:105](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L105)
+
 Service for managing billing transactions.
 Provides functionality to process and retrieve billing transactions.
 
@@ -21,6 +23,8 @@ Provides functionality to process and retrieve billing transactions.
 
 > **getAllTransactions**(): [`BillingTransaction`](../wiki/billing.Interface.BillingTransaction)[]
 
+Defined in: [billing.ts:125](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L125)
+
 Retrieves all the billing transactions that have been processed.
 Useful for audits and general transaction management.
 
@@ -30,15 +34,13 @@ Useful for audits and general transaction management.
 
 An array of all billing transactions.
 
-#### Defined in
-
-[billing.ts:125](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L125)
-
 ***
 
 ### processTransaction()
 
 > **processTransaction**(`transaction`): [`BillingTransaction`](../wiki/billing.Interface.BillingTransaction)
+
+Defined in: [billing.ts:115](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L115)
 
 Processes a billing transaction by adding it to the list of transactions.
 This simulates the transaction execution and storage in a production environment.
@@ -54,7 +56,3 @@ This simulates the transaction execution and storage in a production environment
 [`BillingTransaction`](../wiki/billing.Interface.BillingTransaction)
 
 The processed billing transaction, now stored in the service.
-
-#### Defined in
-
-[billing.ts:115](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L115)

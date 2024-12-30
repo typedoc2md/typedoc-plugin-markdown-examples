@@ -6,6 +6,8 @@
 
 # Class: CustomerAccount
 
+Defined in: [customer.ts:76](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L76)
+
 Class representing a customer account.
 Manages and integrates different aspects of customer data and interactions with the business.
 
@@ -14,6 +16,8 @@ Manages and integrates different aspects of customer data and interactions with 
 ### new CustomerAccount()
 
 > **new CustomerAccount**(`customer`, `contactInfo`, `billingInfo`): [`CustomerAccount`](CustomerAccount.md)
+
+Defined in: [customer.ts:88](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L88)
 
 Constructs a new CustomerAccount instance.
 
@@ -41,15 +45,13 @@ Customer's billing information.
 
 [`CustomerAccount`](CustomerAccount.md)
 
-#### Defined in
-
-[customer.ts:88](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L88)
-
 ## Methods
 
 ### addOrderToHistory()
 
 > **addOrderToHistory**(`order`): `void`
+
+Defined in: [customer.ts:127](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L127)
 
 Adds a new order to the customer's historical record.
 
@@ -65,15 +67,13 @@ The order to be added to the history.
 
 `void`
 
-#### Defined in
-
-[customer.ts:127](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L127)
-
 ***
 
 ### getBillingInfo()
 
 > **getBillingInfo**(): [`CustomerBilling`](../interfaces/CustomerBilling.md)
+
+Defined in: [customer.ts:119](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L119)
 
 Retrieves the billing information of the customer.
 
@@ -83,15 +83,13 @@ Retrieves the billing information of the customer.
 
 The billing details.
 
-#### Defined in
-
-[customer.ts:119](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L119)
-
 ***
 
 ### getContactInfo()
 
 > **getContactInfo**(): [`CustomerContact`](../interfaces/CustomerContact.md)
+
+Defined in: [customer.ts:111](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L111)
 
 Retrieves the contact information of the customer.
 
@@ -101,15 +99,13 @@ Retrieves the contact information of the customer.
 
 The contact details.
 
-#### Defined in
-
-[customer.ts:111](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L111)
-
 ***
 
 ### getCustomer()
 
 > **getCustomer**(): [`Customer`](../interfaces/Customer.md)
+
+Defined in: [customer.ts:103](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L103)
 
 Retrieves the stored customer profile information.
 
@@ -119,15 +115,13 @@ Retrieves the stored customer profile information.
 
 The customer's profile data.
 
-#### Defined in
-
-[customer.ts:103](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L103)
-
 ***
 
 ### getOrderHistory()
 
 > **getOrderHistory**(): [`CustomerOrderHistory`](../interfaces/CustomerOrderHistory.md)[]
+
+Defined in: [customer.ts:135](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L135)
 
 Retrieves the full history of orders made by the customer.
 
@@ -136,7 +130,3 @@ Retrieves the full history of orders made by the customer.
 [`CustomerOrderHistory`](../interfaces/CustomerOrderHistory.md)[]
 
 An array of order history records.
-
-#### Defined in
-
-[customer.ts:135](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L135)

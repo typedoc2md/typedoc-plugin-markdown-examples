@@ -8,18 +8,16 @@
 
 This module contains types and services related to customer management.
 
-## Index
-
-### Enumerations
+## Enumerations
 
 - [CustomerType](enumerations/CustomerType.md)
 
-### Classes
+## Classes
 
 - [CustomerAccount](classes/CustomerAccount.md)
 - [CustomerService](classes/CustomerService.md)
 
-### Interfaces
+## Interfaces
 
 - [Customer](interfaces/Customer.md)
 - [CustomerBilling](interfaces/CustomerBilling.md)

@@ -6,6 +6,8 @@
 
 # Class: ShippingService
 
+Defined in: [shipping.ts:39](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/shipping.ts#L39)
+
 Service for managing shipping records.
 Provides methods to handle the logistics of order shipments, including recording and tracking shipments.
 
@@ -29,6 +31,8 @@ new ShippingService(): ShippingService
 getAllShipments(): ShippingRecord[]
 ```
 
+Defined in: [shipping.ts:61](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/shipping.ts#L61)
+
 Retrieves all shipping records managed by the service.
 Useful for tracking, auditing, and providing customers with updates on their shipment statuses.
 
@@ -38,10 +42,6 @@ Useful for tracking, auditing, and providing customers with updates on their shi
 
 An array of all shipping records.
 
-#### Defined in
-
-[shipping.ts:61](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/shipping.ts#L61)
-
 ***
 
 ### shipOrder()
@@ -49,6 +49,8 @@ An array of all shipping records.
 ```ts
 shipOrder(shipment): ShippingRecord
 ```
+
+Defined in: [shipping.ts:51](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/shipping.ts#L51)
 
 Ships an order by creating a shipping record and adding it to the list of shipments.
 This method simulates the action of shipping an order in a real-world scenario.
@@ -64,7 +66,3 @@ This method simulates the action of shipping an order in a real-world scenario.
 [`ShippingRecord`](../interfaces/ShippingRecord.md)
 
 The shipment record that was added to the shipments list.
-
-#### Defined in
-
-[shipping.ts:51](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/shipping.ts#L51)

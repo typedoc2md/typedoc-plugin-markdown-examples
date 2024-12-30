@@ -2,6 +2,8 @@
 
 # 类: User
 
+定义于: [index.ts:72](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/localization/src/index.ts#L72)
+
 ## 实现
 
 - [`UserProfile`](../interfaces/UserProfile.md)
@@ -11,6 +13,8 @@
 ### new User()
 
 > **new User**(`id`, `name`, `email`, `address`, `age`?): [`User`](User.md)
+
+定义于: [index.ts:83](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/localization/src/index.ts#L83)
 
 #### 参数
 
@@ -28,15 +32,15 @@
 
 ##### address
 
-###### address.city
+###### city
 
 `string`
 
-###### address.country
+###### country
 
 `string`
 
-###### address.street
+###### street
 
 `string`
 
@@ -48,15 +52,13 @@
 
 [`User`](User.md)
 
-#### 定义于
-
-[index.ts:83](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/localization/src/index.ts#L83)
-
 ## 属性
 
 ### address
 
 > **address**: `object`
+
+定义于: [index.ts:77](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/localization/src/index.ts#L77)
 
 #### city
 
@@ -74,23 +76,17 @@
 
 [`UserProfile`](../interfaces/UserProfile.md).[`address`](../interfaces/UserProfile.md#address)
 
-#### 定义于
-
-[index.ts:77](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/localization/src/index.ts#L77)
-
 ***
 
 ### age?
 
 > `optional` **age**: `number`
 
+定义于: [index.ts:76](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/localization/src/index.ts#L76)
+
 #### 实现了
 
 [`UserProfile`](../interfaces/UserProfile.md).[`age`](../interfaces/UserProfile.md#age)
-
-#### 定义于
-
-[index.ts:76](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/localization/src/index.ts#L76)
 
 ***
 
@@ -98,13 +94,11 @@
 
 > **email**: `string`
 
+定义于: [index.ts:75](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/localization/src/index.ts#L75)
+
 #### 实现了
 
 [`UserProfile`](../interfaces/UserProfile.md).[`email`](../interfaces/UserProfile.md#email)
-
-#### 定义于
-
-[index.ts:75](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/localization/src/index.ts#L75)
 
 ***
 
@@ -112,13 +106,11 @@
 
 > **id**: `number`
 
+定义于: [index.ts:73](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/localization/src/index.ts#L73)
+
 #### 实现了
 
 [`UserProfile`](../interfaces/UserProfile.md).[`id`](../interfaces/UserProfile.md#id)
-
-#### 定义于
-
-[index.ts:73](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/localization/src/index.ts#L73)
 
 ***
 
@@ -126,19 +118,19 @@
 
 > **name**: `string`
 
+定义于: [index.ts:74](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/localization/src/index.ts#L74)
+
 #### 实现了
 
 [`UserProfile`](../interfaces/UserProfile.md).[`name`](../interfaces/UserProfile.md#name)
-
-#### 定义于
-
-[index.ts:74](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/localization/src/index.ts#L74)
 
 ## 方法
 
 ### displayInfo()
 
 > **displayInfo**(): `string`
+
+定义于: [index.ts:99](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/localization/src/index.ts#L99)
 
 #### 返回
 
@@ -148,15 +140,13 @@
 
 [`UserProfile`](../interfaces/UserProfile.md).[`displayInfo`](../interfaces/UserProfile.md#displayinfo)
 
-#### 定义于
-
-[index.ts:99](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/localization/src/index.ts#L99)
-
 ***
 
 ### isAdult()?
 
 > `optional` **isAdult**(): `boolean`
+
+定义于: [index.ts:108](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/localization/src/index.ts#L108)
 
 #### 返回
 
@@ -166,15 +156,13 @@
 
 [`UserProfile`](../interfaces/UserProfile.md).[`isAdult`](../interfaces/UserProfile.md#isadult)
 
-#### 定义于
-
-[index.ts:108](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/localization/src/index.ts#L108)
-
 ***
 
 ### updateEmail()
 
 > **updateEmail**(`newEmail`): `void`
+
+定义于: [index.ts:103](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/localization/src/index.ts#L103)
 
 #### 参数
 
@@ -189,7 +177,3 @@
 #### 实现了
 
 [`UserProfile`](../interfaces/UserProfile.md).[`updateEmail`](../interfaces/UserProfile.md#updateemail)
-
-#### 定义于
-
-[index.ts:103](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/localization/src/index.ts#L103)

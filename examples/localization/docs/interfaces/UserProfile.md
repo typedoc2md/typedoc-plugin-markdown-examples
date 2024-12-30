@@ -2,11 +2,15 @@
 
 # 接口: UserProfile
 
+定义于: [index.ts:53](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/localization/src/index.ts#L53)
+
 ## 属性
 
 ### address
 
 > **address**: `object`
+
+定义于: [index.ts:59](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/localization/src/index.ts#L59)
 
 #### city
 
@@ -20,19 +24,13 @@
 
 > **street**: `string`
 
-#### 定义于
-
-[index.ts:59](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/localization/src/index.ts#L59)
-
 ***
 
 ### age?
 
 > `optional` **age**: `number`
 
-#### 定义于
-
-[index.ts:58](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/localization/src/index.ts#L58)
+定义于: [index.ts:58](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/localization/src/index.ts#L58)
 
 ***
 
@@ -40,9 +38,7 @@
 
 > **email**: `string`
 
-#### 定义于
-
-[index.ts:57](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/localization/src/index.ts#L57)
+定义于: [index.ts:57](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/localization/src/index.ts#L57)
 
 ***
 
@@ -50,9 +46,7 @@
 
 > **id**: `number`
 
-#### 定义于
-
-[index.ts:55](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/localization/src/index.ts#L55)
+定义于: [index.ts:55](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/localization/src/index.ts#L55)
 
 ***
 
@@ -60,9 +54,7 @@
 
 > **name**: `string`
 
-#### 定义于
-
-[index.ts:56](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/localization/src/index.ts#L56)
+定义于: [index.ts:56](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/localization/src/index.ts#L56)
 
 ## 方法
 
@@ -70,13 +62,11 @@
 
 > **displayInfo**(): `string`
 
+定义于: [index.ts:66](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/localization/src/index.ts#L66)
+
 #### 返回
 
 `string`
-
-#### 定义于
-
-[index.ts:66](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/localization/src/index.ts#L66)
 
 ***
 
@@ -84,19 +74,19 @@
 
 > `optional` **isAdult**(): `boolean`
 
+定义于: [index.ts:68](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/localization/src/index.ts#L68)
+
 #### 返回
 
 `boolean`
-
-#### 定义于
-
-[index.ts:68](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/localization/src/index.ts#L68)
 
 ***
 
 ### updateEmail()
 
 > **updateEmail**(`newEmail`): `void`
+
+定义于: [index.ts:67](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/localization/src/index.ts#L67)
 
 #### 参数
 
@@ -107,7 +97,3 @@
 #### 返回
 
 `void`
-
-#### 定义于
-
-[index.ts:67](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/localization/src/index.ts#L67)

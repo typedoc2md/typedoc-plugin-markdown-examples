@@ -6,6 +6,8 @@
 
 # Class: ProductInventory
 
+Defined in: [products.ts:60](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L60)
+
 Class representing a product inventory.
 
 ## Constructors
@@ -24,6 +26,8 @@ Class representing a product inventory.
 
 > **addProduct**(`product`): [`ProductDetails`](../interfaces/ProductDetails.md)
 
+Defined in: [products.ts:68](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L68)
+
 Add a new product to the inventory.
 
 #### Parameters
@@ -40,15 +44,13 @@ The product to be added.
 
 The added product details.
 
-#### Defined in
-
-[products.ts:68](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L68)
-
 ***
 
 ### getAllProducts()
 
 > **getAllProducts**(): [`ProductDetails`](../interfaces/ProductDetails.md)[]
+
+Defined in: [products.ts:77](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L77)
 
 Get all products in the inventory.
 
@@ -58,15 +60,13 @@ Get all products in the inventory.
 
 An array of all product details.
 
-#### Defined in
-
-[products.ts:77](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L77)
-
 ***
 
 ### getProductById()
 
 > **getProductById**(`productId`): [`ProductDetails`](../interfaces/ProductDetails.md)
+
+Defined in: [products.ts:86](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L86)
 
 Get product details by ID.
 
@@ -84,15 +84,13 @@ The ID of the product.
 
 The product details with the specified ID.
 
-#### Defined in
-
-[products.ts:86](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L86)
-
 ***
 
 ### getProductsByCategory()
 
 > **getProductsByCategory**(`category`): [`ProductDetails`](../interfaces/ProductDetails.md)[]
+
+Defined in: [products.ts:95](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L95)
 
 Get products by category.
 
@@ -110,15 +108,13 @@ The product category.
 
 An array of product details in the specified category.
 
-#### Defined in
-
-[products.ts:95](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L95)
-
 ***
 
 ### removeProduct()
 
 > **removeProduct**(`productId`): [`ProductDetails`](../interfaces/ProductDetails.md)
+
+Defined in: [products.ts:124](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L124)
 
 Remove a product from the inventory.
 
@@ -136,15 +132,13 @@ The ID of the product to be removed.
 
 The removed product details.
 
-#### Defined in
-
-[products.ts:124](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L124)
-
 ***
 
 ### updateProductDetails()
 
 > **updateProductDetails**(`productId`, `updatedDetails`): [`ProductDetails`](../interfaces/ProductDetails.md)
+
+Defined in: [products.ts:105](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L105)
 
 Update product details.
 
@@ -167,7 +161,3 @@ The updated product details.
 [`ProductDetails`](../interfaces/ProductDetails.md)
 
 The updated product details.
-
-#### Defined in
-
-[products.ts:105](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L105)

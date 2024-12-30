@@ -4,22 +4,20 @@
 
 This module contains types and services related to product management.
 
-## Index
-
-### Enumerations
+## Enumerations
 
 | Enumeration | Description |
 | ------ | ------ |
 | [ProductCategory](../wiki/products.Enumeration.ProductCategory) | Enum representing different product categories. Helps categorize products into logical groupings for easier management and browsing. |
 
-### Classes
+## Classes
 
 | Class | Description |
 | ------ | ------ |
 | [ProductInventory](../wiki/products.Class.ProductInventory) | Class representing a product inventory. |
 | [ProductReviewService](../wiki/products.Class.ProductReviewService) | Service for managing product reviews. |
 
-### Interfaces
+## Interfaces
 
 | Interface | Description |
 | ------ | ------ |

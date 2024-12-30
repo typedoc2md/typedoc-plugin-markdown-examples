@@ -7,16 +7,14 @@ and services to process transactions, manage billing history, and generate recei
 
 This module ensures comprehensive handling of billing data and operations, facilitating integrations with various payment providers and internal systems. It serves as a foundation for the financial transaction processing system, providing traceability and accountability through structured data and services.
 
-## Index
-
-### Enumerations
+## Enumerations
 
 | Enumeration | Description |
 | ------ | ------ |
 | [PaymentMethod](../wiki/billing.Enumeration.PaymentMethod) | Enum representing different types of payment methods. These are used to specify the payment mechanism chosen by a customer. |
 | [TransactionStatus](../wiki/billing.Enumeration.TransactionStatus) | Enum representing different transaction statuses. These statuses indicate the current state of a billing transaction in the process pipeline. |
 
-### Classes
+## Classes
 
 | Class | Description |
 | ------ | ------ |
@@ -24,7 +22,7 @@ This module ensures comprehensive handling of billing data and operations, facil
 | [BillingReceiptService](../wiki/billing.Class.BillingReceiptService) | Service for generating billing receipts. Provides functionality to generate and retrieve receipts for transactions. |
 | [BillingService](../wiki/billing.Class.BillingService) | Service for managing billing transactions. Provides functionality to process and retrieve billing transactions. |
 
-### Interfaces
+## Interfaces
 
 | Interface | Description |
 | ------ | ------ |

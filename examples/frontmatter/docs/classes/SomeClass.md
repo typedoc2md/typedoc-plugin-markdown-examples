@@ -10,6 +10,8 @@ description: Class description
 
 # Class: SomeClass
 
+Defined in: [index.ts:6](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/frontmatter/src/index.ts#L6)
+
 ## Constructors
 
 ### new SomeClass()

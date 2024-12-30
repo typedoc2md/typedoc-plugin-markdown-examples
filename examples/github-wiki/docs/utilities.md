@@ -6,9 +6,7 @@ This module contains generic utility functions useful for various operations.
 
 Utilities include formatting currencies, manipulating strings, generating identifiers, and validating inputs.
 
-## Index
-
-### Functions
+## Functions
 
 | Function | Description |
 | ------ | ------ |

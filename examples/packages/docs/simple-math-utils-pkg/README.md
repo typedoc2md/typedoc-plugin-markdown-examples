@@ -12,6 +12,8 @@ basic mathematical operations. The functions are type-safe and throw errors for 
 
 > **add**(`a`, `b`): `number`
 
+Defined in: [index.ts:15](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/packages/packages/simple-math-utils/index.ts#L15)
+
 Adds two numbers.
 
 #### Parameters
@@ -27,15 +29,13 @@ Adds two numbers.
 
 The sum of `a` and `b`.
 
-#### Defined in
-
-[index.ts:15](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/packages/packages/simple-math-utils/index.ts#L15)
-
 ***
 
 ### divide()
 
 > **divide**(`a`, `b`): `number`
+
+Defined in: [index.ts:46](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/packages/packages/simple-math-utils/index.ts#L46)
 
 Divides the first number by the second.
 
@@ -56,15 +56,13 @@ The quotient of `a` and `b`.
 
 Division by zero is not allowed.
 
-#### Defined in
-
-[index.ts:46](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/packages/packages/simple-math-utils/index.ts#L46)
-
 ***
 
 ### multiply()
 
 > **multiply**(`a`, `b`): `number`
+
+Defined in: [index.ts:35](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/packages/packages/simple-math-utils/index.ts#L35)
 
 Multiplies two numbers.
 
@@ -81,15 +79,13 @@ Multiplies two numbers.
 
 The product of `a` and `b`.
 
-#### Defined in
-
-[index.ts:35](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/packages/packages/simple-math-utils/index.ts#L35)
-
 ***
 
 ### subtract()
 
 > **subtract**(`a`, `b`): `number`
+
+Defined in: [index.ts:25](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/packages/packages/simple-math-utils/index.ts#L25)
 
 Subtracts the second number from the first.
 
@@ -105,7 +101,3 @@ Subtracts the second number from the first.
 `number`
 
 The difference of `a` and `b`.
-
-#### Defined in
-
-[index.ts:25](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/packages/packages/simple-math-utils/index.ts#L25)

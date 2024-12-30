@@ -6,6 +6,8 @@
 
 # Enumeration: CustomerType
 
+Defined in: [customer.ts:13](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L13)
+
 Enum representing different customer types.
 These classifications help tailor services and benefits according to customer loyalty and value.
 
@@ -15,11 +17,9 @@ These classifications help tailor services and benefits according to customer lo
 
 > **Premium**: `"Premium"`
 
+Defined in: [customer.ts:17](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L17)
+
 Represents a premium customer who enjoys additional benefits, discounts, and services.
-
-#### Defined in
-
-[customer.ts:17](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L17)
 
 ***
 
@@ -27,8 +27,6 @@ Represents a premium customer who enjoys additional benefits, discounts, and ser
 
 > **Regular**: `"Regular"`
 
+Defined in: [customer.ts:15](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L15)
+
 Represents a regular customer who receives standard services and pricing.
-
-#### Defined in
-
-[customer.ts:15](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L15)

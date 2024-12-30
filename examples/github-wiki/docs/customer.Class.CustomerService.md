@@ -2,6 +2,8 @@
 
 # Class: CustomerService
 
+Defined in: [customer.ts:143](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L143)
+
 Service for managing customers.
 
 ## Constructors
@@ -20,6 +22,8 @@ Service for managing customers.
 
 > **addCustomer**(`customer`, `contactInfo`, `billingInfo`): [`CustomerAccount`](../wiki/customer.Class.CustomerAccount)
 
+Defined in: [customer.ts:153](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L153)
+
 Add a new customer.
 
 #### Parameters
@@ -36,15 +40,13 @@ Add a new customer.
 
 The added customer account.
 
-#### Defined in
-
-[customer.ts:153](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L153)
-
 ***
 
 ### getAllCustomers()
 
 > **getAllCustomers**(): [`CustomerAccount`](../wiki/customer.Class.CustomerAccount)[]
+
+Defined in: [customer.ts:171](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L171)
 
 Get all customer accounts.
 
@@ -54,15 +56,13 @@ Get all customer accounts.
 
 An array of all customer accounts.
 
-#### Defined in
-
-[customer.ts:171](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L171)
-
 ***
 
 ### getCustomerById()
 
 > **getCustomerById**(`customerId`): [`CustomerAccount`](../wiki/customer.Class.CustomerAccount)
+
+Defined in: [customer.ts:180](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L180)
 
 Get a customer account by ID.
 
@@ -77,7 +77,3 @@ Get a customer account by ID.
 [`CustomerAccount`](../wiki/customer.Class.CustomerAccount)
 
 The customer account with the specified ID.
-
-#### Defined in
-
-[customer.ts:180](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L180)

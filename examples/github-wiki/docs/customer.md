@@ -4,22 +4,20 @@
 
 This module contains types and services related to customer management.
 
-## Index
-
-### Enumerations
+## Enumerations
 
 | Enumeration | Description |
 | ------ | ------ |
 | [CustomerType](../wiki/customer.Enumeration.CustomerType) | Enum representing different customer types. These classifications help tailor services and benefits according to customer loyalty and value. |
 
-### Classes
+## Classes
 
 | Class | Description |
 | ------ | ------ |
 | [CustomerAccount](../wiki/customer.Class.CustomerAccount) | Class representing a customer account. Manages and integrates different aspects of customer data and interactions with the business. |
 | [CustomerService](../wiki/customer.Class.CustomerService) | Service for managing customers. |
 
-### Interfaces
+## Interfaces
 
 | Interface | Description |
 | ------ | ------ |

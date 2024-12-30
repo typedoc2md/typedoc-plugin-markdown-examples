@@ -8,6 +8,8 @@
 
 > **truncateString**(`input`, `maxLength`): `string`
 
+Defined in: [utilities.ts:53](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/utilities.ts#L53)
+
 Function to truncate a string to a specified length.
 
 ## Parameters
@@ -29,7 +31,3 @@ The maximum length of the truncated string.
 `string`
 
 The truncated string.
-
-## Defined in
-
-[utilities.ts:53](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/utilities.ts#L53)

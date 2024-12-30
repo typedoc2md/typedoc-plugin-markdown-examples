@@ -6,6 +6,8 @@
 
 # Interface: ProductReview
 
+Defined in: [products.ts:139](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L139)
+
 Interface representing a product review.
 
 ## Properties
@@ -14,9 +16,7 @@ Interface representing a product review.
 
 > `optional` **comment**: `string`
 
-#### Defined in
-
-[products.ts:144](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L144)
+Defined in: [products.ts:144](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L144)
 
 ***
 
@@ -24,9 +24,7 @@ Interface representing a product review.
 
 > **productId**: `string`
 
-#### Defined in
-
-[products.ts:141](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L141)
+Defined in: [products.ts:141](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L141)
 
 ***
 
@@ -34,9 +32,7 @@ Interface representing a product review.
 
 > **rating**: `number`
 
-#### Defined in
-
-[products.ts:143](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L143)
+Defined in: [products.ts:143](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L143)
 
 ***
 
@@ -44,9 +40,7 @@ Interface representing a product review.
 
 > **reviewId**: `string`
 
-#### Defined in
-
-[products.ts:140](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L140)
+Defined in: [products.ts:140](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L140)
 
 ***
 
@@ -54,6 +48,4 @@ Interface representing a product review.
 
 > **username**: `string`
 
-#### Defined in
-
-[products.ts:142](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L142)
+Defined in: [products.ts:142](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L142)

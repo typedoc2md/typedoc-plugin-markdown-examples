@@ -6,6 +6,8 @@
 
 # Class: ProductReviewService
 
+Defined in: [products.ts:151](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L151)
+
 Service for managing product reviews.
 
 ## Constructors
@@ -24,6 +26,8 @@ Service for managing product reviews.
 
 > **addProductReview**(`review`): [`ProductReview`](../interfaces/ProductReview.md)
 
+Defined in: [products.ts:159](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L159)
+
 Add a new product review.
 
 #### Parameters
@@ -40,15 +44,13 @@ The product review to be added.
 
 The added product review.
 
-#### Defined in
-
-[products.ts:159](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L159)
-
 ***
 
 ### getAverageRating()
 
 > **getAverageRating**(`productId`): `number`
+
+Defined in: [products.ts:178](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L178)
 
 Get the average rating for a specific product.
 
@@ -66,15 +68,13 @@ The ID of the product.
 
 The average rating for the specified product.
 
-#### Defined in
-
-[products.ts:178](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L178)
-
 ***
 
 ### getProductReviews()
 
 > **getProductReviews**(`productId`): [`ProductReview`](../interfaces/ProductReview.md)[]
+
+Defined in: [products.ts:169](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L169)
 
 Get all product reviews for a specific product.
 
@@ -91,7 +91,3 @@ The ID of the product.
 [`ProductReview`](../interfaces/ProductReview.md)[]
 
 An array of product reviews for the specified product.
-
-#### Defined in
-
-[products.ts:169](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L169)

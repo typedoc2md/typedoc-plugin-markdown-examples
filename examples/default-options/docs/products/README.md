@@ -8,18 +8,16 @@
 
 This module contains types and services related to product management.
 
-## Index
-
-### Enumerations
+## Enumerations
 
 - [ProductCategory](enumerations/ProductCategory.md)
 
-### Classes
+## Classes
 
 - [ProductInventory](classes/ProductInventory.md)
 - [ProductReviewService](classes/ProductReviewService.md)
 
-### Interfaces
+## Interfaces
 
 - [Product](interfaces/Product.md)
 - [ProductDetails](interfaces/ProductDetails.md)

@@ -12,6 +12,8 @@ This module contains types and services related to customer management.
 
 ### CustomerType
 
+Defined in: [customer.ts:13](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L13)
+
 Enum representing different customer types.
 These classifications help tailor services and benefits according to customer loyalty and value.
 
@@ -19,12 +21,14 @@ These classifications help tailor services and benefits according to customer lo
 
 | Enumeration Member | Value | Description | Defined in |
 | ------ | ------ | ------ | ------ |
-| `Premium` | `"Premium"` | Represents a premium customer who enjoys additional benefits, discounts, and services. | [customer.ts:17](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L17) |
-| `Regular` | `"Regular"` | Represents a regular customer who receives standard services and pricing. | [customer.ts:15](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L15) |
+| <a id="premium"></a> `Premium` | `"Premium"` | Represents a premium customer who enjoys additional benefits, discounts, and services. | [customer.ts:17](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L17) |
+| <a id="regular"></a> `Regular` | `"Regular"` | Represents a regular customer who receives standard services and pricing. | [customer.ts:15](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L15) |
 
 ## Classes
 
 ### CustomerAccount
+
+Defined in: [customer.ts:76](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L76)
 
 Class representing a customer account.
 Manages and integrates different aspects of customer data and interactions with the business.
@@ -40,6 +44,8 @@ new CustomerAccount(
    billingInfo): CustomerAccount
 ```
 
+Defined in: [customer.ts:88](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L88)
+
 Constructs a new CustomerAccount instance.
 
 ###### Parameters
@@ -54,10 +60,6 @@ Constructs a new CustomerAccount instance.
 
 [`CustomerAccount`](customer.md#customeraccount)
 
-###### Defined in
-
-[customer.ts:88](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L88)
-
 #### Methods
 
 ##### addOrderToHistory()
@@ -65,6 +67,8 @@ Constructs a new CustomerAccount instance.
 ```ts
 addOrderToHistory(order): void
 ```
+
+Defined in: [customer.ts:127](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L127)
 
 Adds a new order to the customer's historical record.
 
@@ -78,15 +82,13 @@ Adds a new order to the customer's historical record.
 
 `void`
 
-###### Defined in
-
-[customer.ts:127](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L127)
-
 ##### getBillingInfo()
 
 ```ts
 getBillingInfo(): CustomerBilling
 ```
+
+Defined in: [customer.ts:119](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L119)
 
 Retrieves the billing information of the customer.
 
@@ -96,15 +98,13 @@ Retrieves the billing information of the customer.
 
 The billing details.
 
-###### Defined in
-
-[customer.ts:119](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L119)
-
 ##### getContactInfo()
 
 ```ts
 getContactInfo(): CustomerContact
 ```
+
+Defined in: [customer.ts:111](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L111)
 
 Retrieves the contact information of the customer.
 
@@ -114,15 +114,13 @@ Retrieves the contact information of the customer.
 
 The contact details.
 
-###### Defined in
-
-[customer.ts:111](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L111)
-
 ##### getCustomer()
 
 ```ts
 getCustomer(): Customer
 ```
+
+Defined in: [customer.ts:103](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L103)
 
 Retrieves the stored customer profile information.
 
@@ -132,15 +130,13 @@ Retrieves the stored customer profile information.
 
 The customer's profile data.
 
-###### Defined in
-
-[customer.ts:103](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L103)
-
 ##### getOrderHistory()
 
 ```ts
 getOrderHistory(): CustomerOrderHistory[]
 ```
+
+Defined in: [customer.ts:135](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L135)
 
 Retrieves the full history of orders made by the customer.
 
@@ -150,13 +146,11 @@ Retrieves the full history of orders made by the customer.
 
 An array of order history records.
 
-###### Defined in
-
-[customer.ts:135](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L135)
-
 ***
 
 ### CustomerService
+
+Defined in: [customer.ts:143](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L143)
 
 Service for managing customers.
 
@@ -183,6 +177,8 @@ addCustomer(
    billingInfo): CustomerAccount
 ```
 
+Defined in: [customer.ts:153](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L153)
+
 Add a new customer.
 
 ###### Parameters
@@ -199,15 +195,13 @@ Add a new customer.
 
 The added customer account.
 
-###### Defined in
-
-[customer.ts:153](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L153)
-
 ##### getAllCustomers()
 
 ```ts
 getAllCustomers(): CustomerAccount[]
 ```
+
+Defined in: [customer.ts:171](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L171)
 
 Get all customer accounts.
 
@@ -217,15 +211,13 @@ Get all customer accounts.
 
 An array of all customer accounts.
 
-###### Defined in
-
-[customer.ts:171](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L171)
-
 ##### getCustomerById()
 
 ```ts
 getCustomerById(customerId): CustomerAccount
 ```
+
+Defined in: [customer.ts:180](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L180)
 
 Get a customer account by ID.
 
@@ -241,13 +233,11 @@ Get a customer account by ID.
 
 The customer account with the specified ID.
 
-###### Defined in
-
-[customer.ts:180](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L180)
-
 ## Interfaces
 
 ### Customer
+
+Defined in: [customer.ts:24](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L24)
 
 Interface representing a customer.
 Stores comprehensive details about a customer necessary for various business operations.
@@ -256,15 +246,17 @@ Stores comprehensive details about a customer necessary for various business ope
 
 | Property | Type | Description | Defined in |
 | ------ | ------ | ------ | ------ |
-| `address` | `string` | The physical address of the customer, used for shipping and billing purposes. | [customer.ts:32](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L32) |
-| `customerId` | `string` | A unique identifier for the customer, essential for tracking and customer management. | [customer.ts:26](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L26) |
-| `email` | `string` | The primary email address of the customer, used for communication and digital receipts. | [customer.ts:30](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L30) |
-| `name` | `string` | The full name of the customer, used for personalization and identification. | [customer.ts:28](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L28) |
-| `type` | [`CustomerType`](customer.md#customertype) | The classification of the customer, which can affect the level of service and pricing they receive. | [customer.ts:34](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L34) |
+| <a id="address"></a> `address` | `string` | The physical address of the customer, used for shipping and billing purposes. | [customer.ts:32](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L32) |
+| <a id="customerid"></a> `customerId` | `string` | A unique identifier for the customer, essential for tracking and customer management. | [customer.ts:26](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L26) |
+| <a id="email"></a> `email` | `string` | The primary email address of the customer, used for communication and digital receipts. | [customer.ts:30](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L30) |
+| <a id="name"></a> `name` | `string` | The full name of the customer, used for personalization and identification. | [customer.ts:28](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L28) |
+| <a id="type"></a> `type` | [`CustomerType`](customer.md#customertype) | The classification of the customer, which can affect the level of service and pricing they receive. | [customer.ts:34](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L34) |
 
 ***
 
 ### CustomerBilling
+
+Defined in: [customer.ts:52](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L52)
 
 Interface representing customer billing information.
 Used for processing payments and managing financial transactions.
@@ -273,12 +265,14 @@ Used for processing payments and managing financial transactions.
 
 | Property | Type | Description | Defined in |
 | ------ | ------ | ------ | ------ |
-| `creditCardNumber` | `string` | The customer's credit card number, used for billing and payment processing. | [customer.ts:54](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L54) |
-| `expirationDate` | `string` | The expiration date of the credit card, important for validating the card's current validity. | [customer.ts:56](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L56) |
+| <a id="creditcardnumber"></a> `creditCardNumber` | `string` | The customer's credit card number, used for billing and payment processing. | [customer.ts:54](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L54) |
+| <a id="expirationdate"></a> `expirationDate` | `string` | The expiration date of the credit card, important for validating the card's current validity. | [customer.ts:56](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L56) |
 
 ***
 
 ### CustomerContact
+
+Defined in: [customer.ts:41](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L41)
 
 Interface representing customer contact information.
 Essential for communication and service delivery.
@@ -287,12 +281,14 @@ Essential for communication and service delivery.
 
 | Property | Type | Description | Defined in |
 | ------ | ------ | ------ | ------ |
-| `email` | `string` | Primary email address for customer communications. | [customer.ts:43](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L43) |
-| `phone?` | `string` | Optional phone number for additional contact or urgent communications. | [customer.ts:45](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L45) |
+| <a id="email-1"></a> `email` | `string` | Primary email address for customer communications. | [customer.ts:43](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L43) |
+| <a id="phone"></a> `phone?` | `string` | Optional phone number for additional contact or urgent communications. | [customer.ts:45](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L45) |
 
 ***
 
 ### CustomerOrderHistory
+
+Defined in: [customer.ts:63](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L63)
 
 Interface representing a customer's order history.
 Useful for tracking past transactions and analyzing customer behavior.
@@ -301,6 +297,6 @@ Useful for tracking past transactions and analyzing customer behavior.
 
 | Property | Type | Description | Defined in |
 | ------ | ------ | ------ | ------ |
-| `orderDate` | `Date` | The date when the order was placed, important for historical data and analytics. | [customer.ts:67](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L67) |
-| `orderId` | `string` | Unique identifier for each order, crucial for order tracking and management. | [customer.ts:65](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L65) |
-| `totalAmount` | `number` | The total amount spent on the order, used for financial records and customer spending analysis. | [customer.ts:69](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L69) |
+| <a id="orderdate"></a> `orderDate` | `Date` | The date when the order was placed, important for historical data and analytics. | [customer.ts:67](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L67) |
+| <a id="orderid"></a> `orderId` | `string` | Unique identifier for each order, crucial for order tracking and management. | [customer.ts:65](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L65) |
+| <a id="totalamount"></a> `totalAmount` | `number` | The total amount spent on the order, used for financial records and customer spending analysis. | [customer.ts:69](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L69) |

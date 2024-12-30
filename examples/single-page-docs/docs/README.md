@@ -14,6 +14,8 @@ Utilities include formatting currencies, manipulating strings, generating identi
 
 > **formatCurrency**(`amount`, `currencyCode`): `string`
 
+Defined in: [utilities.ts:17](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/utilities.ts#L17)
+
 Formats a number as currency with a given currency code.
 Utilizes the Intl.NumberFormat API to handle locale-specific currency formatting.
 
@@ -30,15 +32,13 @@ Utilizes the Intl.NumberFormat API to handle locale-specific currency formatting
 
 The formatted currency string in the format "$1,234.56".
 
-#### Defined in
-
-[utilities.ts:17](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/utilities.ts#L17)
-
 ***
 
 ### generateUniqueId()
 
 > **generateUniqueId**(): `string`
+
+Defined in: [utilities.ts:41](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/utilities.ts#L41)
 
 Converts a string to title case, making the first character of each word uppercase.
 Effective for formatting titles or names in a readable format.
@@ -49,15 +49,13 @@ Effective for formatting titles or names in a readable format.
 
 The string transformed to title case.
 
-#### Defined in
-
-[utilities.ts:41](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/utilities.ts#L41)
-
 ***
 
 ### isValidEmail()
 
 > **isValidEmail**(`email`): `boolean`
+
+Defined in: [utilities.ts:65](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/utilities.ts#L65)
 
 Function to check if a value is a valid email address.
 
@@ -73,15 +71,13 @@ Function to check if a value is a valid email address.
 
 True if the email address is valid, false otherwise.
 
-#### Defined in
-
-[utilities.ts:65](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/utilities.ts#L65)
-
 ***
 
 ### shuffleArray()
 
 > **shuffleArray**\<`T`\>(`array`): `T`[]
+
+Defined in: [utilities.ts:75](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/utilities.ts#L75)
 
 Function to shuffle an array.
 
@@ -103,15 +99,13 @@ Function to shuffle an array.
 
 The shuffled array.
 
-#### Defined in
-
-[utilities.ts:75](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/utilities.ts#L75)
-
 ***
 
 ### toTitleCase()
 
 > **toTitleCase**(`input`): `string`
+
+Defined in: [utilities.ts:29](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/utilities.ts#L29)
 
 Function to convert a string to title case.
 
@@ -127,15 +121,13 @@ Function to convert a string to title case.
 
 The input string in title case.
 
-#### Defined in
-
-[utilities.ts:29](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/utilities.ts#L29)
-
 ***
 
 ### truncateString()
 
 > **truncateString**(`input`, `maxLength`): `string`
+
+Defined in: [utilities.ts:53](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/utilities.ts#L53)
 
 Function to truncate a string to a specified length.
 
@@ -151,7 +143,3 @@ Function to truncate a string to a specified length.
 `string`
 
 The truncated string.
-
-#### Defined in
-
-[utilities.ts:53](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/utilities.ts#L53)

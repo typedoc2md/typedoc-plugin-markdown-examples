@@ -10,7 +10,7 @@ export function load(app) {
 
   app.renderer.markdownHooks.on(
     "content.begin",
-    () => `> "content.begin" hook - last updated ${new Date().toISOString()}`
+    () => `> "content.begin" hook`
   );
 
   app.renderer.markdownHooks.on(

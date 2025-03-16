@@ -5,6 +5,7 @@
 Defined in: [billing.ts:135](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L135)
 
 Service for managing billing history.
+
 Provides functionality to store and retrieve the history of transactions.
 
 ## Constructors
@@ -30,15 +31,15 @@ This method is typically called after a transaction is completed to maintain a r
 
 #### Parameters
 
-| Parameter | Type | Description |
-| ------ | ------ | ------ |
+| Parameter     | Type                                                                 | Description                                         |
+| ------------- | -------------------------------------------------------------------- | --------------------------------------------------- |
 | `transaction` | [`BillingTransaction`](../wiki/billing.Interface.BillingTransaction) | The billing transaction to be added to the history. |
 
 #### Returns
 
 `void`
 
-***
+---
 
 ### getBillingHistory()
 

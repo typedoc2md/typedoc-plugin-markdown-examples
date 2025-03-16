@@ -5,7 +5,6 @@
 Defined in: [billing.ts:135](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L135)
 
 Service for managing billing history.
-
 Provides functionality to store and retrieve the history of transactions.
 
 ## Constructors

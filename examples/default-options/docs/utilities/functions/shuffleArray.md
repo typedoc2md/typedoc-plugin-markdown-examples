@@ -14,7 +14,9 @@ Function to shuffle an array.
 
 ## Type Parameters
 
-• **T**
+### T
+
+`T`
 
 ## Parameters
 

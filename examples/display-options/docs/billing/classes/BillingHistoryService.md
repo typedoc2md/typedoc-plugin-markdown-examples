@@ -21,7 +21,7 @@ new BillingHistoryService(): BillingHistoryService
 
 #### Returns
 
-[`BillingHistoryService`](BillingHistoryService.md)
+`BillingHistoryService`
 
 ## Methods
 

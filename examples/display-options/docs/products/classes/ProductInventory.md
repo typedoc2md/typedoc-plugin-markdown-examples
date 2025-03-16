@@ -20,7 +20,7 @@ new ProductInventory(): ProductInventory
 
 #### Returns
 
-[`ProductInventory`](ProductInventory.md)
+`ProductInventory`
 
 ## Methods
 

@@ -11,11 +11,11 @@ Provides functionality to store and retrieve the history of transactions.
 
 ### new BillingHistoryService()
 
-> **new BillingHistoryService**(): [`BillingHistoryService`](../wiki/billing.Class.BillingHistoryService)
+> **new BillingHistoryService**(): `BillingHistoryService`
 
 #### Returns
 
-[`BillingHistoryService`](../wiki/billing.Class.BillingHistoryService)
+`BillingHistoryService`
 
 ## Methods
 

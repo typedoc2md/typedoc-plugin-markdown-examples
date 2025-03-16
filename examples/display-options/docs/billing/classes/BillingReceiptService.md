@@ -21,7 +21,7 @@ new BillingReceiptService(): BillingReceiptService
 
 #### Returns
 
-[`BillingReceiptService`](BillingReceiptService.md)
+`BillingReceiptService`
 
 ## Methods
 

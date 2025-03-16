@@ -14,11 +14,11 @@ Class representing a product inventory.
 
 ### new ProductInventory()
 
-> **new ProductInventory**(): [`ProductInventory`](ProductInventory.md)
+> **new ProductInventory**(): `ProductInventory`
 
 #### Returns
 
-[`ProductInventory`](ProductInventory.md)
+`ProductInventory`
 
 ## Methods
 

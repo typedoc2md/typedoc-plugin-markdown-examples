@@ -10,11 +10,11 @@ Service for managing product reviews.
 
 ### new ProductReviewService()
 
-> **new ProductReviewService**(): [`ProductReviewService`](../wiki/products.Class.ProductReviewService)
+> **new ProductReviewService**(): `ProductReviewService`
 
 #### Returns
 
-[`ProductReviewService`](../wiki/products.Class.ProductReviewService)
+`ProductReviewService`
 
 ## Methods
 

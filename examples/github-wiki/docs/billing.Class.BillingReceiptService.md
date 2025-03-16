@@ -11,11 +11,11 @@ Provides functionality to generate and retrieve receipts for transactions.
 
 ### new BillingReceiptService()
 
-> **new BillingReceiptService**(): [`BillingReceiptService`](../wiki/billing.Class.BillingReceiptService)
+> **new BillingReceiptService**(): `BillingReceiptService`
 
 #### Returns
 
-[`BillingReceiptService`](../wiki/billing.Class.BillingReceiptService)
+`BillingReceiptService`
 
 ## Methods
 

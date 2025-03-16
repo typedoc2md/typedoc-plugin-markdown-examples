@@ -8,13 +8,13 @@
 
 ### new TodoList()
 
-> **new TodoList**(): [`TodoList`](TodoList.md)
+> **new TodoList**(): `TodoList`
 
 定义于: [index.ts:6](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/localization/src/index.ts#L6)
 
 #### 返回
 
-[`TodoList`](TodoList.md)
+`TodoList`
 
 ## 方法
 

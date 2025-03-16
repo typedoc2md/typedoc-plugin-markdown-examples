@@ -36,7 +36,7 @@ Constructs a new CustomerAccount instance.
 
 #### Returns
 
-[`CustomerAccount`](CustomerAccount.md)
+`CustomerAccount`
 
 ## Methods
 

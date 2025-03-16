@@ -15,11 +15,11 @@ Provides functionality to generate and retrieve receipts for transactions.
 
 ### new BillingReceiptService()
 
-> **new BillingReceiptService**(): [`BillingReceiptService`](BillingReceiptService.md)
+> **new BillingReceiptService**(): `BillingReceiptService`
 
 #### Returns
 
-[`BillingReceiptService`](BillingReceiptService.md)
+`BillingReceiptService`
 
 ## Methods
 

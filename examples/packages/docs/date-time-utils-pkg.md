@@ -1,4 +1,4 @@
-[packages-example](../README.md) / date-time-utils-pkg
+[packages-example](README.md) / date-time-utils-pkg
 
 # date-time-utils-pkg
 

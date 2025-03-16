@@ -52,13 +52,13 @@ Constructs a new CustomerAccount instance.
 
 | Parameter | Type | Description |
 | ------ | ------ | ------ |
-| `customer` | [`Customer`](customer.md#customer) | Basic customer profile information. |
-| `contactInfo` | [`CustomerContact`](customer.md#customercontact) | Contact details for the customer. |
-| `billingInfo` | [`CustomerBilling`](customer.md#customerbilling) | Customer's billing information. |
+| `customer` | [`Customer`](#customer) | Basic customer profile information. |
+| `contactInfo` | [`CustomerContact`](#customercontact) | Contact details for the customer. |
+| `billingInfo` | [`CustomerBilling`](#customerbilling) | Customer's billing information. |
 
 ###### Returns
 
-[`CustomerAccount`](customer.md#customeraccount)
+[`CustomerAccount`](#customeraccount)
 
 #### Methods
 
@@ -76,7 +76,7 @@ Adds a new order to the customer's historical record.
 
 | Parameter | Type | Description |
 | ------ | ------ | ------ |
-| `order` | [`CustomerOrderHistory`](customer.md#customerorderhistory) | The order to be added to the history. |
+| `order` | [`CustomerOrderHistory`](#customerorderhistory) | The order to be added to the history. |
 
 ###### Returns
 
@@ -94,7 +94,7 @@ Retrieves the billing information of the customer.
 
 ###### Returns
 
-[`CustomerBilling`](customer.md#customerbilling)
+[`CustomerBilling`](#customerbilling)
 
 The billing details.
 
@@ -110,7 +110,7 @@ Retrieves the contact information of the customer.
 
 ###### Returns
 
-[`CustomerContact`](customer.md#customercontact)
+[`CustomerContact`](#customercontact)
 
 The contact details.
 
@@ -126,7 +126,7 @@ Retrieves the stored customer profile information.
 
 ###### Returns
 
-[`Customer`](customer.md#customer)
+[`Customer`](#customer)
 
 The customer's profile data.
 
@@ -142,7 +142,7 @@ Retrieves the full history of orders made by the customer.
 
 ###### Returns
 
-[`CustomerOrderHistory`](customer.md#customerorderhistory)[]
+[`CustomerOrderHistory`](#customerorderhistory)[]
 
 An array of order history records.
 
@@ -164,7 +164,7 @@ new CustomerService(): CustomerService
 
 ###### Returns
 
-[`CustomerService`](customer.md#customerservice)
+[`CustomerService`](#customerservice)
 
 #### Methods
 
@@ -185,13 +185,13 @@ Add a new customer.
 
 | Parameter | Type | Description |
 | ------ | ------ | ------ |
-| `customer` | [`Customer`](customer.md#customer) | The customer to be added. |
-| `contactInfo` | [`CustomerContact`](customer.md#customercontact) | The contact information for the customer. |
-| `billingInfo` | [`CustomerBilling`](customer.md#customerbilling) | The billing information for the customer. |
+| `customer` | [`Customer`](#customer) | The customer to be added. |
+| `contactInfo` | [`CustomerContact`](#customercontact) | The contact information for the customer. |
+| `billingInfo` | [`CustomerBilling`](#customerbilling) | The billing information for the customer. |
 
 ###### Returns
 
-[`CustomerAccount`](customer.md#customeraccount)
+[`CustomerAccount`](#customeraccount)
 
 The added customer account.
 
@@ -207,7 +207,7 @@ Get all customer accounts.
 
 ###### Returns
 
-[`CustomerAccount`](customer.md#customeraccount)[]
+[`CustomerAccount`](#customeraccount)[]
 
 An array of all customer accounts.
 
@@ -229,7 +229,7 @@ Get a customer account by ID.
 
 ###### Returns
 
-[`CustomerAccount`](customer.md#customeraccount)
+[`CustomerAccount`](#customeraccount)
 
 The customer account with the specified ID.
 
@@ -250,7 +250,7 @@ Stores comprehensive details about a customer necessary for various business ope
 | <a id="customerid"></a> `customerId` | `string` | A unique identifier for the customer, essential for tracking and customer management. | [customer.ts:26](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L26) |
 | <a id="email"></a> `email` | `string` | The primary email address of the customer, used for communication and digital receipts. | [customer.ts:30](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L30) |
 | <a id="name"></a> `name` | `string` | The full name of the customer, used for personalization and identification. | [customer.ts:28](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L28) |
-| <a id="type"></a> `type` | [`CustomerType`](customer.md#customertype) | The classification of the customer, which can affect the level of service and pricing they receive. | [customer.ts:34](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L34) |
+| <a id="type"></a> `type` | [`CustomerType`](#customertype) | The classification of the customer, which can affect the level of service and pricing they receive. | [customer.ts:34](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L34) |
 
 ***
 

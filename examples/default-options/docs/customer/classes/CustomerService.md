@@ -14,11 +14,11 @@ Service for managing customers.
 
 ### new CustomerService()
 
-> **new CustomerService**(): [`CustomerService`](CustomerService.md)
+> **new CustomerService**(): `CustomerService`
 
 #### Returns
 
-[`CustomerService`](CustomerService.md)
+`CustomerService`
 
 ## Methods
 

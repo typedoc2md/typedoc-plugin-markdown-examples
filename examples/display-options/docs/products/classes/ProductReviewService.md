@@ -20,7 +20,7 @@ new ProductReviewService(): ProductReviewService
 
 #### Returns
 
-[`ProductReviewService`](ProductReviewService.md)
+`ProductReviewService`
 
 ## Methods
 

@@ -28,7 +28,7 @@ new ShippingService(): ShippingService
 
 ###### Returns
 
-[`ShippingService`](shipping.md#shippingservice)
+[`ShippingService`](#shippingservice)
 
 #### Methods
 
@@ -45,7 +45,7 @@ Useful for tracking, auditing, and providing customers with updates on their shi
 
 ###### Returns
 
-[`ShippingRecord`](shipping.md#shippingrecord)[]
+[`ShippingRecord`](#shippingrecord)[]
 
 An array of all shipping records.
 
@@ -64,11 +64,11 @@ This method simulates the action of shipping an order in a real-world scenario.
 
 | Parameter | Type | Description |
 | ------ | ------ | ------ |
-| `shipment` | [`ShippingRecord`](shipping.md#shippingrecord) | The shipment record to be added. |
+| `shipment` | [`ShippingRecord`](#shippingrecord) | The shipment record to be added. |
 
 ###### Returns
 
-[`ShippingRecord`](shipping.md#shippingrecord)
+[`ShippingRecord`](#shippingrecord)
 
 The shipment record that was added to the shipments list.
 

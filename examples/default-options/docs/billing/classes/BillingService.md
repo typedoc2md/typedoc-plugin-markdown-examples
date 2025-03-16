@@ -15,11 +15,11 @@ Provides functionality to process and retrieve billing transactions.
 
 ### new BillingService()
 
-> **new BillingService**(): [`BillingService`](BillingService.md)
+> **new BillingService**(): `BillingService`
 
 #### Returns
 
-[`BillingService`](BillingService.md)
+`BillingService`
 
 ## Methods
 

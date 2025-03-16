@@ -11,7 +11,7 @@ Manages and integrates different aspects of customer data and interactions with 
 
 ### new CustomerAccount()
 
-> **new CustomerAccount**(`customer`, `contactInfo`, `billingInfo`): [`CustomerAccount`](../wiki/customer.Class.CustomerAccount)
+> **new CustomerAccount**(`customer`, `contactInfo`, `billingInfo`): `CustomerAccount`
 
 Defined in: [customer.ts:88](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L88)
 
@@ -27,7 +27,7 @@ Constructs a new CustomerAccount instance.
 
 #### Returns
 
-[`CustomerAccount`](../wiki/customer.Class.CustomerAccount)
+`CustomerAccount`
 
 ## Methods
 

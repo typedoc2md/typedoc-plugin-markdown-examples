@@ -11,11 +11,11 @@ Provides methods to handle the logistics of order shipments, including recording
 
 ### new ShippingService()
 
-> **new ShippingService**(): [`ShippingService`](../wiki/shipping.Class.ShippingService)
+> **new ShippingService**(): `ShippingService`
 
 #### Returns
 
-[`ShippingService`](../wiki/shipping.Class.ShippingService)
+`ShippingService`
 
 ## Methods
 

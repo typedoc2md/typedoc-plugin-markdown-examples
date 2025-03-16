@@ -12,7 +12,7 @@
 
 ### new User()
 
-> **new User**(`id`, `name`, `email`, `address`, `age`?): [`User`](User.md)
+> **new User**(`id`, `name`, `email`, `address`, `age`?): `User`
 
 定义于: [index.ts:83](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/localization/src/index.ts#L83)
 
@@ -50,7 +50,7 @@
 
 #### 返回
 
-[`User`](User.md)
+`User`
 
 ## 属性
 

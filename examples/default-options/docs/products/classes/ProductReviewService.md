@@ -14,11 +14,11 @@ Service for managing product reviews.
 
 ### new ProductReviewService()
 
-> **new ProductReviewService**(): [`ProductReviewService`](ProductReviewService.md)
+> **new ProductReviewService**(): `ProductReviewService`
 
 #### Returns
 
-[`ProductReviewService`](ProductReviewService.md)
+`ProductReviewService`
 
 ## Methods
 

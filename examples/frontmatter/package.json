@@ -3,8 +3,5 @@
   "version": "1.0.0",
   "scripts": {
     "docs": "typedoc"
-  },
-  "devDependencies": {
-    "typedoc-plugin-frontmatter": "^1.1.0"
   }
 }

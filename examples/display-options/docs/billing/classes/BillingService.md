@@ -21,7 +21,7 @@ new BillingService(): BillingService
 
 #### Returns
 
-[`BillingService`](BillingService.md)
+`BillingService`
 
 ## Methods
 

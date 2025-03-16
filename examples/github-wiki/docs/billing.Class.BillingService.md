@@ -11,11 +11,11 @@ Provides functionality to process and retrieve billing transactions.
 
 ### new BillingService()
 
-> **new BillingService**(): [`BillingService`](../wiki/billing.Class.BillingService)
+> **new BillingService**(): `BillingService`
 
 #### Returns
 
-[`BillingService`](../wiki/billing.Class.BillingService)
+`BillingService`
 
 ## Methods
 

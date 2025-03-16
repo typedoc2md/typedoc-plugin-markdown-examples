@@ -15,11 +15,11 @@ Provides functionality to store and retrieve the history of transactions.
 
 ### new BillingHistoryService()
 
-> **new BillingHistoryService**(): [`BillingHistoryService`](BillingHistoryService.md)
+> **new BillingHistoryService**(): `BillingHistoryService`
 
 #### Returns
 
-[`BillingHistoryService`](BillingHistoryService.md)
+`BillingHistoryService`
 
 ## Methods
 

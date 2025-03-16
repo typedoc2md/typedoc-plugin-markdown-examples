@@ -10,11 +10,11 @@ Service for managing customers.
 
 ### new CustomerService()
 
-> **new CustomerService**(): [`CustomerService`](../wiki/customer.Class.CustomerService)
+> **new CustomerService**(): `CustomerService`
 
 #### Returns
 
-[`CustomerService`](../wiki/customer.Class.CustomerService)
+`CustomerService`
 
 ## Methods
 

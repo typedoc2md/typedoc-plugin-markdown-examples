@@ -16,8 +16,8 @@ Defined in: [index.ts:6](https://github.com/typedoc2md/typedoc-plugin-markdown-e
 
 ### new SomeClass()
 
-> **new SomeClass**(): [`SomeClass`](SomeClass.md)
+> **new SomeClass**(): `SomeClass`
 
 #### Returns
 
-[`SomeClass`](SomeClass.md)
+`SomeClass`

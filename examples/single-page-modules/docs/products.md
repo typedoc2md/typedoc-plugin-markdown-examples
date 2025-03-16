@@ -44,7 +44,7 @@ new ProductInventory(): ProductInventory
 
 ###### Returns
 
-[`ProductInventory`](products.md#productinventory)
+[`ProductInventory`](#productinventory)
 
 #### Methods
 
@@ -62,11 +62,11 @@ Add a new product to the inventory.
 
 | Parameter | Type | Description |
 | ------ | ------ | ------ |
-| `product` | [`ProductDetails`](products.md#productdetails) | The product to be added. |
+| `product` | [`ProductDetails`](#productdetails) | The product to be added. |
 
 ###### Returns
 
-[`ProductDetails`](products.md#productdetails)
+[`ProductDetails`](#productdetails)
 
 The added product details.
 
@@ -82,7 +82,7 @@ Get all products in the inventory.
 
 ###### Returns
 
-[`ProductDetails`](products.md#productdetails)[]
+[`ProductDetails`](#productdetails)[]
 
 An array of all product details.
 
@@ -104,7 +104,7 @@ Get product details by ID.
 
 ###### Returns
 
-[`ProductDetails`](products.md#productdetails)
+[`ProductDetails`](#productdetails)
 
 The product details with the specified ID.
 
@@ -122,11 +122,11 @@ Get products by category.
 
 | Parameter | Type | Description |
 | ------ | ------ | ------ |
-| `category` | [`ProductCategory`](products.md#productcategory) | The product category. |
+| `category` | [`ProductCategory`](#productcategory) | The product category. |
 
 ###### Returns
 
-[`ProductDetails`](products.md#productdetails)[]
+[`ProductDetails`](#productdetails)[]
 
 An array of product details in the specified category.
 
@@ -148,7 +148,7 @@ Remove a product from the inventory.
 
 ###### Returns
 
-[`ProductDetails`](products.md#productdetails)
+[`ProductDetails`](#productdetails)
 
 The removed product details.
 
@@ -167,11 +167,11 @@ Update product details.
 | Parameter | Type | Description |
 | ------ | ------ | ------ |
 | `productId` | `string` | The ID of the product to be updated. |
-| `updatedDetails` | [`ProductDetails`](products.md#productdetails) | The updated product details. |
+| `updatedDetails` | [`ProductDetails`](#productdetails) | The updated product details. |
 
 ###### Returns
 
-[`ProductDetails`](products.md#productdetails)
+[`ProductDetails`](#productdetails)
 
 The updated product details.
 
@@ -193,7 +193,7 @@ new ProductReviewService(): ProductReviewService
 
 ###### Returns
 
-[`ProductReviewService`](products.md#productreviewservice)
+[`ProductReviewService`](#productreviewservice)
 
 #### Methods
 
@@ -211,11 +211,11 @@ Add a new product review.
 
 | Parameter | Type | Description |
 | ------ | ------ | ------ |
-| `review` | [`ProductReview`](products.md#productreview) | The product review to be added. |
+| `review` | [`ProductReview`](#productreview) | The product review to be added. |
 
 ###### Returns
 
-[`ProductReview`](products.md#productreview)
+[`ProductReview`](#productreview)
 
 The added product review.
 
@@ -259,7 +259,7 @@ Get all product reviews for a specific product.
 
 ###### Returns
 
-[`ProductReview`](products.md#productreview)[]
+[`ProductReview`](#productreview)[]
 
 An array of product reviews for the specified product.
 
@@ -274,7 +274,7 @@ Contains the essential identifiers and attributes of a product.
 
 #### Extended by
 
-- [`ProductDetails`](products.md#productdetails)
+- [`ProductDetails`](#productdetails)
 
 #### Properties
 
@@ -295,17 +295,17 @@ Extends the basic Product interface to include more comprehensive attributes for
 
 #### Extends
 
-- [`Product`](products.md#product)
+- [`Product`](#product)
 
 #### Properties
 
 | Property | Type | Description | Inherited from | Defined in |
 | ------ | ------ | ------ | ------ | ------ |
-| <a id="category"></a> `category` | [`ProductCategory`](products.md#productcategory) | Category of the product as defined by the ProductCategory enum. This categorization helps in organizing products into sections or departments, facilitating easier product discovery and management. | - | [products.ts:54](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L54) |
+| <a id="category"></a> `category` | [`ProductCategory`](#productcategory) | Category of the product as defined by the ProductCategory enum. This categorization helps in organizing products into sections or departments, facilitating easier product discovery and management. | - | [products.ts:54](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L54) |
 | <a id="description"></a> `description` | `string` | Detailed textual description of the product. This provides potential buyers with more information about the product's features, usage, and benefits. | - | [products.ts:48](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L48) |
-| <a id="name-1"></a> `name` | `string` | Name of the product. | [`Product`](products.md#product).[`name`](products.md#name) | [products.ts:16](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L16) |
-| <a id="price-1"></a> `price` | `number` | Price of the product in the system's set currency. | [`Product`](products.md#product).[`price`](products.md#price) | [products.ts:18](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L18) |
-| <a id="productid-1"></a> `productId` | `string` | Unique identifier for the product. | [`Product`](products.md#product).[`productId`](products.md#productid) | [products.ts:14](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L14) |
+| <a id="name-1"></a> `name` | `string` | Name of the product. | [`Product`](#product).[`name`](#name) | [products.ts:16](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L16) |
+| <a id="price-1"></a> `price` | `number` | Price of the product in the system's set currency. | [`Product`](#product).[`price`](#price) | [products.ts:18](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L18) |
+| <a id="productid-1"></a> `productId` | `string` | Unique identifier for the product. | [`Product`](#product).[`productId`](#productid) | [products.ts:14](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L14) |
 
 ***
 

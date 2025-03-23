@@ -13,7 +13,7 @@ Provides methods to handle the logistics of order shipments, including recording
 
 ## Constructors
 
-### new ShippingService()
+### Constructor
 
 > **new ShippingService**(): `ShippingService`
 

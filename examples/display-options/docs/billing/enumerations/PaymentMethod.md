@@ -2,7 +2,7 @@
 
 ***
 
-[Home](../../README.md) / [billing](../README.md) / PaymentMethod
+[dummy-typescript-api](../../README.md) / [billing](../README.md) / PaymentMethod
 
 # Enumeration: PaymentMethod
 

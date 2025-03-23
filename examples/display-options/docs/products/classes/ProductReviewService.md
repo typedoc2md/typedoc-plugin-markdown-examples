@@ -2,7 +2,7 @@
 
 ***
 
-[Home](../../README.md) / [products](../README.md) / ProductReviewService
+[dummy-typescript-api](../../README.md) / [products](../README.md) / ProductReviewService
 
 # Class: ProductReviewService
 
@@ -12,7 +12,7 @@ Service for managing product reviews.
 
 ## Constructors
 
-### new ProductReviewService()
+### Constructor
 
 ```ts
 new ProductReviewService(): ProductReviewService

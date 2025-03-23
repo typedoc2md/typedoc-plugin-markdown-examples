@@ -2,7 +2,7 @@
 
 ***
 
-[Home](../README.md) / products
+[dummy-typescript-api](../README.md) / products
 
 # products
 

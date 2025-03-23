@@ -2,7 +2,7 @@
 
 ***
 
-[Home](../../README.md) / [customer](../README.md) / CustomerType
+[dummy-typescript-api](../../README.md) / [customer](../README.md) / CustomerType
 
 # Enumeration: CustomerType
 

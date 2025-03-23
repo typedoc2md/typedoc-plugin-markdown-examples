@@ -2,7 +2,7 @@
 
 ***
 
-[Home](../../README.md) / [utilities](../README.md) / toTitleCase
+[dummy-typescript-api](../../README.md) / [utilities](../README.md) / toTitleCase
 
 # Function: toTitleCase()
 

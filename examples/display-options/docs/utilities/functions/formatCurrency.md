@@ -2,7 +2,7 @@
 
 ***
 
-[Home](../../README.md) / [utilities](../README.md) / formatCurrency
+[dummy-typescript-api](../../README.md) / [utilities](../README.md) / formatCurrency
 
 # Function: formatCurrency()
 

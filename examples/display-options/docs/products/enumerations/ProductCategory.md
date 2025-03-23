@@ -2,7 +2,7 @@
 
 ***
 
-[Home](../../README.md) / [products](../README.md) / ProductCategory
+[dummy-typescript-api](../../README.md) / [products](../README.md) / ProductCategory
 
 # Enumeration: ProductCategory
 

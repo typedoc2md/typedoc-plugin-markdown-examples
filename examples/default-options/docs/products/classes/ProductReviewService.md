@@ -12,7 +12,7 @@ Service for managing product reviews.
 
 ## Constructors
 
-### new ProductReviewService()
+### Constructor
 
 > **new ProductReviewService**(): `ProductReviewService`
 

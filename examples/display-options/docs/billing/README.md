@@ -2,7 +2,7 @@
 
 ***
 
-[Home](../README.md) / billing
+[dummy-typescript-api](../README.md) / billing
 
 # billing
 

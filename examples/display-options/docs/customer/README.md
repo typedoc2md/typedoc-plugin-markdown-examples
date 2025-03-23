@@ -2,7 +2,7 @@
 
 ***
 
-[Home](../README.md) / customer
+[dummy-typescript-api](../README.md) / customer
 
 # customer
 

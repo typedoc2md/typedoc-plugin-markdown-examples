@@ -2,7 +2,7 @@
 
 ***
 
-[Home](../../README.md) / [utilities](../README.md) / generateUniqueId
+[dummy-typescript-api](../../README.md) / [utilities](../README.md) / generateUniqueId
 
 # Function: generateUniqueId()
 

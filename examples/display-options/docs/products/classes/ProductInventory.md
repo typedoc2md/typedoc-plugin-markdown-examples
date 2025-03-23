@@ -2,7 +2,7 @@
 
 ***
 
-[Home](../../README.md) / [products](../README.md) / ProductInventory
+[dummy-typescript-api](../../README.md) / [products](../README.md) / ProductInventory
 
 # Class: ProductInventory
 
@@ -12,7 +12,7 @@ Class representing a product inventory.
 
 ## Constructors
 
-### new ProductInventory()
+### Constructor
 
 ```ts
 new ProductInventory(): ProductInventory

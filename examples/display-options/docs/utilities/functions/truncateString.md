@@ -2,7 +2,7 @@
 
 ***
 
-[Home](../../README.md) / [utilities](../README.md) / truncateString
+[dummy-typescript-api](../../README.md) / [utilities](../README.md) / truncateString
 
 # Function: truncateString()
 

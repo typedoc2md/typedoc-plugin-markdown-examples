@@ -2,7 +2,7 @@
 
 ***
 
-[Home](../../README.md) / [utilities](../README.md) / isValidEmail
+[dummy-typescript-api](../../README.md) / [utilities](../README.md) / isValidEmail
 
 # Function: isValidEmail()
 

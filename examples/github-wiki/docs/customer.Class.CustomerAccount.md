@@ -9,7 +9,7 @@ Manages and integrates different aspects of customer data and interactions with 
 
 ## Constructors
 
-### new CustomerAccount()
+### Constructor
 
 > **new CustomerAccount**(`customer`, `contactInfo`, `billingInfo`): `CustomerAccount`
 

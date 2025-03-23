@@ -9,7 +9,7 @@ Provides functionality to process and retrieve billing transactions.
 
 ## Constructors
 
-### new BillingService()
+### Constructor
 
 > **new BillingService**(): `BillingService`
 

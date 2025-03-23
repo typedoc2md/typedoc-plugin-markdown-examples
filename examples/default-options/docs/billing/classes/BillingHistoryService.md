@@ -13,7 +13,7 @@ Provides functionality to store and retrieve the history of transactions.
 
 ## Constructors
 
-### new BillingHistoryService()
+### Constructor
 
 > **new BillingHistoryService**(): `BillingHistoryService`
 

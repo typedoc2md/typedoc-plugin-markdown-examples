@@ -2,7 +2,7 @@
 
 ***
 
-[Home](README.md) / products
+[dummy-typescript-api](README.md) / products
 
 # products
 
@@ -36,7 +36,7 @@ Class representing a product inventory.
 
 #### Constructors
 
-##### new ProductInventory()
+##### Constructor
 
 ```ts
 new ProductInventory(): ProductInventory
@@ -185,7 +185,7 @@ Service for managing product reviews.
 
 #### Constructors
 
-##### new ProductReviewService()
+##### Constructor
 
 ```ts
 new ProductReviewService(): ProductReviewService
@@ -278,11 +278,35 @@ Contains the essential identifiers and attributes of a product.
 
 #### Properties
 
-| Property | Type | Description | Defined in |
-| ------ | ------ | ------ | ------ |
-| <a id="name"></a> `name` | `string` | Name of the product. | [products.ts:16](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L16) |
-| <a id="price"></a> `price` | `number` | Price of the product in the system's set currency. | [products.ts:18](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L18) |
-| <a id="productid"></a> `productId` | `string` | Unique identifier for the product. | [products.ts:14](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L14) |
+##### name
+
+```ts
+name: string;
+```
+
+Defined in: [products.ts:16](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L16)
+
+Name of the product.
+
+##### price
+
+```ts
+price: number;
+```
+
+Defined in: [products.ts:18](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L18)
+
+Price of the product in the system's set currency.
+
+##### productId
+
+```ts
+productId: string;
+```
+
+Defined in: [products.ts:14](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L14)
+
+Unique identifier for the product.
 
 ***
 
@@ -299,13 +323,69 @@ Extends the basic Product interface to include more comprehensive attributes for
 
 #### Properties
 
-| Property | Type | Description | Inherited from | Defined in |
-| ------ | ------ | ------ | ------ | ------ |
-| <a id="category"></a> `category` | [`ProductCategory`](#productcategory) | Category of the product as defined by the ProductCategory enum. This categorization helps in organizing products into sections or departments, facilitating easier product discovery and management. | - | [products.ts:54](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L54) |
-| <a id="description"></a> `description` | `string` | Detailed textual description of the product. This provides potential buyers with more information about the product's features, usage, and benefits. | - | [products.ts:48](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L48) |
-| <a id="name-1"></a> `name` | `string` | Name of the product. | [`Product`](#product).[`name`](#name) | [products.ts:16](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L16) |
-| <a id="price-1"></a> `price` | `number` | Price of the product in the system's set currency. | [`Product`](#product).[`price`](#price) | [products.ts:18](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L18) |
-| <a id="productid-1"></a> `productId` | `string` | Unique identifier for the product. | [`Product`](#product).[`productId`](#productid) | [products.ts:14](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L14) |
+##### category
+
+```ts
+category: ProductCategory;
+```
+
+Defined in: [products.ts:54](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L54)
+
+Category of the product as defined by the ProductCategory enum. This categorization helps in organizing products
+into sections or departments, facilitating easier product discovery and management.
+
+##### description
+
+```ts
+description: string;
+```
+
+Defined in: [products.ts:48](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L48)
+
+Detailed textual description of the product. This provides potential buyers with more information about the
+product's features, usage, and benefits.
+
+##### name
+
+```ts
+name: string;
+```
+
+Defined in: [products.ts:16](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L16)
+
+Name of the product.
+
+###### Inherited from
+
+[`Product`](#product).[`name`](#name)
+
+##### price
+
+```ts
+price: number;
+```
+
+Defined in: [products.ts:18](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L18)
+
+Price of the product in the system's set currency.
+
+###### Inherited from
+
+[`Product`](#product).[`price`](#price)
+
+##### productId
+
+```ts
+productId: string;
+```
+
+Defined in: [products.ts:14](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L14)
+
+Unique identifier for the product.
+
+###### Inherited from
+
+[`Product`](#product).[`productId`](#productid)
 
 ***
 
@@ -317,10 +397,42 @@ Interface representing a product review.
 
 #### Properties
 
-| Property | Type | Defined in |
-| ------ | ------ | ------ |
-| <a id="comment"></a> `comment?` | `string` | [products.ts:144](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L144) |
-| <a id="productid-2"></a> `productId` | `string` | [products.ts:141](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L141) |
-| <a id="rating"></a> `rating` | `number` | [products.ts:143](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L143) |
-| <a id="reviewid"></a> `reviewId` | `string` | [products.ts:140](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L140) |
-| <a id="username"></a> `username` | `string` | [products.ts:142](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L142) |
+##### comment?
+
+```ts
+optional comment: string;
+```
+
+Defined in: [products.ts:144](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L144)
+
+##### productId
+
+```ts
+productId: string;
+```
+
+Defined in: [products.ts:141](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L141)
+
+##### rating
+
+```ts
+rating: number;
+```
+
+Defined in: [products.ts:143](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L143)
+
+##### reviewId
+
+```ts
+reviewId: string;
+```
+
+Defined in: [products.ts:140](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L140)
+
+##### username
+
+```ts
+username: string;
+```
+
+Defined in: [products.ts:142](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L142)

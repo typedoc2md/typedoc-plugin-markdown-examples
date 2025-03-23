@@ -8,7 +8,7 @@ Service for managing customers.
 
 ## Constructors
 
-### new CustomerService()
+### Constructor
 
 > **new CustomerService**(): `CustomerService`
 

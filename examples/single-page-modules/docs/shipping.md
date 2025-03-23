@@ -2,7 +2,7 @@
 
 ***
 
-[Home](README.md) / shipping
+[dummy-typescript-api](README.md) / shipping
 
 # shipping
 
@@ -20,7 +20,7 @@ Provides methods to handle the logistics of order shipments, including recording
 
 #### Constructors
 
-##### new ShippingService()
+##### Constructor
 
 ```ts
 new ShippingService(): ShippingService
@@ -83,9 +83,42 @@ Defines the structure for storing and tracking information about shipments.
 
 #### Properties
 
-| Property | Type | Description | Defined in |
-| ------ | ------ | ------ | ------ |
-| <a id="address"></a> `address` | `string` | The destination address where the order should be delivered. This is crucial for logistics and routing. | [shipping.ts:26](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/shipping.ts#L26) |
-| <a id="orderid"></a> `orderId` | `string` | Identifier for the order being shipped. Links the shipment to a specific customer order. | [shipping.ts:21](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/shipping.ts#L21) |
-| <a id="shipmentid"></a> `shipmentId` | `string` | Unique identifier for the shipment. This is used to track and reference the shipment throughout the shipping process. | [shipping.ts:16](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/shipping.ts#L16) |
-| <a id="status"></a> `status` | `string` | Current status of the shipment (e.g., "Pending", "Shipped", "Delivered"). Provides updates on the shipment progress. | [shipping.ts:31](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/shipping.ts#L31) |
+##### address
+
+```ts
+address: string;
+```
+
+Defined in: [shipping.ts:26](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/shipping.ts#L26)
+
+The destination address where the order should be delivered. This is crucial for logistics and routing.
+
+##### orderId
+
+```ts
+orderId: string;
+```
+
+Defined in: [shipping.ts:21](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/shipping.ts#L21)
+
+Identifier for the order being shipped. Links the shipment to a specific customer order.
+
+##### shipmentId
+
+```ts
+shipmentId: string;
+```
+
+Defined in: [shipping.ts:16](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/shipping.ts#L16)
+
+Unique identifier for the shipment. This is used to track and reference the shipment throughout the shipping process.
+
+##### status
+
+```ts
+status: string;
+```
+
+Defined in: [shipping.ts:31](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/shipping.ts#L31)
+
+Current status of the shipment (e.g., "Pending", "Shipped", "Delivered"). Provides updates on the shipment progress.

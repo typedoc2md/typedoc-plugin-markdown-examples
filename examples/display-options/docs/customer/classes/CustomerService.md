@@ -2,7 +2,7 @@
 
 ***
 
-[Home](../../README.md) / [customer](../README.md) / CustomerService
+[dummy-typescript-api](../../README.md) / [customer](../README.md) / CustomerService
 
 # Class: CustomerService
 
@@ -12,7 +12,7 @@ Service for managing customers.
 
 ## Constructors
 
-### new CustomerService()
+### Constructor
 
 ```ts
 new CustomerService(): CustomerService

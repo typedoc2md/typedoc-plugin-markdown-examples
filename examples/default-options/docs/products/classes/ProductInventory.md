@@ -12,7 +12,7 @@ Class representing a product inventory.
 
 ## Constructors
 
-### new ProductInventory()
+### Constructor
 
 > **new ProductInventory**(): `ProductInventory`
 

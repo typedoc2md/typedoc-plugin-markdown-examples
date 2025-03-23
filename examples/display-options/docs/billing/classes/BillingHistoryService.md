@@ -2,7 +2,7 @@
 
 ***
 
-[Home](../../README.md) / [billing](../README.md) / BillingHistoryService
+[dummy-typescript-api](../../README.md) / [billing](../README.md) / BillingHistoryService
 
 # Class: BillingHistoryService
 
@@ -13,7 +13,7 @@ Provides functionality to store and retrieve the history of transactions.
 
 ## Constructors
 
-### new BillingHistoryService()
+### Constructor
 
 ```ts
 new BillingHistoryService(): BillingHistoryService

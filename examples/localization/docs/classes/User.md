@@ -10,7 +10,7 @@
 
 ## 构造函数
 
-### new User()
+### 构造函数
 
 > **new User**(`id`, `name`, `email`, `address`, `age`?): `User`
 

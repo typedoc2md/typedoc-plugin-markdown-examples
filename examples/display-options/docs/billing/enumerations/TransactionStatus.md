@@ -2,7 +2,7 @@
 
 ***
 
-[Home](../../README.md) / [billing](../README.md) / TransactionStatus
+[dummy-typescript-api](../../README.md) / [billing](../README.md) / TransactionStatus
 
 # Enumeration: TransactionStatus
 

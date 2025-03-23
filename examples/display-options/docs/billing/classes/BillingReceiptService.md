@@ -2,7 +2,7 @@
 
 ***
 
-[Home](../../README.md) / [billing](../README.md) / BillingReceiptService
+[dummy-typescript-api](../../README.md) / [billing](../README.md) / BillingReceiptService
 
 # Class: BillingReceiptService
 
@@ -13,7 +13,7 @@ Provides functionality to generate and retrieve receipts for transactions.
 
 ## Constructors
 
-### new BillingReceiptService()
+### Constructor
 
 ```ts
 new BillingReceiptService(): BillingReceiptService

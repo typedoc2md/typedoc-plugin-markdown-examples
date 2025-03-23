@@ -2,7 +2,7 @@
 
 ***
 
-[Home](README.md) / billing
+[dummy-typescript-api](README.md) / billing
 
 # billing
 
@@ -56,7 +56,7 @@ Provides functionality to store and retrieve the history of transactions.
 
 #### Constructors
 
-##### new BillingHistoryService()
+##### Constructor
 
 ```ts
 new BillingHistoryService(): BillingHistoryService
@@ -117,7 +117,7 @@ Provides functionality to generate and retrieve receipts for transactions.
 
 #### Constructors
 
-##### new BillingReceiptService()
+##### Constructor
 
 ```ts
 new BillingReceiptService(): BillingReceiptService
@@ -180,7 +180,7 @@ Provides functionality to process and retrieve billing transactions.
 
 #### Constructors
 
-##### new BillingService()
+##### Constructor
 
 ```ts
 new BillingService(): BillingService
@@ -243,11 +243,38 @@ Provides a record of the transaction for both the customer and the business.
 
 #### Properties
 
-| Property | Type | Description | Defined in |
-| ------ | ------ | ------ | ------ |
-| <a id="receiptid"></a> `receiptId` | `string` | Unique identifier for the receipt. This ID is crucial for referencing and tracking the receipt in financial records and customer queries. | [billing.ts:85](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L85) |
-| <a id="timestamp"></a> `timestamp` | `number` | The timestamp (in UNIX epoch time) when the receipt was generated. Provides a precise record of when the transaction was finalized and acknowledged. | [billing.ts:97](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L97) |
-| <a id="transaction"></a> `transaction` | [`BillingTransaction`](#billingtransaction) | The transaction details associated with this receipt. Links the receipt to the actual transaction that took place. | [billing.ts:91](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L91) |
+##### receiptId
+
+```ts
+receiptId: string;
+```
+
+Defined in: [billing.ts:85](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L85)
+
+Unique identifier for the receipt. This ID is crucial for referencing and tracking the receipt
+in financial records and customer queries.
+
+##### timestamp
+
+```ts
+timestamp: number;
+```
+
+Defined in: [billing.ts:97](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L97)
+
+The timestamp (in UNIX epoch time) when the receipt was generated. Provides a precise record of when
+the transaction was finalized and acknowledged.
+
+##### transaction
+
+```ts
+transaction: BillingTransaction;
+```
+
+Defined in: [billing.ts:91](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L91)
+
+The transaction details associated with this receipt. Links the receipt to the actual transaction
+that took place.
 
 ***
 
@@ -260,10 +287,56 @@ This structure encapsulates all key details of a financial transaction within th
 
 #### Properties
 
-| Property | Type | Description | Defined in |
-| ------ | ------ | ------ | ------ |
-| <a id="amount"></a> `amount` | `number` | The total amount of money involved in the transaction. This is usually in the smallest unit of the currency, such as cents in USD. | [billing.ts:61](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L61) |
-| <a id="orderid"></a> `orderId` | `string` | Identifier for the order associated with this transaction. Helps link the transaction to specific goods or services purchased. | [billing.ts:55](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L55) |
-| <a id="paymentmethod-1"></a> `paymentMethod` | [`PaymentMethod`](#paymentmethod) | The method of payment used for the transaction, as defined by the PaymentMethod enum. This indicates how the customer chose to pay (e.g., Credit Card, PayPal, Bank Transfer). | [billing.ts:67](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L67) |
-| <a id="status"></a> `status` | [`TransactionStatus`](#transactionstatus) | The current status of the transaction, categorized by the TransactionStatus enum. Indicates whether the transaction is pending, completed, or has failed. | [billing.ts:73](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L73) |
-| <a id="transactionid"></a> `transactionId` | `string` | Unique identifier for the transaction. This ID is used to track and reference the transaction throughout the billing process. | [billing.ts:50](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L50) |
+##### amount
+
+```ts
+amount: number;
+```
+
+Defined in: [billing.ts:61](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L61)
+
+The total amount of money involved in the transaction. This is usually in the smallest unit of the currency,
+such as cents in USD.
+
+##### orderId
+
+```ts
+orderId: string;
+```
+
+Defined in: [billing.ts:55](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L55)
+
+Identifier for the order associated with this transaction. Helps link the transaction to specific goods or services purchased.
+
+##### paymentMethod
+
+```ts
+paymentMethod: PaymentMethod;
+```
+
+Defined in: [billing.ts:67](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L67)
+
+The method of payment used for the transaction, as defined by the PaymentMethod enum.
+This indicates how the customer chose to pay (e.g., Credit Card, PayPal, Bank Transfer).
+
+##### status
+
+```ts
+status: TransactionStatus;
+```
+
+Defined in: [billing.ts:73](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L73)
+
+The current status of the transaction, categorized by the TransactionStatus enum. Indicates whether the
+transaction is pending, completed, or has failed.
+
+##### transactionId
+
+```ts
+transactionId: string;
+```
+
+Defined in: [billing.ts:50](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L50)
+
+Unique identifier for the transaction. This ID is used to track and reference the transaction
+throughout the billing process.

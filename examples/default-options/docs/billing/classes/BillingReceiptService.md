@@ -13,7 +13,7 @@ Provides functionality to generate and retrieve receipts for transactions.
 
 ## Constructors
 
-### new BillingReceiptService()
+### Constructor
 
 > **new BillingReceiptService**(): `BillingReceiptService`
 

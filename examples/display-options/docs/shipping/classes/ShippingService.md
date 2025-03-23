@@ -2,7 +2,7 @@
 
 ***
 
-[Home](../../README.md) / [shipping](../README.md) / ShippingService
+[dummy-typescript-api](../../README.md) / [shipping](../README.md) / ShippingService
 
 # Class: ShippingService
 
@@ -13,7 +13,7 @@ Provides methods to handle the logistics of order shipments, including recording
 
 ## Constructors
 
-### new ShippingService()
+### Constructor
 
 ```ts
 new ShippingService(): ShippingService

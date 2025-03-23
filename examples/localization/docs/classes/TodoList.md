@@ -6,7 +6,7 @@
 
 ## 构造函数
 
-### new TodoList()
+### 构造函数
 
 > **new TodoList**(): `TodoList`
 

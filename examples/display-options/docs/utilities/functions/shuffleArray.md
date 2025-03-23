@@ -2,7 +2,7 @@
 
 ***
 
-[Home](../../README.md) / [utilities](../README.md) / shuffleArray
+[dummy-typescript-api](../../README.md) / [utilities](../README.md) / shuffleArray
 
 # Function: shuffleArray()
 

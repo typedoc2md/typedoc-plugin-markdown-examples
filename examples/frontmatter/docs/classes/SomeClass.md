@@ -14,7 +14,7 @@ Defined in: [index.ts:6](https://github.com/typedoc2md/typedoc-plugin-markdown-e
 
 ## Constructors
 
-### new SomeClass()
+### Constructor
 
 > **new SomeClass**(): `SomeClass`
 

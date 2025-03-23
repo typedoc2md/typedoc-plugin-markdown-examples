@@ -2,7 +2,7 @@
 
 ***
 
-[Home](../../README.md) / [billing](../README.md) / BillingService
+[dummy-typescript-api](../../README.md) / [billing](../README.md) / BillingService
 
 # Class: BillingService
 
@@ -13,7 +13,7 @@ Provides functionality to process and retrieve billing transactions.
 
 ## Constructors
 
-### new BillingService()
+### Constructor
 
 ```ts
 new BillingService(): BillingService

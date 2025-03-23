@@ -2,7 +2,7 @@
 
 ***
 
-[Home](../../README.md) / [products](../README.md) / Product
+[dummy-typescript-api](../../README.md) / [products](../README.md) / Product
 
 # Interface: Product
 
@@ -17,8 +17,36 @@ Contains the essential identifiers and attributes of a product.
 
 ## Properties
 
-| Property | Type | Description | Defined in |
-| ------ | ------ | ------ | ------ |
-| <a id="name"></a> `name` | `string` | Name of the product. | [products.ts:16](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L16) |
-| <a id="price"></a> `price` | `number` | Price of the product in the system's set currency. | [products.ts:18](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L18) |
-| <a id="productid"></a> `productId` | `string` | Unique identifier for the product. | [products.ts:14](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L14) |
+### name
+
+```ts
+name: string;
+```
+
+Defined in: [products.ts:16](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L16)
+
+Name of the product.
+
+***
+
+### price
+
+```ts
+price: number;
+```
+
+Defined in: [products.ts:18](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L18)
+
+Price of the product in the system's set currency.
+
+***
+
+### productId
+
+```ts
+productId: string;
+```
+
+Defined in: [products.ts:14](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L14)
+
+Unique identifier for the product.

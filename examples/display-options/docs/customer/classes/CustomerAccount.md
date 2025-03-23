@@ -2,7 +2,7 @@
 
 ***
 
-[Home](../../README.md) / [customer](../README.md) / CustomerAccount
+[dummy-typescript-api](../../README.md) / [customer](../README.md) / CustomerAccount
 
 # Class: CustomerAccount
 
@@ -13,7 +13,7 @@ Manages and integrates different aspects of customer data and interactions with 
 
 ## Constructors
 
-### new CustomerAccount()
+### Constructor
 
 ```ts
 new CustomerAccount(

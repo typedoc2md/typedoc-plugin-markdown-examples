@@ -16,7 +16,7 @@ Provides functionality to generate and retrieve receipts for transactions.
 ### Constructor
 
 ```ts
-new BillingReceiptService(): BillingReceiptService
+new BillingReceiptService(): BillingReceiptService;
 ```
 
 #### Returns
@@ -28,7 +28,7 @@ new BillingReceiptService(): BillingReceiptService
 ### generateReceipt()
 
 ```ts
-generateReceipt(transaction): BillingReceipt
+generateReceipt(transaction): BillingReceipt;
 ```
 
 Defined in: [billing.ts:173](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L173)
@@ -53,7 +53,7 @@ The generated billing receipt.
 ### getAllReceipts()
 
 ```ts
-getAllReceipts(): BillingReceipt[]
+getAllReceipts(): BillingReceipt[];
 ```
 
 Defined in: [billing.ts:188](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L188)

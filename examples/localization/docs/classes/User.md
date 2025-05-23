@@ -12,7 +12,7 @@
 
 ### 构造函数
 
-> **new User**(`id`, `name`, `email`, `address`, `age`?): `User`
+> **new User**(`id`, `name`, `email`, `address`, `age?`): `User`
 
 定义于: [index.ts:83](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/localization/src/index.ts#L83)
 

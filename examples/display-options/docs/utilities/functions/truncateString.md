@@ -7,7 +7,7 @@
 # Function: truncateString()
 
 ```ts
-function truncateString(input, maxLength): string
+function truncateString(input, maxLength): string;
 ```
 
 Defined in: [utilities.ts:53](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/utilities.ts#L53)

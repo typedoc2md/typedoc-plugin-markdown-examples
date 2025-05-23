@@ -59,7 +59,7 @@ Provides functionality to store and retrieve the history of transactions.
 ##### Constructor
 
 ```ts
-new BillingHistoryService(): BillingHistoryService
+new BillingHistoryService(): BillingHistoryService;
 ```
 
 ###### Returns
@@ -71,7 +71,7 @@ new BillingHistoryService(): BillingHistoryService
 ##### addTransactionToHistory()
 
 ```ts
-addTransactionToHistory(transaction): void
+addTransactionToHistory(transaction): void;
 ```
 
 Defined in: [billing.ts:144](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L144)
@@ -92,7 +92,7 @@ This method is typically called after a transaction is completed to maintain a r
 ##### getBillingHistory()
 
 ```ts
-getBillingHistory(): BillingTransaction[]
+getBillingHistory(): BillingTransaction[];
 ```
 
 Defined in: [billing.ts:153](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L153)
@@ -120,7 +120,7 @@ Provides functionality to generate and retrieve receipts for transactions.
 ##### Constructor
 
 ```ts
-new BillingReceiptService(): BillingReceiptService
+new BillingReceiptService(): BillingReceiptService;
 ```
 
 ###### Returns
@@ -132,7 +132,7 @@ new BillingReceiptService(): BillingReceiptService
 ##### generateReceipt()
 
 ```ts
-generateReceipt(transaction): BillingReceipt
+generateReceipt(transaction): BillingReceipt;
 ```
 
 Defined in: [billing.ts:173](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L173)
@@ -155,7 +155,7 @@ The generated billing receipt.
 ##### getAllReceipts()
 
 ```ts
-getAllReceipts(): BillingReceipt[]
+getAllReceipts(): BillingReceipt[];
 ```
 
 Defined in: [billing.ts:188](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L188)
@@ -183,7 +183,7 @@ Provides functionality to process and retrieve billing transactions.
 ##### Constructor
 
 ```ts
-new BillingService(): BillingService
+new BillingService(): BillingService;
 ```
 
 ###### Returns
@@ -195,7 +195,7 @@ new BillingService(): BillingService
 ##### getAllTransactions()
 
 ```ts
-getAllTransactions(): BillingTransaction[]
+getAllTransactions(): BillingTransaction[];
 ```
 
 Defined in: [billing.ts:125](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L125)
@@ -212,7 +212,7 @@ An array of all billing transactions.
 ##### processTransaction()
 
 ```ts
-processTransaction(transaction): BillingTransaction
+processTransaction(transaction): BillingTransaction;
 ```
 
 Defined in: [billing.ts:115](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L115)

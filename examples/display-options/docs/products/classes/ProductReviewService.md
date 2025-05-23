@@ -15,7 +15,7 @@ Service for managing product reviews.
 ### Constructor
 
 ```ts
-new ProductReviewService(): ProductReviewService
+new ProductReviewService(): ProductReviewService;
 ```
 
 #### Returns
@@ -27,7 +27,7 @@ new ProductReviewService(): ProductReviewService
 ### addProductReview()
 
 ```ts
-addProductReview(review): ProductReview
+addProductReview(review): ProductReview;
 ```
 
 Defined in: [products.ts:159](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L159)
@@ -51,7 +51,7 @@ The added product review.
 ### getAverageRating()
 
 ```ts
-getAverageRating(productId): number
+getAverageRating(productId): number;
 ```
 
 Defined in: [products.ts:178](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L178)
@@ -75,7 +75,7 @@ The average rating for the specified product.
 ### getProductReviews()
 
 ```ts
-getProductReviews(productId): ProductReview[]
+getProductReviews(productId): ProductReview[];
 ```
 
 Defined in: [products.ts:169](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L169)

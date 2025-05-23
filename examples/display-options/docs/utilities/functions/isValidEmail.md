@@ -7,7 +7,7 @@
 # Function: isValidEmail()
 
 ```ts
-function isValidEmail(email): boolean
+function isValidEmail(email): boolean;
 ```
 
 Defined in: [utilities.ts:65](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/utilities.ts#L65)

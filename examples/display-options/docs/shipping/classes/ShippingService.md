@@ -16,7 +16,7 @@ Provides methods to handle the logistics of order shipments, including recording
 ### Constructor
 
 ```ts
-new ShippingService(): ShippingService
+new ShippingService(): ShippingService;
 ```
 
 #### Returns
@@ -28,7 +28,7 @@ new ShippingService(): ShippingService
 ### getAllShipments()
 
 ```ts
-getAllShipments(): ShippingRecord[]
+getAllShipments(): ShippingRecord[];
 ```
 
 Defined in: [shipping.ts:61](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/shipping.ts#L61)
@@ -47,7 +47,7 @@ An array of all shipping records.
 ### shipOrder()
 
 ```ts
-shipOrder(shipment): ShippingRecord
+shipOrder(shipment): ShippingRecord;
 ```
 
 Defined in: [shipping.ts:51](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/shipping.ts#L51)

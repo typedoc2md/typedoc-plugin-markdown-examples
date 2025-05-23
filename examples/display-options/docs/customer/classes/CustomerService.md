@@ -15,7 +15,7 @@ Service for managing customers.
 ### Constructor
 
 ```ts
-new CustomerService(): CustomerService
+new CustomerService(): CustomerService;
 ```
 
 #### Returns
@@ -30,7 +30,7 @@ new CustomerService(): CustomerService
 addCustomer(
    customer, 
    contactInfo, 
-   billingInfo): CustomerAccount
+   billingInfo): CustomerAccount;
 ```
 
 Defined in: [customer.ts:153](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L153)
@@ -56,7 +56,7 @@ The added customer account.
 ### getAllCustomers()
 
 ```ts
-getAllCustomers(): CustomerAccount[]
+getAllCustomers(): CustomerAccount[];
 ```
 
 Defined in: [customer.ts:171](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L171)
@@ -74,7 +74,7 @@ An array of all customer accounts.
 ### getCustomerById()
 
 ```ts
-getCustomerById(customerId): CustomerAccount
+getCustomerById(customerId): CustomerAccount;
 ```
 
 Defined in: [customer.ts:180](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L180)

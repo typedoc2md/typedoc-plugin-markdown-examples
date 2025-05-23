@@ -16,7 +16,7 @@ Provides functionality to store and retrieve the history of transactions.
 ### Constructor
 
 ```ts
-new BillingHistoryService(): BillingHistoryService
+new BillingHistoryService(): BillingHistoryService;
 ```
 
 #### Returns
@@ -28,7 +28,7 @@ new BillingHistoryService(): BillingHistoryService
 ### addTransactionToHistory()
 
 ```ts
-addTransactionToHistory(transaction): void
+addTransactionToHistory(transaction): void;
 ```
 
 Defined in: [billing.ts:144](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L144)
@@ -51,7 +51,7 @@ This method is typically called after a transaction is completed to maintain a r
 ### getBillingHistory()
 
 ```ts
-getBillingHistory(): BillingTransaction[]
+getBillingHistory(): BillingTransaction[];
 ```
 
 Defined in: [billing.ts:153](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L153)

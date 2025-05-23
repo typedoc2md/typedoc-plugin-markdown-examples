@@ -15,7 +15,7 @@ Class representing a product inventory.
 ### Constructor
 
 ```ts
-new ProductInventory(): ProductInventory
+new ProductInventory(): ProductInventory;
 ```
 
 #### Returns
@@ -27,7 +27,7 @@ new ProductInventory(): ProductInventory
 ### addProduct()
 
 ```ts
-addProduct(product): ProductDetails
+addProduct(product): ProductDetails;
 ```
 
 Defined in: [products.ts:68](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L68)
@@ -51,7 +51,7 @@ The added product details.
 ### getAllProducts()
 
 ```ts
-getAllProducts(): ProductDetails[]
+getAllProducts(): ProductDetails[];
 ```
 
 Defined in: [products.ts:77](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L77)
@@ -69,7 +69,7 @@ An array of all product details.
 ### getProductById()
 
 ```ts
-getProductById(productId): ProductDetails
+getProductById(productId): ProductDetails;
 ```
 
 Defined in: [products.ts:86](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L86)
@@ -93,7 +93,7 @@ The product details with the specified ID.
 ### getProductsByCategory()
 
 ```ts
-getProductsByCategory(category): ProductDetails[]
+getProductsByCategory(category): ProductDetails[];
 ```
 
 Defined in: [products.ts:95](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L95)
@@ -117,7 +117,7 @@ An array of product details in the specified category.
 ### removeProduct()
 
 ```ts
-removeProduct(productId): ProductDetails
+removeProduct(productId): ProductDetails;
 ```
 
 Defined in: [products.ts:124](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L124)
@@ -141,7 +141,7 @@ The removed product details.
 ### updateProductDetails()
 
 ```ts
-updateProductDetails(productId, updatedDetails): ProductDetails
+updateProductDetails(productId, updatedDetails): ProductDetails;
 ```
 
 Defined in: [products.ts:105](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L105)

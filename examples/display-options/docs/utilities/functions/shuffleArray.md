@@ -7,7 +7,7 @@
 # Function: shuffleArray()
 
 ```ts
-function shuffleArray<T>(array): T[]
+function shuffleArray<T>(array): T[];
 ```
 
 Defined in: [utilities.ts:75](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/utilities.ts#L75)

@@ -16,7 +16,7 @@ Provides functionality to process and retrieve billing transactions.
 ### Constructor
 
 ```ts
-new BillingService(): BillingService
+new BillingService(): BillingService;
 ```
 
 #### Returns
@@ -28,7 +28,7 @@ new BillingService(): BillingService
 ### getAllTransactions()
 
 ```ts
-getAllTransactions(): BillingTransaction[]
+getAllTransactions(): BillingTransaction[];
 ```
 
 Defined in: [billing.ts:125](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L125)
@@ -47,7 +47,7 @@ An array of all billing transactions.
 ### processTransaction()
 
 ```ts
-processTransaction(transaction): BillingTransaction
+processTransaction(transaction): BillingTransaction;
 ```
 
 Defined in: [billing.ts:115](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L115)

@@ -15,7 +15,7 @@ Utilities include formatting currencies, manipulating strings, generating identi
 ### formatCurrency()
 
 ```ts
-function formatCurrency(amount, currencyCode): string
+function formatCurrency(amount, currencyCode): string;
 ```
 
 Defined in: [utilities.ts:17](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/utilities.ts#L17)
@@ -41,7 +41,7 @@ The formatted currency string in the format "$1,234.56".
 ### generateUniqueId()
 
 ```ts
-function generateUniqueId(): string
+function generateUniqueId(): string;
 ```
 
 Defined in: [utilities.ts:41](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/utilities.ts#L41)
@@ -60,7 +60,7 @@ The string transformed to title case.
 ### isValidEmail()
 
 ```ts
-function isValidEmail(email): boolean
+function isValidEmail(email): boolean;
 ```
 
 Defined in: [utilities.ts:65](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/utilities.ts#L65)
@@ -84,7 +84,7 @@ True if the email address is valid, false otherwise.
 ### shuffleArray()
 
 ```ts
-function shuffleArray<T>(array): T[]
+function shuffleArray<T>(array): T[];
 ```
 
 Defined in: [utilities.ts:75](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/utilities.ts#L75)
@@ -114,7 +114,7 @@ The shuffled array.
 ### toTitleCase()
 
 ```ts
-function toTitleCase(input): string
+function toTitleCase(input): string;
 ```
 
 Defined in: [utilities.ts:29](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/utilities.ts#L29)
@@ -138,7 +138,7 @@ The input string in title case.
 ### truncateString()
 
 ```ts
-function truncateString(input, maxLength): string
+function truncateString(input, maxLength): string;
 ```
 
 Defined in: [utilities.ts:53](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/utilities.ts#L53)

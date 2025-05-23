@@ -7,7 +7,7 @@
 # Function: formatCurrency()
 
 ```ts
-function formatCurrency(amount, currencyCode): string
+function formatCurrency(amount, currencyCode): string;
 ```
 
 Defined in: [utilities.ts:17](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/utilities.ts#L17)

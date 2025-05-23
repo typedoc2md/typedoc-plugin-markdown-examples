@@ -19,7 +19,7 @@ Manages and integrates different aspects of customer data and interactions with 
 new CustomerAccount(
    customer, 
    contactInfo, 
-   billingInfo): CustomerAccount
+   billingInfo): CustomerAccount;
 ```
 
 Defined in: [customer.ts:88](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L88)
@@ -43,7 +43,7 @@ Constructs a new CustomerAccount instance.
 ### addOrderToHistory()
 
 ```ts
-addOrderToHistory(order): void
+addOrderToHistory(order): void;
 ```
 
 Defined in: [customer.ts:127](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L127)
@@ -65,7 +65,7 @@ Adds a new order to the customer's historical record.
 ### getBillingInfo()
 
 ```ts
-getBillingInfo(): CustomerBilling
+getBillingInfo(): CustomerBilling;
 ```
 
 Defined in: [customer.ts:119](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L119)
@@ -83,7 +83,7 @@ The billing details.
 ### getContactInfo()
 
 ```ts
-getContactInfo(): CustomerContact
+getContactInfo(): CustomerContact;
 ```
 
 Defined in: [customer.ts:111](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L111)
@@ -101,7 +101,7 @@ The contact details.
 ### getCustomer()
 
 ```ts
-getCustomer(): Customer
+getCustomer(): Customer;
 ```
 
 Defined in: [customer.ts:103](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L103)
@@ -119,7 +119,7 @@ The customer's profile data.
 ### getOrderHistory()
 
 ```ts
-getOrderHistory(): CustomerOrderHistory[]
+getOrderHistory(): CustomerOrderHistory[];
 ```
 
 Defined in: [customer.ts:135](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L135)

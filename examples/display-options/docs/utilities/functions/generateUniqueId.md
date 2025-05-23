@@ -7,7 +7,7 @@
 # Function: generateUniqueId()
 
 ```ts
-function generateUniqueId(): string
+function generateUniqueId(): string;
 ```
 
 Defined in: [utilities.ts:41](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/utilities.ts#L41)

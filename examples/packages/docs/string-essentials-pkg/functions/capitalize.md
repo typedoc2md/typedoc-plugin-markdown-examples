@@ -1,4 +1,4 @@
-[packages-example](../../packages.md) / [string-essentials-pkg](../README.md) / capitalize
+[packages-example](../../README.md) / [string-essentials-pkg](../README.md) / capitalize
 
 # Function: capitalize()
 

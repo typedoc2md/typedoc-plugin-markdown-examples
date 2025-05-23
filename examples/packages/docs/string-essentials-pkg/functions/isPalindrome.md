@@ -1,4 +1,4 @@
-[packages-example](../../packages.md) / [string-essentials-pkg](../README.md) / isPalindrome
+[packages-example](../../README.md) / [string-essentials-pkg](../README.md) / isPalindrome
 
 # Function: isPalindrome()
 

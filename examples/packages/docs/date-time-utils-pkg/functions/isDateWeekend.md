@@ -1,10 +1,10 @@
-[packages-example](../../packages.md) / [date-time-utils-pkg](../README.md) / isDateWeekend
+[packages-example](../../README.md) / [date-time-utils-pkg](../README.md) / isDateWeekend
 
 # Function: isDateWeekend()
 
 > **isDateWeekend**(`date`): `boolean`
 
-Defined in: index.ts:22
+Defined in: [index.ts:22](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/packages/packages/date-time-utils/src/index.ts#L22)
 
 Checks if a given date is a weekend.
 

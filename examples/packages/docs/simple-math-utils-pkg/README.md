@@ -1,4 +1,4 @@
-[packages-example](../packages.md) / simple-math-utils-pkg
+[packages-example](../README.md) / simple-math-utils-pkg
 
 # simple-math-utils-pkg
 

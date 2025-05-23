@@ -1,4 +1,4 @@
-[packages-example](../../packages.md) / [simple-math-utils-pkg](../README.md) / add
+[packages-example](../../README.md) / [simple-math-utils-pkg](../README.md) / add
 
 # Function: add()
 

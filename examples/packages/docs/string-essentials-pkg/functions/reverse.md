@@ -1,4 +1,4 @@
-[packages-example](../../packages.md) / [string-essentials-pkg](../README.md) / reverse
+[packages-example](../../README.md) / [string-essentials-pkg](../README.md) / reverse
 
 # Function: reverse()
 

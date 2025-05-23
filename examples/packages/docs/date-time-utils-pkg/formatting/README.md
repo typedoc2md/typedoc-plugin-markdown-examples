@@ -1,4 +1,4 @@
-[packages-example](../../packages.md) / [date-time-utils-pkg](../README.md) / formatting
+[packages-example](../../README.md) / [date-time-utils-pkg](../README.md) / formatting
 
 # formatting
 

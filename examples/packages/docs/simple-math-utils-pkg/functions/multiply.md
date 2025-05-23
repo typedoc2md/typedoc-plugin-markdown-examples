@@ -1,4 +1,4 @@
-[packages-example](../../packages.md) / [simple-math-utils-pkg](../README.md) / multiply
+[packages-example](../../README.md) / [simple-math-utils-pkg](../README.md) / multiply
 
 # Function: multiply()
 

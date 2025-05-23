@@ -1,4 +1,4 @@
-[packages-example](../../packages.md) / [simple-math-utils-pkg](../README.md) / subtract
+[packages-example](../../README.md) / [simple-math-utils-pkg](../README.md) / subtract
 
 # Function: subtract()
 

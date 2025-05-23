@@ -1,4 +1,4 @@
-[packages-example](../packages.md) / string-essentials-pkg
+[packages-example](../README.md) / string-essentials-pkg
 
 # string-essentials-pkg
 

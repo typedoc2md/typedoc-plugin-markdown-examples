@@ -6,5 +6,6 @@
   "plugin": ["typedoc-plugin-markdown"],
   "parametersFormat": "table",
   "hidePageHeader": true,
-  "packageOptions": { "gitRevision": "main" }
+  "packageOptions": { "gitRevision": "main" },
+  "readme": "none"
 }

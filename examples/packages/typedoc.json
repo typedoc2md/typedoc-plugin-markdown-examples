@@ -4,11 +4,7 @@
   "entryPoints": ["./packages/*"],
   "entryPointStrategy": "packages",
   "plugin": ["typedoc-plugin-markdown"],
-  "readme": "./README.md",
-  "mergeReadme": true,
-  "indexFormat": "table",
   "parametersFormat": "table",
   "hidePageHeader": true,
-  "outputFileStrategy": "modules",
   "packageOptions": { "gitRevision": "main" }
 }

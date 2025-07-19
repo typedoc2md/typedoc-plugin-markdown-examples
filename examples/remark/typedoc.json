@@ -6,7 +6,7 @@
   "githubPages": false,
   "hidePageHeader": true,
   "readme": "none",
-  "router": "modules",
+  "router": "module",
   "remarkPlugins": [
     [
       "remark-github",

@@ -1,0 +1,20 @@
+{
+	"optimizer": {
+		"enabled": true,
+		"runs": 1000000
+	},
+	"viaIR": true,
+	"outputSelection": {
+		"*": {
+			"*": [
+				"evm.bytecode",
+				"evm.deployedBytecode",
+				"devdoc",
+				"userdoc",
+				"metadata",
+				"abi"
+			]
+		}
+	},
+	"libraries": {}
+}

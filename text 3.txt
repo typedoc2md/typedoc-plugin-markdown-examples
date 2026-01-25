@@ -1,0 +1,1 @@
+curl https://dl.google.com/linux/linux_signing_key.pub | sudo gpg --dearmor -o /usr/share/keyrings/google.linux.gpg

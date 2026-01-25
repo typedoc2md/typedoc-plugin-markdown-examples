@@ -1,0 +1,188 @@
+{
+  "user_id": 245796906,
+  "user_login": "madib036",
+  "hash": "8dcd7d655c69728eacf8e478e9e090b544555194ce9e8ee5bd82c7f25acf3f6f",
+  "display_name": "Madeline Brown",
+  "profile_url": "https://gravatar.com/madib036",
+  "avatar_url": "https://0.gravatar.com/avatar/8dcd7d655c69728eacf8e478e9e090b544555194ce9e8ee5bd82c7f25acf3f6f",
+  "avatar_alt_text": "",
+  "location": "Texas",
+  "description": "I’m a developer, creator, administrator, and contributor to Microsoft, Google, Slack, GitHub, Atlassian and Wordpress I love finding new ways to advance technology. I like to think of life like a rainbow full reflecting down on me and God guiding me along my journey. I been put here to change lives of million I still don’t know what that is just yet but I know it will happen he has shown me the light in me should share that with others",
+  "job_title": "Administrator",
+  "company": "Males For Females LLC",
+  "verified_accounts": [
+    {
+      "service_type": "wordpress",
+      "service_label": "WordPress",
+      "service_icon": "https://gravatar.com/icons/wordpress.svg",
+      "url": "https://malesforfemalesllconline.wordpress.com",
+      "is_hidden": false
+    },
+    {
+      "service_type": "linkedin",
+      "service_label": "LinkedIn",
+      "service_icon": "https://gravatar.com/icons/linkedin.svg",
+      "url": "https://www.linkedin.com/in/madeline-brown-6a9757211",
+      "is_hidden": false
+    },
+    {
+      "service_type": "facebook",
+      "service_label": "Facebook",
+      "service_icon": "https://gravatar.com/icons/facebook.svg",
+      "url": "https://www.facebook.com/app_scoped_user_id//Madeline Nicole Brown",
+      "is_hidden": false
+    },
+    {
+      "service_type": "github",
+      "service_label": "GitHub",
+      "service_icon": "https://gravatar.com/icons/github.svg",
+      "url": "https://github.com/Madib036",
+      "is_hidden": false
+    },
+    {
+      "service_type": "stackoverflow",
+      "service_label": "Stack Overflow",
+      "service_icon": "https://gravatar.com/icons/stackoverflow.svg",
+      "url": "https://stackoverflow.com/users/23137526/madeline-brown",
+      "is_hidden": false
+    },
+    {
+      "service_type": "twitter",
+      "service_label": "X",
+      "service_icon": "https://gravatar.com/icons/x.svg",
+      "url": "https://x.com/Madelineb1997",
+      "is_hidden": false
+    },
+    {
+      "service_type": "youtube",
+      "service_label": "YouTube",
+      "service_icon": "https://gravatar.com/icons/youtube.svg",
+      "url": "https://www.youtube.com/channel/UCYevJhzhhtVydi_gWkTkIvQ",
+      "is_hidden": false
+    }
+  ],
+  "pronunciation": "Made-l-ine",
+  "pronouns": "She/her/I",
+  "timezone": "America/Chicago",
+  "languages": [
+    {
+      "code": "en",
+      "name": "English",
+      "is_primary": true,
+      "order": 0
+    },
+    {
+      "code": "es",
+      "name": "Spanish",
+      "is_primary": false,
+      "order": 1
+    }
+  ],
+  "first_name": "Madeline",
+  "last_name": "Brown",
+  "is_organization": true,
+  "header_image": "url('https://1.gravatar.com/userimage/245796906/1c18f57478cc8379d1e9c19a9b675668?size=1024') repeat 50% 50% / 50%",
+  "hide_default_header_image": false,
+  "background_color": "linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%)",
+  "links": [
+    {
+      "label": "Atlassian",
+      "url": "https://go.atlassian.com/compass-yml-format"
+    },
+    {
+      "label": "Facebook business",
+      "url": "https://facebook.com/malesforfemales22"
+    },
+    {
+      "label": "Profile on GitHub.com",
+      "url": "https://github.com/males-for-females-llc"
+    },
+    {
+      "label": "My personal website and administrator account",
+      "url": "https://malesforfemalesllc.atlassian.net"
+    },
+    {
+      "label": "Males For Females Software Services",
+      "url": "https://malesforfemalesllc.wordpress.com"
+    },
+    {
+      "label": "malesforfemalesllc.online",
+      "url": "https://malesforfemalesllconline.wordpress.com"
+    },
+    {
+      "label": "Gravatar",
+      "url": "https://gravatar.com/mffllc"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/malesforfemalesllc"
+    },
+    {
+      "label": "Gravatar",
+      "url": "https://gravatar.com/madib036"
+    }
+  ],
+  "interests": [
+    {
+      "id": 81,
+      "name": "Coding",
+      "slug": "81-coding"
+    },
+    {
+      "id": 18475,
+      "name": "Business Growth",
+      "slug": "18475-business-growth"
+    },
+    {
+      "id": 347,
+      "name": "Technology",
+      "slug": "347-technology"
+    },
+    {
+      "id": 589,
+      "name": "Software Engineering",
+      "slug": "589-software-engineering"
+    },
+    {
+      "id": 580,
+      "name": "Data Analysis",
+      "slug": "580-data-analysis"
+    },
+    {
+      "id": 965,
+      "name": "Computers",
+      "slug": "965-computers"
+    },
+    {
+      "id": 373,
+      "name": "Web Development",
+      "slug": "373-web-development"
+    }
+  ],
+  "payments": {
+    "links": [
+      {
+        "label": "PayPal.me",
+        "url": "https://paypal.me/MalesForFemalesLLC"
+      }
+    ],
+    "crypto_wallets": []
+  },
+  "contact_info": {
+    "work_phone": "9404487858",
+    "email": "admin@malesforfemalesllc.online"
+  },
+  "gallery": [],
+  "number_verified_accounts": 7,
+  "last_profile_edit": "2025-12-20T20:31:01Z",
+  "registration_date": "2024-01-28T04:46:38Z",
+  "section_visibility": {
+    "hidden_contact_info": false,
+    "hidden_feeds": false,
+    "hidden_links": false,
+    "hidden_interests": false,
+    "hidden_wallet": false,
+    "hidden_photos": false,
+    "hidden_verified_accounts": false
+  }
+}

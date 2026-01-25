@@ -1,59 +1,34 @@
-# Examples: typedoc-plugin-markdown
+# Google Cloud Platform Go Samples
 
-This repository contains examples of output generated using [typedoc-plugin-markdown](https://typedoc-plugin-markdown.org).
+[![Kokoro Build Status][kokoro_badge]][kokoro_link]
 
-## Index of Examples
+This repository holds sample code written in Go that demonstrates the Google
+Cloud Platform.
 
-The examples link directly to the typedoc generated output in this repository.
-You can also browse the respective directories and view the configuration of each example.
+Some samples have accompanying guides on
+[cloud.google.com](https://cloud.google.com). See respective README files for
+details.
 
-### Core Output
+## Google Cloud Samples
 
-| Example Link                                                         | Description                                                                 |
-| -------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| [Default Options](./examples/default-options/docs/README.md)         | Highlights how the plugin behaves with default settings.                    |
-| [Display Options](./examples/display-options/docs/README.md)         | Demonstrates how to adjust the user experience with custom display options. |
-| [Single Page Modules](./examples/single-page-modules/docs/README.md) | Shows how documentation can be generated with a single module per page.     |
-| [Single Page Docs](./examples/single-page-docs/docs/README.md)       | Shows how docs can be generated to a single file with a single entry point. |
-| [Packages](./examples/packages/docs/README.md)                       | Illustrates the output for the "packages" entrypoint strategy.              |
-| [Localization](./examples/localization/docs/README.md)               | Shows how to localize the plugin output to different languages.             |
-| [Customization](./examples/customization/docs/index.md)              | Demonstrates advanced customization using hooks and custom themes.          |
+To browse ready to use code samples check [Google Cloud Samples](https://cloud.google.com/docs/samples?l=go).
 
-### Utils
+## Depending on samples
 
-| Example Link                                         | Description                                             |
-| ---------------------------------------------------- | ------------------------------------------------------- |
-| [Frontmatter](./examples/frontmatter/docs/README.md) | Showcases how frontmatter can be added to pages.        |
-| [Remark](./examples/remark/docs/README.md)           | Showcases how output can be parsed with Remark plugins. |
+**Copy any code you need from this repository into your own project.**
 
-## Running Examples Locally
+Warning: Do not depend directly on the samples in this repo. Breaking changes
+may be made at any time without warning.
 
-If you would like to explore the examples and configure yourself clone the repository locally:
+## Contributing changes
 
-### 1. Clone Repository
+Interested in contributing a new sample? Please open an issue describing the intended sample. Additionally, bug fixes are welcome, either as pull requests or as GitHub issues.
 
-```shell
-git clone git@github.com:typedoc2md/typedoc-plugin-markdown-examples.git
-cd typedoc-plugin-markdown-examples
-git submodule update --init --recursive
-```
+See [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute.
 
-### 2. Install Dependencies
+## Licensing
 
-```shell
-npm install
-```
+Code in this repository is licensed under the Apache 2.0. See [LICENSE](LICENSE).
 
-### 3. Build Examples
-
-To run all examples:
-
-```shell
-npm run docs
-```
-
-To run a specific example:
-
-```shell
-npm run docs --workspace display-options
-```
+[kokoro_badge]: https://storage.googleapis.com/cloud-devrel-kokoro-resources/go/golang-samples/system_tests-ubuntu.png
+[kokoro_link]: https://fusion.corp.google.com/projectanalysis/current/KOKORO/prod%3Acloud-devrel%2Fgo%2Fgolang-samples%2Fsystem_tests

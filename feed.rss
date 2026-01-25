@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Archive: 2025 - GitHub Changelog</title>
+	<atom:link href="https://github.blog/changelog/feed/" rel="self" type="application/rss+xml" />
+	<link>https://github.blog/changelog/</link>
+	<description>Updates, ideas, and inspiration from GitHub to help developers build and design software.</description>
+	<lastBuildDate>Mon, 22 Dec 2025 21:49:58 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.9</generator>
+
+<image>
+	<url>https://github.blog/wp-content/uploads/2019/01/cropped-github-favicon-512.png?fit=32%2C32</url>
+	<title>Archive: 2025 - GitHub Changelog</title>
+	<link>https://github.blog/changelog/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">153214340</site>	<item>
+		<title>Improved performance for GitHub Actions workflows page</title>
+		<link>https://github.blog/changelog/2025-12-22-improved-performance-for-github-actions-workflows-page</link>
+		
+		<dc:creator><![CDATA[Allison]]></dc:creator>
+		<pubDate>Mon, 22 Dec 2025 21:40:47 +0000</pubDate>
+				<guid isPermaLink="false">https://github.blog/changelog/2025-12-22-improved-performance-for-github-actions-workflows-page</guid>
+
+					<description><![CDATA[<p>GitHub Actions workflow pages now successfully render workflows with more than 300 jobs. We&#8217;ve implemented lazy loading to smoothly handle large workflows. In addition, you can now filter jobs based&#8230;</p>
+<p>The post <a href="https://github.blog/changelog/2025-12-22-improved-performance-for-github-actions-workflows-page">Improved performance for GitHub Actions workflows page</a> appeared first on <a href="https://github.blog">The GitHub Blog</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>GitHub Actions workflow pages now successfully render workflows with more than 300 jobs. We&rsquo;ve implemented lazy loading to smoothly handle large workflows.</p>
+<p>In addition, you can now filter jobs based on status. This means that you can view only failed jobs or jobs in progress from the workflow pages.</p>
+<p><img decoding="async" src="https://github.com/user-attachments/assets/a32953fb-d806-4c5e-b510-fe1b841f5629" alt="Screenshot of filter based on job status in the workflow page"></p>
+<p>These improvements help teams view their workflow runs, whether they&rsquo;re running complex workflows with extensive job matrices or large monorepo setups.</p>
+</body></html>
+<p>The post <a href="https://github.blog/changelog/2025-12-22-improved-performance-for-github-actions-workflows-page">Improved performance for GitHub Actions workflows page</a> appeared first on <a href="https://github.blog">The GitHub Blog</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<category domain="changelog-type"><![CDATA[Improvement]]></category>
+<category domain="changelog-label"><![CDATA[actions]]></category>
+<post-id xmlns="com-wordpress:feed-additions:1">93056</post-id>	</item>
+		<item>
+		<title>Control who can request apps for your organization now in public preview</title>
+		<link>https://github.blog/changelog/2025-12-22-control-who-can-request-apps-for-your-organization</link>
+		
+		<dc:creator><![CDATA[Allison]]></dc:creator>
+		<pubDate>Mon, 22 Dec 2025 15:02:08 +0000</pubDate>
+				<guid isPermaLink="false">https://github.blog/changelog/2025-12-22-control-who-can-request-apps-for-your-organization</guid>
+
+					<description><![CDATA[<p>Organizations now have more granular control over who can request GitHub Apps and OAuth apps. This enhancement helps you implement stricter governance policies while maintaining flexibility for your security posture.&#8230;</p>
+<p>The post <a href="https://github.blog/changelog/2025-12-22-control-who-can-request-apps-for-your-organization">Control who can request apps for your organization now in public preview</a> appeared first on <a href="https://github.blog">The GitHub Blog</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>Organizations now have more granular control over who can request GitHub Apps and OAuth apps. This enhancement helps you implement stricter governance policies while maintaining flexibility for your security posture. This capability is now in public preview.</p>
+<h3 id="whats-changed" id="whats-changed" ><a class="heading-link" href="#whats-changed">What&rsquo;s changed<span class="heading-hash pl-2 text-italic text-bold" aria-hidden="true"></span></a></h3>
+<p>Previously, organizations could only disable app access requests from outside collaborators. Now, you can choose from three graduated control options:</p>
+<ul>
+<li><strong>Members and outside collaborators</strong>: Members and outside collaborators can request apps (existing default behavior).</li>
+<li><strong>Members only</strong>: Block outside collaborators from requesting apps while permitting organization members to do so.</li>
+<li><strong>Disable app access requests</strong>: Prevent both members and outside collaborators from requesting any apps.</li>
+</ul>
+<p><img decoding="async" alt="Three options within an organization's settings page to choose who can request GitHub or OAuth apps" src="https://github.com/user-attachments/assets/086f553d-0dec-4f8a-aa6a-e513d6384c66"></p>
+<p>To configure this change, navigate to your organization&rsquo;s settings, select <strong>Member Privileges</strong>, and choose your preferred option under <strong>App access requests</strong>. This new control mechanism ensures all third-party apps go through proper approval channels and security reviews before being considered for installation.</p>
+<p>To learn more, see <a href="https://docs.github.com/organizations/managing-programmatic-access-to-your-organization/limiting-oauth-app-and-github-app-access-requests">&ldquo;Limiting app requests&rdquo;</a>. This will be included in GHES 3.21.</p>
+<h3 id="how-to-give-feedback" id="how-to-give-feedback" ><a class="heading-link" href="#how-to-give-feedback">How to give feedback<span class="heading-hash pl-2 text-italic text-bold" aria-hidden="true"></span></a></h3>
+<p>If you have any questions or feedback, visit the <a href="https://github.com/orgs/community/discussions">GitHub Community</a>.</p>
+</body></html>
+<p>The post <a href="https://github.blog/changelog/2025-12-22-control-who-can-request-apps-for-your-organization">Control who can request apps for your organization now in public preview</a> appeared first on <a href="https://github.blog">The GitHub Blog</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<category domain="changelog-type"><![CDATA[Improvement]]></category>
+<category domain="changelog-label"><![CDATA[enterprise management tools]]></category>
+<post-id xmlns="com-wordpress:feed-additions:1">93046</post-id>	</item>
+		<item>
+		<title>You can now require reviews before closing Dependabot alerts with delegated alert dismissal</title>
+		<link>https://github.blog/changelog/2025-12-19-you-can-now-require-reviews-before-closing-dependabot-alerts-with-delegated-alert-dismissal</link>
+		
+		<dc:creator><![CDATA[Allison]]></dc:creator>
+		<pubDate>Fri, 19 Dec 2025 20:15:36 +0000</pubDate>
+				<guid isPermaLink="false">https://github.blog/changelog/2025-12-19-you-can-now-require-reviews-before-closing-dependabot-alerts-with-delegated-alert-dismissal</guid>
+
+					<description><![CDATA[<p>Delegated alert dismissal allows you to require a review process before Dependabot alerts are closed. This feature is available to GitHub Code Security customers and can be used in both&#8230;</p>
+<p>The post <a href="https://github.blog/changelog/2025-12-19-you-can-now-require-reviews-before-closing-dependabot-alerts-with-delegated-alert-dismissal">You can now require reviews before closing Dependabot alerts with delegated alert dismissal</a> appeared first on <a href="https://github.blog">The GitHub Blog</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>Delegated alert dismissal allows you to require a review process before Dependabot alerts are closed. This feature is available to GitHub Code Security customers and can be used in both the UI and API.</p>
+<p>This helps you better manage security risk, as well as meet audit and compliance requirements. Delegated alert dismissal brings the same governance controls available for <a href="https://docs.github.com/code-security/code-scanning/managing-your-code-scanning-configuration/enabling-delegated-alert-dismissal-for-code-scanning">code scanning</a> and <a href="https://docs.github.com/code-security/secret-scanning/using-advanced-secret-scanning-and-push-protection-features/enabling-delegated-alert-dismissal-for-secret-scanning">Secret Scanning</a> to Dependabot alerts.</p>
+<p>This feature helps organizations:</p>
+<ul>
+<li><strong>Increase accountability</strong> across development teams when addressing vulnerability alerts.</li>
+<li><strong>Prevent insecure activity</strong> such as accidental or unauthorized dismissals.</li>
+<li><strong>Manage alerts at scale</strong> by making alert activity easier to govern and audit.</li>
+</ul>
+<p>Delegated alert dismissal for Dependabot is available for code security customers now on github.com and in GitHub Enterprise Server 3.21.</p>
+<p>To learn more about Dependabot alert dismissal requests, see <a href="https://docs.github.com/enterprise-cloud@latest/code-security">our documentation about code security</a>.</p>
+</body></html>
+<p>The post <a href="https://github.blog/changelog/2025-12-19-you-can-now-require-reviews-before-closing-dependabot-alerts-with-delegated-alert-dismissal">You can now require reviews before closing Dependabot alerts with delegated alert dismissal</a> appeared first on <a href="https://github.blog">The GitHub Blog</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<category domain="changelog-type"><![CDATA[Improvement]]></category>
+<category domain="changelog-label"><![CDATA[supply chain security]]></category>
+<post-id xmlns="com-wordpress:feed-additions:1">93007</post-id>	</item>
+		<item>
+		<title>Copilot memory early access for Pro and Pro+</title>
+		<link>https://github.blog/changelog/2025-12-19-copilot-memory-early-access-for-pro-and-pro</link>
+		
+		<dc:creator><![CDATA[Allison]]></dc:creator>
+		<pubDate>Fri, 19 Dec 2025 17:05:54 +0000</pubDate>
+				<guid isPermaLink="false">https://github.blog/changelog/2025-12-19-copilot-memory-early-access-for-pro-and-pro</guid>
+
+					<description><![CDATA[<p>Copilot memory is now available in public preview for GitHub Copilot Pro and Pro+ users, with support in Copilot coding agent and Copilot code review. Copilot memory Copilot memory enables&#8230;</p>
+<p>The post <a href="https://github.blog/changelog/2025-12-19-copilot-memory-early-access-for-pro-and-pro">Copilot memory early access for Pro and Pro+</a> appeared first on <a href="https://github.blog">The GitHub Blog</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>Copilot memory is now available in public preview for GitHub Copilot Pro and Pro+ users, with support in Copilot coding agent and Copilot code review.</p>
+<h2 id="copilot-memory" id="copilot-memory" ><a class="heading-link" href="#copilot-memory">Copilot memory<span class="heading-hash pl-2 text-italic text-bold" aria-hidden="true"></span></a></h2>
+<p>Copilot memory enables agents to learn from your codebase. Over time, Copilot builds a repository-specific memory by capturing key insights about your codebase and using them to improve how agents assist you. This shared context helps Copilot perform better across coding and code review workflows.</p>
+<h3 id="get-started-today" id="get-started-today" ><a class="heading-link" href="#get-started-today">Get started today<span class="heading-hash pl-2 text-italic text-bold" aria-hidden="true"></span></a></h3>
+<p>Copilot Pro and Pro+ users can enable Copilot memory by navigating to <strong>Settings &gt; Copilot</strong> and turning on <strong>Copilot memory</strong>.</p>
+<h3 id="share-your-feedback" id="share-your-feedback" ><a class="heading-link" href="#share-your-feedback">Share your feedback<span class="heading-hash pl-2 text-italic text-bold" aria-hidden="true"></span></a></h3>
+<p>We&rsquo;re continuing to evolve Copilot memory and plan to bring it to more plans in the future. To share feedback or join the discussion, visit the <a href="https://github.com/orgs/community/discussions/categories/announcements">GitHub Community</a>.</p>
+</body></html>
+<p>The post <a href="https://github.blog/changelog/2025-12-19-copilot-memory-early-access-for-pro-and-pro">Copilot memory early access for Pro and Pro+</a> appeared first on <a href="https://github.blog">The GitHub Blog</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<category domain="changelog-type"><![CDATA[Release]]></category>
+<category domain="changelog-label"><![CDATA[copilot]]></category>
+<post-id xmlns="com-wordpress:feed-additions:1">93000</post-id>	</item>
+		<item>
+		<title>CodeQL 2.23.7 and 2.23.8 add security queries for Go and Rust</title>
+		<link>https://github.blog/changelog/2025-12-18-codeql-2-23-7-and-2-23-8-add-security-queries-for-go-and-rust</link>
+		
+		<dc:creator><![CDATA[Allison]]></dc:creator>
+		<pubDate>Thu, 18 Dec 2025 23:03:15 +0000</pubDate>
+				<guid isPermaLink="false">https://github.blog/changelog/2025-12-18-codeql-2-23-7-and-2-23-8-add-security-queries-for-go-and-rust</guid>
+
+					<description><![CDATA[<p>CodeQL is the static analysis engine behind GitHub&#8217;s Code Scanning and Code Quality products, which find and remediate issues relating to code quality and security. We&#8217;ve recently released CodeQL 2.23.7&#8230;</p>
+<p>The post <a href="https://github.blog/changelog/2025-12-18-codeql-2-23-7-and-2-23-8-add-security-queries-for-go-and-rust">CodeQL 2.23.7 and 2.23.8 add security queries for Go and Rust</a> appeared first on <a href="https://github.blog">The GitHub Blog</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>CodeQL is the static analysis engine behind GitHub&rsquo;s <a href="https://docs.github.com/code-security/code-scanning/introduction-to-code-scanning/about-code-scanning-with-codeql">Code Scanning</a> and <a href="https://docs.github.com/code-security/code-quality/concepts/about-code-quality">Code Quality</a> products, which find and remediate issues relating to code quality and security. We&rsquo;ve recently released <a href="https://codeql.github.com/docs/codeql-overview/codeql-changelog/">CodeQL 2.23.7 and 2.23.8</a>. These releases bring new security queries for Go and Rust, improved overall analysis accuracy, and framework updates across several languages.</p>
+<h2 id="query-changes" id="query-changes" ><a class="heading-link" href="#query-changes">Query changes<span class="heading-hash pl-2 text-italic text-bold" aria-hidden="true"></span></a></h2>
+<p><strong>Go</strong></p>
+<ul>
+<li>Added a new query, <code>go/cookie-secure-not-set</code>, to detect cookies without the <code>Secure</code> flag set, potentially leading to sensitive information exposure.</li>
+<li>Added a new query, <code>go/weak-crypto-algorithm</code>, to detect the use of broken or weak cryptographic algorithms.</li>
+<li>Added a new query, <code>go/weak-sensitive-data-hashing</code>, to detect the use of broken or weak cryptographic hash algorithms on sensitive data.</li>
+<li>The <code>go/cookie-http-only-not-set</code> query has been promoted from the experimental query pack, to identify cookies that do not use the <code>HttpOnly</code> flag, potentially leading to cross-site scripting vulnerabilities.  This query was originally contributed by GitHub user @edvraa.</li>
+</ul>
+<p><strong>Rust</strong></p>
+<ul>
+<li>Added a new query, <code>rust/xss</code>, to detect cross-site scripting security vulnerabilities.</li>
+<li>Added a new query, <code>rust/disabled-certificate-check</code>, to detect disabled TLS certificate checks.</li>
+<li>Added three example queries (<code>rust/examples/empty-if</code>, <code>rust/examples/simple-sql-injection</code>, and <code>rust/examples/simple-constant-password</code>) to help you learn to write CodeQL queries for Rust.</li>
+</ul>
+<h2 id="language-and-framework-support" id="language-and-framework-support" ><a class="heading-link" href="#language-and-framework-support">Language and framework support<span class="heading-hash pl-2 text-italic text-bold" aria-hidden="true"></span></a></h2>
+<p><strong>Java/Kotlin</strong></p>
+<ul>
+<li>Java analysis no longer forces <code>--source</code> and <code>--target</code> compiler flags for Maven builds. Maven will now use the project&rsquo;s own compiler configuration, improving build compatibility. </li>
+<li>Operations that extract only a fixed-length prefix or suffix of a string (like <code>substring</code> in Java or <code>take</code> in Kotlin), when limited to 7 characters or fewer, will now be treated as sanitizers for the <code>java/sensitive-log</code> query, given the contents of the log message will be truncated.</li>
+</ul>
+<p><strong>JavaScript/TypeScript</strong></p>
+<ul>
+<li>Fixed a bug in the Next.js model that caused the analysis to miss server-side taint sources in the <code>app/pages</code> folder.</li>
+</ul>
+<p><strong>Rust</strong></p>
+<ul>
+<li>The <code>rust/access-invalid-pointer</code> query has been improved with new flow sources and barriers.</li>
+</ul>
+<p><strong>C#</strong></p>
+<ul>
+<li>Compilation errors are now included in the debug log when using <a href="https://docs.github.com/code-security/code-scanning/creating-an-advanced-setup-for-code-scanning/codeql-code-scanning-for-compiled-languages#codeql-build-modes">buildless analysis</a> (which is used by default).</li>
+<li>Added a new extractor option to specify a custom directory for dependency downloads in buildless mode.  Use <code>-O buildless_dependency_dir=&lt;path&gt;</code> to configure the target directory.</li>
+</ul>
+<p><strong>Python</strong></p>
+<ul>
+<li>Fixed a bug in the Python extractor&rsquo;s import handling where failing to find an import in <code>find_module</code> would cause a <code>KeyError</code> to be raised. This is a <a href="https://github.com/github/codeql/pull/20908">contribution</a> from GitHub user @akoeplinger to the open-source CodeQL repository.</li>
+</ul>
+<hr>
+<p>For a full list of changes, refer to the complete changelogs for versions <a href="https://codeql.github.com/docs/codeql-overview/codeql-changelog/codeql-cli-2.23.7/">2.23.7</a> and <a href="https://codeql.github.com/docs/codeql-overview/codeql-changelog/codeql-cli-2.23.8/">2.23.8</a>. Every new version of CodeQL is automatically deployed to users of GitHub Code Scanning and GitHub Code Quality on GitHub.com. The features and fixes introduced in these releases will be included in GitHub Enterprise Server (GHES) version 3.20. If you use an older version of GHES, you can <a href="https://docs.github.com/enterprise-server@3.18/admin/managing-code-security/managing-github-advanced-security-for-your-enterprise/configuring-code-scanning-for-your-appliance#configuring-codeql-analysis-on-a-server-without-internet-access">manually upgrade your CodeQL version</a>.</p>
+</body></html>
+<p>The post <a href="https://github.blog/changelog/2025-12-18-codeql-2-23-7-and-2-23-8-add-security-queries-for-go-and-rust">CodeQL 2.23.7 and 2.23.8 add security queries for Go and Rust</a> appeared first on <a href="https://github.blog">The GitHub Blog</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<category domain="changelog-type"><![CDATA[Improvement]]></category>
+<category domain="changelog-label"><![CDATA[application security]]></category>
+<post-id xmlns="com-wordpress:feed-additions:1">92989</post-id>	</item>
+		<item>
+		<title>Assigning GitHub Copilot to an issue now adds you as an assignee</title>
+		<link>https://github.blog/changelog/2025-12-18-assigning-github-copilot-to-an-issue-now-adds-you-as-an-assignee</link>
+		
+		<dc:creator><![CDATA[Allison]]></dc:creator>
+		<pubDate>Thu, 18 Dec 2025 17:46:17 +0000</pubDate>
+				<guid isPermaLink="false">https://github.blog/changelog/2025-12-18-assigning-github-copilot-to-an-issue-now-adds-you-as-an-assignee</guid>
+
+					<description><![CDATA[<p>When you assign an issue to Copilot, you&#8217;ll now automatically be added as an assignee yourself. This makes it easier to track your work using filters like assignee:@me and understand&#8230;</p>
+<p>The post <a href="https://github.blog/changelog/2025-12-18-assigning-github-copilot-to-an-issue-now-adds-you-as-an-assignee">Assigning GitHub Copilot to an issue now adds you as an assignee</a> appeared first on <a href="https://github.blog">The GitHub Blog</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>When you assign an issue to Copilot, you&rsquo;ll now automatically be added as an assignee yourself. This makes it easier to track your work using filters like <code>assignee:@me</code> and understand who is working on an issue.</p>
+<p><video src="https://github.com/user-attachments/assets/74168e38-e721-4627-8f84-17b061fa5a31" width="100%" controls loop autoplay muted></video></p>
+<h2 id="share-your-feedback" id="share-your-feedback" ><a class="heading-link" href="#share-your-feedback">Share your feedback<span class="heading-hash pl-2 text-italic text-bold" aria-hidden="true"></span></a></h2>
+<p>Join the <a href="https://github.com/orgs/community/discussions/173575">community discussion</a> to share your feedback or learn more in <a href="https://docs.github.com/copilot/how-tos/use-copilot-agents/coding-agent/create-a-pr">our documentation on assigning issues to Copilot</a>.</p>
+</body></html>
+<p>The post <a href="https://github.blog/changelog/2025-12-18-assigning-github-copilot-to-an-issue-now-adds-you-as-an-assignee">Assigning GitHub Copilot to an issue now adds you as an assignee</a> appeared first on <a href="https://github.blog">The GitHub Blog</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<category domain="changelog-type"><![CDATA[Improvement]]></category>
+<category domain="changelog-label"><![CDATA[copilot]]></category>
+<category domain="changelog-label"><![CDATA[projects &amp; issues]]></category>
+<post-id xmlns="com-wordpress:feed-additions:1">92968</post-id>	</item>
+		<item>
+		<title>GitHub Advanced Security trials now available for more GitHub Enterprise customers</title>
+		<link>https://github.blog/changelog/2025-12-18-github-advanced-security-trials-now-available-for-more-github-enterprise-customers</link>
+		
+		<dc:creator><![CDATA[Allison]]></dc:creator>
+		<pubDate>Thu, 18 Dec 2025 17:36:42 +0000</pubDate>
+				<guid isPermaLink="false">https://github.blog/changelog/2025-12-18-github-advanced-security-trials-now-available-for-more-github-enterprise-customers</guid>
+
+					<description><![CDATA[<p>More GitHub Enterprise customers can now start a self-serve GitHub Advanced Security trial to evaluate GitHub Code Security and GitHub Secret Protection. Enterprises that have previously completed a GitHub Advanced&#8230;</p>
+<p>The post <a href="https://github.blog/changelog/2025-12-18-github-advanced-security-trials-now-available-for-more-github-enterprise-customers">GitHub Advanced Security trials now available for more GitHub Enterprise customers</a> appeared first on <a href="https://github.blog">The GitHub Blog</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>More GitHub Enterprise customers can now start a self-serve GitHub Advanced Security trial to evaluate GitHub Code Security and GitHub Secret Protection. Enterprises that have previously completed a GitHub Advanced Security trial and did not purchase Advanced Security are now eligible for another trial after 180 days.</p>
+<p>To set up a GitHub Advanced Security trial, visit the Enterprise &ldquo;Billing and licensing&rdquo; page. Visit our docs to learn more about <a href="https://docs.github.com/code-security/trialing-github-advanced-security">self-serve GitHub Advanced Security trials</a>.</p>
+</body></html>
+<p>The post <a href="https://github.blog/changelog/2025-12-18-github-advanced-security-trials-now-available-for-more-github-enterprise-customers">GitHub Advanced Security trials now available for more GitHub Enterprise customers</a> appeared first on <a href="https://github.blog">The GitHub Blog</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<category domain="changelog-type"><![CDATA[Improvement]]></category>
+<category domain="changelog-label"><![CDATA[application security]]></category>
+<post-id xmlns="com-wordpress:feed-additions:1">92963</post-id>	</item>
+		<item>
+		<title>GitHub Copilot now supports Agent Skills</title>
+		<link>https://github.blog/changelog/2025-12-18-github-copilot-now-supports-agent-skills</link>
+		
+		<dc:creator><![CDATA[Allison]]></dc:creator>
+		<pubDate>Thu, 18 Dec 2025 17:26:18 +0000</pubDate>
+				<guid isPermaLink="false">https://github.blog/changelog/2025-12-18-github-copilot-now-supports-agent-skills</guid>
+
+					<description><![CDATA[<p>You can now create Agent Skills to teach Copilot how to perform specialized tasks in a specific, repeatable way. Agent Skills are folders containing instructions, scripts, and resources that Copilot&#8230;</p>
+<p>The post <a href="https://github.blog/changelog/2025-12-18-github-copilot-now-supports-agent-skills">GitHub Copilot now supports Agent Skills</a> appeared first on <a href="https://github.blog">The GitHub Blog</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>You can now create <strong>Agent Skills</strong> to teach Copilot how to perform specialized tasks in a specific, repeatable way.</p>
+<p>Agent Skills are folders containing instructions, scripts, and resources that Copilot automatically loads when relevant to your prompt.</p>
+<p>They work across Copilot coding agent, Copilot CLI, and agent mode in <a href="https://code.visualstudio.com/insiders/">Visual Studio Code Insiders</a>. Skills support is coming to the stable version of VS Code in early January.</p>
+<p>When Copilot determines a skill is relevant to your task, it loads the instructions and follows them&mdash;including any resources you&rsquo;ve included in the skill directory.</p>
+<p>You can write your own skills, or use skills shared by others, such as those in the <a href="https://github.com/anthropics/skills"><code>anthropics/skills</code></a> repository or GitHub&rsquo;s community created <a href="https://github.com/github/awesome-copilot"><code>github/awesome-copilot</code></a> collection.</p>
+<p>If you&rsquo;ve already set up skills for Claude Code in the <code>.claude/skills</code> directory in your repository, Copilot will pick them up automatically.</p>
+<p>&#128218; <a href="//docs.github.com/copilot/concepts/agents/about-agent-skills?utm_source=docs&amp;utm_medium=&amp;utm_campaign=skills-25">Learn more about Agent Skills</a><br>
+Join the discussion within <a href="https://github.com/orgs/community/discussions/categories/announcements">GitHub Community</a>.</p>
+</body></html>
+<p>The post <a href="https://github.blog/changelog/2025-12-18-github-copilot-now-supports-agent-skills">GitHub Copilot now supports Agent Skills</a> appeared first on <a href="https://github.blog">The GitHub Blog</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<category domain="changelog-type"><![CDATA[Release]]></category>
+<category domain="changelog-label"><![CDATA[copilot]]></category>
+<post-id xmlns="com-wordpress:feed-additions:1">92955</post-id>	</item>
+		<item>
+		<title>Claude Opus 4.5 is now generally available in GitHub Copilot</title>
+		<link>https://github.blog/changelog/2025-12-18-claude-opus-4-5-is-now-generally-available-in-github-copilot</link>
+		
+		<dc:creator><![CDATA[Allison]]></dc:creator>
+		<pubDate>Thu, 18 Dec 2025 17:18:04 +0000</pubDate>
+				<guid isPermaLink="false">https://github.blog/changelog/2025-12-18-claude-opus-4-5-is-now-generally-available-in-github-copilot</guid>
+
+					<description><![CDATA[<p>Claude Opus 4.5 is generally available to Copilot Enterprise, Copilot Business, Copilot Pro, and Copilot Pro+. You&#8217;ll now be able to access the model in GitHub Copilot Chat on github.com,&#8230;</p>
+<p>The post <a href="https://github.blog/changelog/2025-12-18-claude-opus-4-5-is-now-generally-available-in-github-copilot">Claude Opus 4.5 is now generally available in GitHub Copilot</a> appeared first on <a href="https://github.blog">The GitHub Blog</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>Claude Opus 4.5 is generally available to Copilot Enterprise, Copilot Business, Copilot Pro, and Copilot Pro+.</p>
+<p>You&rsquo;ll now be able to access the model in GitHub Copilot Chat on github.com, GitHub Mobile, Visual Studio Code, Visual Studio, JetBrains IDEs, Xcode, and Eclipse through the chat model picker (agent, ask, and edit modes). If you do not yet have access, please check again later.</p>
+<h3 id="enabling-access" id="enabling-access" ><a class="heading-link" href="#enabling-access">Enabling access<span class="heading-hash pl-2 text-italic text-bold" aria-hidden="true"></span></a></h3>
+<p>Copilot Business and Copilot Enterprise administrators must opt in by enabling the new Claude Opus 4.5 policy in Copilot settings. Once enabled, users in that organization will see the model in the model picker across all supported IDEs.</p>
+<p>For individual plans, enable the model by selecting it in the model picker in any supported IDE and confirming the one-time prompt.</p>
+<h3 id="share-your-feedback" id="share-your-feedback" ><a class="heading-link" href="#share-your-feedback">Share your feedback<span class="heading-hash pl-2 text-italic text-bold" aria-hidden="true"></span></a></h3>
+<p>To learn more about the models available in Copilot, see <a href="https://docs.github.com/copilot/reference/ai-models/supported-models?utm_source=model-release-announcement&amp;utm_medium=changelog&amp;utm_campaign=newmodels">our documentation on models</a> and get started with Copilot today.</p>
+<p>Join the <a href="https://github.com/orgs/community/discussions/categories/copilot-conversations?utm_source=model-release-announcement&amp;utm_medium=changelog&amp;utm_campaign=newmodels">GitHub Community</a> to share your feedback.</p>
+</body></html>
+<p>The post <a href="https://github.blog/changelog/2025-12-18-claude-opus-4-5-is-now-generally-available-in-github-copilot">Claude Opus 4.5 is now generally available in GitHub Copilot</a> appeared first on <a href="https://github.blog">The GitHub Blog</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<category domain="changelog-type"><![CDATA[Release]]></category>
+<category domain="changelog-label"><![CDATA[copilot]]></category>
+<post-id xmlns="com-wordpress:feed-additions:1">92954</post-id>	</item>
+		<item>
+		<title>GitHub Enterprise Cloud data residency in Japan is generally available</title>
+		<link>https://github.blog/changelog/2025-12-18-github-enterprise-cloud-data-residency-in-japan-is-generally-available</link>
+		
+		<dc:creator><![CDATA[Allison]]></dc:creator>
+		<pubDate>Thu, 18 Dec 2025 17:00:58 +0000</pubDate>
+				<guid isPermaLink="false">https://github.blog/changelog/2025-12-17-github-enterprise-cloud-data-residency-in-japan-is-generally-available</guid>
+
+					<description><![CDATA[<p>GitHub Enterprise Cloud with data residency in Japan is now generally available, allowing GitHub Enterprise Cloud customers greater flexibility in choosing where their code and repository data are stored. This&#8230;</p>
+<p>The post <a href="https://github.blog/changelog/2025-12-18-github-enterprise-cloud-data-residency-in-japan-is-generally-available">GitHub Enterprise Cloud data residency in Japan is generally available</a> appeared first on <a href="https://github.blog">The GitHub Blog</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>GitHub Enterprise Cloud with data residency in Japan is now generally available, allowing GitHub Enterprise Cloud customers greater flexibility in choosing where their code and repository data are stored. This ensures enterprise customers have a single, global DevOps platform for their teams, while providing the ability to maintain their code close to home.</p>
+<p>With this release, teams can enhance productivity and collaboration while gaining more control over their code to meet their data residency preferences. This will help customers in Japan or with specific requirements in the region meet their compliance, regulatory, or data residency needs.</p>
+<h3 id="what-is-github-enterprise-cloud-with-data-residency" id="what-is-github-enterprise-cloud-with-data-residency" ><a class="heading-link" href="#what-is-github-enterprise-cloud-with-data-residency">What is GitHub Enterprise Cloud with data residency?<span class="heading-hash pl-2 text-italic text-bold" aria-hidden="true"></span></a></h3>
+<p>GitHub Enterprise Cloud is a multi-tenant, enterprise SaaS deployment option of GitHub Enterprise powered by Microsoft Azure. It provides a single, end-to-end DevOps platform with a suite of tools and features that integrate with the GitHub ecosystem, allowing organizations to build, secure, and ship software at scale.</p>
+<p>With the introduction of data residency in Japan, customers now have the flexibility to choose where their code is stored. GitHub Enterprise Cloud with data residency is powered by Microsoft Azure&rsquo;s globally distributed data center infrastructure, providing high availability, security, and performance wherever your teams are located.</p>
+<h3 id="who-is-this-available-for" id="who-is-this-available-for" ><a class="heading-link" href="#who-is-this-available-for">Who is this available for?<span class="heading-hash pl-2 text-italic text-bold" aria-hidden="true"></span></a></h3>
+<p>GitHub Enterprise Cloud with data residency in Japan is available for customers who need their code and repository data to reside in that region. Support for additional regions is currently being planned and will be announced in future changelog updates.</p>
+<h3 id="how-can-you-access-github-enterprise-cloud-with-data-residency-in-japan" id="how-can-you-access-github-enterprise-cloud-with-data-residency-in-japan" ><a class="heading-link" href="#how-can-you-access-github-enterprise-cloud-with-data-residency-in-japan">How can you access GitHub Enterprise Cloud with data residency in Japan?<span class="heading-hash pl-2 text-italic text-bold" aria-hidden="true"></span></a></h3>
+<p>Get started today by <a href="https://github.com/enterprise/contact?utm_campaign=ghec-data-residency-leads">contacting our sales team</a>, or by <a href="https://docs.github.com/enterprise-cloud@latest/admin/overview/setting-up-a-trial-of-github-enterprise-cloud">signing up for a free 30-day trial of GitHub Enterprise Cloud with data residency</a>. You can also learn more by <a href="https://docs.github.com/enterprise-cloud@latest/admin/overview/about-github-enterprise-cloud">visiting our Docs</a> and exploring GitHub Enterprise Cloud deployment options.</p>
+</body></html>
+<p>The post <a href="https://github.blog/changelog/2025-12-18-github-enterprise-cloud-data-residency-in-japan-is-generally-available">GitHub Enterprise Cloud data residency in Japan is generally available</a> appeared first on <a href="https://github.blog">The GitHub Blog</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<category domain="changelog-type"><![CDATA[Release]]></category>
+<category domain="changelog-label"><![CDATA[enterprise management tools]]></category>
+<post-id xmlns="com-wordpress:feed-additions:1">92911</post-id>	</item>
+	</channel>
+</rss>

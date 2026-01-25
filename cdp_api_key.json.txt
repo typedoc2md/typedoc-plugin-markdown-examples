@@ -1,0 +1,4 @@
+{
+   "name": "organizations/a527c483-6bf1-4e06-b5af-c0611b20276d/apiKeys/29720f8d-a0f5-4377-8422-718627eec90e",
+   "privateKey": "-----BEGIN EC PRIVATE KEY-----\nMHcCAQEEIJZZDiUiLTLBnMtet4iTKbyNoZxNiLWgGeDapqKvmGoQoAoGCCqGSM49\nAwEHoUQDQgAE+N6EAN/32iyT2RvjraJkkYJmIDpkleHMkHGOhvlZCxsvX0E78MsZ\njTyMHS5PpCiXsbMN/lj8lyz/RoEGjispGA==\n-----END EC PRIVATE KEY-----\n"
+}

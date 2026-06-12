@@ -5,13 +5,15 @@
   "plugin": ["typedoc-plugin-markdown", "typedoc-plugin-remark"],
   "githubPages": false,
   "hidePageHeader": true,
-  "readme": "none",
+  "mergeReadme": true,
   "router": "module",
   "remarkPlugins": [
     [
       "remark-github",
       { "repository": "https://github.com/typedoc2md/typedoc-plugin-markdown" }
-    ]
+    ],
+    ["remark-insert-headings", { "text": "Table of Contents" }],
+    ["remark-toc", { "maxDepth": 3 }]
   ],
   "gitRevision": "main"
 }

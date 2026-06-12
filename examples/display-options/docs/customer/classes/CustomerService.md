@@ -74,7 +74,7 @@ An array of all customer accounts.
 ### getCustomerById()
 
 ```ts
-getCustomerById(customerId): CustomerAccount;
+getCustomerById(customerId): CustomerAccount | undefined;
 ```
 
 Defined in: [customer.ts:180](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L180)
@@ -89,6 +89,6 @@ Get a customer account by ID.
 
 #### Returns
 
-[`CustomerAccount`](CustomerAccount.md)
+[`CustomerAccount`](CustomerAccount.md) \| `undefined`
 
 The customer account with the specified ID.

@@ -24,9 +24,9 @@ These are used to specify the payment mechanism chosen by a customer.
 
 | Enumeration Member | Value | Description | Defined in |
 | ------ | ------ | ------ | ------ |
-| <a id="banktransfer"></a> `BankTransfer` | `"Bank Transfer"` | Payment via direct bank transfer. Used typically for larger transactions or where credit cards and PayPal are not viable. | [billing.ts:23](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L23) |
-| <a id="creditcard"></a> `CreditCard` | `"Credit Card"` | Payment through credit card. | [billing.ts:17](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L17) |
-| <a id="paypal"></a> `PayPal` | `"PayPal"` | Payment through PayPal. Ideal for users who prefer not to directly use their credit card details. | [billing.ts:20](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L20) |
+| <a id="enumeration-member-banktransfer"></a> `BankTransfer` | `"Bank Transfer"` | Payment via direct bank transfer. Used typically for larger transactions or where credit cards and PayPal are not viable. | [billing.ts:23](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L23) |
+| <a id="enumeration-member-creditcard"></a> `CreditCard` | `"Credit Card"` | Payment through credit card. | [billing.ts:17](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L17) |
+| <a id="enumeration-member-paypal"></a> `PayPal` | `"PayPal"` | Payment through PayPal. Ideal for users who prefer not to directly use their credit card details. | [billing.ts:20](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L20) |
 
 ***
 
@@ -41,9 +41,9 @@ These statuses indicate the current state of a billing transaction in the proces
 
 | Enumeration Member | Value | Description | Defined in |
 | ------ | ------ | ------ | ------ |
-| <a id="completed"></a> `Completed` | `"Completed"` | Transaction has been successfully processed. | [billing.ts:35](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L35) |
-| <a id="failed"></a> `Failed` | `"Failed"` | Transaction failed due to an error or rejection. | [billing.ts:38](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L38) |
-| <a id="pending"></a> `Pending` | `"Pending"` | Transaction has been initiated but not yet processed. | [billing.ts:32](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L32) |
+| <a id="enumeration-member-completed"></a> `Completed` | `"Completed"` | Transaction has been successfully processed. | [billing.ts:35](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L35) |
+| <a id="enumeration-member-failed"></a> `Failed` | `"Failed"` | Transaction failed due to an error or rejection. | [billing.ts:38](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L38) |
+| <a id="enumeration-member-pending"></a> `Pending` | `"Pending"` | Transaction has been initiated but not yet processed. | [billing.ts:32](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/billing.ts#L32) |
 
 ## Classes
 

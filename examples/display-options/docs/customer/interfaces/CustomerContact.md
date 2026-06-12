@@ -28,7 +28,7 @@ Primary email address for customer communications.
 ### phone?
 
 ```ts
-optional phone: string;
+optional phone?: string;
 ```
 
 Defined in: [customer.ts:45](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L45)

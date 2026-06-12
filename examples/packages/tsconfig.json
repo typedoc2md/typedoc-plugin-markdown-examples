@@ -5,7 +5,7 @@
     "jsx": "react-jsx",
     "experimentalDecorators": true,
     "module": "ESNext",
-    "moduleResolution": "node",
+    "moduleResolution": "bundler",
     "noEmit": true,
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,

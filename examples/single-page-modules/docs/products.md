@@ -21,10 +21,10 @@ Helps categorize products into logical groupings for easier management and brows
 
 | Enumeration Member | Value | Description | Defined in |
 | ------ | ------ | ------ | ------ |
-| <a id="books"></a> `Books` | `"Books"` | Books category encompasses all genres and types of books, including novels, textbooks, and guides. | [products.ts:33](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L33) |
-| <a id="clothing"></a> `Clothing` | `"Clothing"` | Clothing category includes apparel items such as shirts, pants, and dresses. | [products.ts:30](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L30) |
-| <a id="electronics"></a> `Electronics` | `"Electronics"` | Electronics category includes items like computers, mobile phones, and other electronic devices. | [products.ts:27](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L27) |
-| <a id="homedecor"></a> `HomeDecor` | `"Home Decor"` | Home Decor category includes items used for decorating and furnishing a home, like furniture, paintings, and decor items. | [products.ts:36](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L36) |
+| <a id="enumeration-member-books"></a> `Books` | `"Books"` | Books category encompasses all genres and types of books, including novels, textbooks, and guides. | [products.ts:33](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L33) |
+| <a id="enumeration-member-clothing"></a> `Clothing` | `"Clothing"` | Clothing category includes apparel items such as shirts, pants, and dresses. | [products.ts:30](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L30) |
+| <a id="enumeration-member-electronics"></a> `Electronics` | `"Electronics"` | Electronics category includes items like computers, mobile phones, and other electronic devices. | [products.ts:27](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L27) |
+| <a id="enumeration-member-homedecor"></a> `HomeDecor` | `"Home Decor"` | Home Decor category includes items used for decorating and furnishing a home, like furniture, paintings, and decor items. | [products.ts:36](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L36) |
 
 ## Classes
 
@@ -89,7 +89,7 @@ An array of all product details.
 ##### getProductById()
 
 ```ts
-getProductById(productId): ProductDetails;
+getProductById(productId): ProductDetails | undefined;
 ```
 
 Defined in: [products.ts:86](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L86)
@@ -104,7 +104,7 @@ Get product details by ID.
 
 ###### Returns
 
-[`ProductDetails`](#productdetails)
+[`ProductDetails`](#productdetails) \| `undefined`
 
 The product details with the specified ID.
 
@@ -133,7 +133,7 @@ An array of product details in the specified category.
 ##### removeProduct()
 
 ```ts
-removeProduct(productId): ProductDetails;
+removeProduct(productId): ProductDetails | undefined;
 ```
 
 Defined in: [products.ts:124](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L124)
@@ -148,14 +148,14 @@ Remove a product from the inventory.
 
 ###### Returns
 
-[`ProductDetails`](#productdetails)
+[`ProductDetails`](#productdetails) \| `undefined`
 
 The removed product details.
 
 ##### updateProductDetails()
 
 ```ts
-updateProductDetails(productId, updatedDetails): ProductDetails;
+updateProductDetails(productId, updatedDetails): ProductDetails | undefined;
 ```
 
 Defined in: [products.ts:105](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L105)
@@ -171,7 +171,7 @@ Update product details.
 
 ###### Returns
 
-[`ProductDetails`](#productdetails)
+[`ProductDetails`](#productdetails) \| `undefined`
 
 The updated product details.
 
@@ -400,7 +400,7 @@ Interface representing a product review.
 ##### comment?
 
 ```ts
-optional comment: string;
+optional comment?: string;
 ```
 
 Defined in: [products.ts:144](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L144)

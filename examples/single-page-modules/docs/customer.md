@@ -21,8 +21,8 @@ These classifications help tailor services and benefits according to customer lo
 
 | Enumeration Member | Value | Description | Defined in |
 | ------ | ------ | ------ | ------ |
-| <a id="premium"></a> `Premium` | `"Premium"` | Represents a premium customer who enjoys additional benefits, discounts, and services. | [customer.ts:17](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L17) |
-| <a id="regular"></a> `Regular` | `"Regular"` | Represents a regular customer who receives standard services and pricing. | [customer.ts:15](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L15) |
+| <a id="enumeration-member-premium"></a> `Premium` | `"Premium"` | Represents a premium customer who enjoys additional benefits, discounts, and services. | [customer.ts:17](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L17) |
+| <a id="enumeration-member-regular"></a> `Regular` | `"Regular"` | Represents a regular customer who receives standard services and pricing. | [customer.ts:15](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L15) |
 
 ## Classes
 
@@ -214,7 +214,7 @@ An array of all customer accounts.
 ##### getCustomerById()
 
 ```ts
-getCustomerById(customerId): CustomerAccount;
+getCustomerById(customerId): CustomerAccount | undefined;
 ```
 
 Defined in: [customer.ts:180](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L180)
@@ -229,7 +229,7 @@ Get a customer account by ID.
 
 ###### Returns
 
-[`CustomerAccount`](#customeraccount)
+[`CustomerAccount`](#customeraccount) \| `undefined`
 
 The customer account with the specified ID.
 
@@ -349,7 +349,7 @@ Primary email address for customer communications.
 ##### phone?
 
 ```ts
-optional phone: string;
+optional phone?: string;
 ```
 
 Defined in: [customer.ts:45](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/customer.ts#L45)

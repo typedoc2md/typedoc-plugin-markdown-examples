@@ -28,7 +28,7 @@
 
 ### age?
 
-> `optional` **age**: `number`
+> `optional` **age?**: `number`
 
 定义于: [index.ts:58](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/localization/src/index.ts#L58)
 

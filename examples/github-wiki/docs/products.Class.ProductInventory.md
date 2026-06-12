@@ -58,7 +58,7 @@ An array of all product details.
 
 ### getProductById()
 
-> **getProductById**(`productId`): [`ProductDetails`](../wiki/products.Interface.ProductDetails)
+> **getProductById**(`productId`): [`ProductDetails`](../wiki/products.Interface.ProductDetails) \| `undefined`
 
 Defined in: [products.ts:86](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L86)
 
@@ -72,7 +72,7 @@ Get product details by ID.
 
 #### Returns
 
-[`ProductDetails`](../wiki/products.Interface.ProductDetails)
+[`ProductDetails`](../wiki/products.Interface.ProductDetails) \| `undefined`
 
 The product details with the specified ID.
 
@@ -102,7 +102,7 @@ An array of product details in the specified category.
 
 ### removeProduct()
 
-> **removeProduct**(`productId`): [`ProductDetails`](../wiki/products.Interface.ProductDetails)
+> **removeProduct**(`productId`): [`ProductDetails`](../wiki/products.Interface.ProductDetails) \| `undefined`
 
 Defined in: [products.ts:124](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L124)
 
@@ -116,7 +116,7 @@ Remove a product from the inventory.
 
 #### Returns
 
-[`ProductDetails`](../wiki/products.Interface.ProductDetails)
+[`ProductDetails`](../wiki/products.Interface.ProductDetails) \| `undefined`
 
 The removed product details.
 
@@ -124,7 +124,7 @@ The removed product details.
 
 ### updateProductDetails()
 
-> **updateProductDetails**(`productId`, `updatedDetails`): [`ProductDetails`](../wiki/products.Interface.ProductDetails)
+> **updateProductDetails**(`productId`, `updatedDetails`): [`ProductDetails`](../wiki/products.Interface.ProductDetails) \| `undefined`
 
 Defined in: [products.ts:105](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L105)
 
@@ -139,6 +139,6 @@ Update product details.
 
 #### Returns
 
-[`ProductDetails`](../wiki/products.Interface.ProductDetails)
+[`ProductDetails`](../wiki/products.Interface.ProductDetails) \| `undefined`
 
 The updated product details.

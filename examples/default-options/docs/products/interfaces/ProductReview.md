@@ -14,7 +14,7 @@ Interface representing a product review.
 
 ### comment?
 
-> `optional` **comment**: `string`
+> `optional` **comment?**: `string`
 
 Defined in: [products.ts:144](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L144)
 

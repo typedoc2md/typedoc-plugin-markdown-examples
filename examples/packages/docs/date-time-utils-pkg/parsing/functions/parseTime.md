@@ -2,7 +2,7 @@
 
 # Function: parseTime()
 
-> **parseTime**(`timeStr`): `Date`
+> **parseTime**(`timeStr`): `Date` \| `null`
 
 Defined in: [parsing.ts:19](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/packages/packages/date-time-utils/src/parsing.ts#L19)
 
@@ -17,4 +17,4 @@ Returns `null` if the input is invalid.
 
 ## Returns
 
-`Date`
+`Date` \| `null`

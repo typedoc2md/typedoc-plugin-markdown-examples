@@ -1,15 +1,64 @@
-# remark-example
+# Remark Example
 
-The comments in this block have been transformed by remark.
+## Table of Contents
 
-Here we can automatically link to github items and users using [remark-github](https://github.com/remarkjs/remark-github).
+* [Install](#install)
+* [Overview](#overview)
+* [Functions](#functions)
+  * [addNumbers()](#addnumbers)
+  * [greetUser()](#greetuser)
 
-Thanks [**@tgreyuk**](https://github.com/tgreyuk) please see issue [#1](https://github.com/typedoc2md/typedoc-plugin-markdown/issues/1).
+## Install
 
-## Variables
+```
+npm i typedoc-plugin-remark remark-insert-headings remark-github remark-toc --save-dev
+```
 
-### helloWorld
+## Overview
 
-> `const` **helloWorld**: `true` = `true`
+In this example we are using remark plugins to:
 
-Defined in: [index.ts:11](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/remark/src/index.ts#L11)
+* Automatically link to github items ([#1](https://github.com/typedoc2md/typedoc-plugin-markdown/issues/1)) using [remark-github](https://github.com/remarkjs/remark-github).
+* Auto generate a TOC using [remark-toc](https://github.com/remarkjs/remark-toc).
+
+See https://www.typedoc-plugin-markdown.org/plugins/remark for docs.
+
+## Functions
+
+### addNumbers()
+
+> **addNumbers**(`a`, `b`): `number`
+
+Defined in: [index.ts:5](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/remark/src/index.ts#L5)
+
+#### Parameters
+
+##### a
+
+`number`
+
+##### b
+
+`number`
+
+#### Returns
+
+`number`
+
+***
+
+### greetUser()
+
+> **greetUser**(`name`): `string`
+
+Defined in: [index.ts:1](https://github.com/typedoc2md/typedoc-plugin-markdown-examples/blob/main/examples/remark/src/index.ts#L1)
+
+#### Parameters
+
+##### name
+
+`string`
+
+#### Returns
+
+`string`

@@ -69,7 +69,7 @@ An array of all product details.
 ### getProductById()
 
 ```ts
-getProductById(productId): ProductDetails;
+getProductById(productId): ProductDetails | undefined;
 ```
 
 Defined in: [products.ts:86](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L86)
@@ -84,7 +84,7 @@ Get product details by ID.
 
 #### Returns
 
-[`ProductDetails`](../interfaces/ProductDetails.md)
+[`ProductDetails`](../interfaces/ProductDetails.md) \| `undefined`
 
 The product details with the specified ID.
 
@@ -117,7 +117,7 @@ An array of product details in the specified category.
 ### removeProduct()
 
 ```ts
-removeProduct(productId): ProductDetails;
+removeProduct(productId): ProductDetails | undefined;
 ```
 
 Defined in: [products.ts:124](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L124)
@@ -132,7 +132,7 @@ Remove a product from the inventory.
 
 #### Returns
 
-[`ProductDetails`](../interfaces/ProductDetails.md)
+[`ProductDetails`](../interfaces/ProductDetails.md) \| `undefined`
 
 The removed product details.
 
@@ -141,7 +141,7 @@ The removed product details.
 ### updateProductDetails()
 
 ```ts
-updateProductDetails(productId, updatedDetails): ProductDetails;
+updateProductDetails(productId, updatedDetails): ProductDetails | undefined;
 ```
 
 Defined in: [products.ts:105](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L105)
@@ -157,6 +157,6 @@ Update product details.
 
 #### Returns
 
-[`ProductDetails`](../interfaces/ProductDetails.md)
+[`ProductDetails`](../interfaces/ProductDetails.md) \| `undefined`
 
 The updated product details.

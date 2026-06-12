@@ -64,7 +64,7 @@ An array of all product details.
 
 ### getProductById()
 
-> **getProductById**(`productId`): [`ProductDetails`](../interfaces/ProductDetails.md)
+> **getProductById**(`productId`): [`ProductDetails`](../interfaces/ProductDetails.md) \| `undefined`
 
 Defined in: [products.ts:86](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L86)
 
@@ -80,7 +80,7 @@ The ID of the product.
 
 #### Returns
 
-[`ProductDetails`](../interfaces/ProductDetails.md)
+[`ProductDetails`](../interfaces/ProductDetails.md) \| `undefined`
 
 The product details with the specified ID.
 
@@ -112,7 +112,7 @@ An array of product details in the specified category.
 
 ### removeProduct()
 
-> **removeProduct**(`productId`): [`ProductDetails`](../interfaces/ProductDetails.md)
+> **removeProduct**(`productId`): [`ProductDetails`](../interfaces/ProductDetails.md) \| `undefined`
 
 Defined in: [products.ts:124](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L124)
 
@@ -128,7 +128,7 @@ The ID of the product to be removed.
 
 #### Returns
 
-[`ProductDetails`](../interfaces/ProductDetails.md)
+[`ProductDetails`](../interfaces/ProductDetails.md) \| `undefined`
 
 The removed product details.
 
@@ -136,7 +136,7 @@ The removed product details.
 
 ### updateProductDetails()
 
-> **updateProductDetails**(`productId`, `updatedDetails`): [`ProductDetails`](../interfaces/ProductDetails.md)
+> **updateProductDetails**(`productId`, `updatedDetails`): [`ProductDetails`](../interfaces/ProductDetails.md) \| `undefined`
 
 Defined in: [products.ts:105](https://github.com/typedoc2md/dummy-typescript-api/blob/main/src/products.ts#L105)
 
@@ -158,6 +158,6 @@ The updated product details.
 
 #### Returns
 
-[`ProductDetails`](../interfaces/ProductDetails.md)
+[`ProductDetails`](../interfaces/ProductDetails.md) \| `undefined`
 
 The updated product details.

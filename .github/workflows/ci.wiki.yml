@@ -24,9 +24,26 @@ jobs:
             exit 1
           fi
 
-          git clone --depth 1 \
-            "https://x-access-token:${GH_PERSONAL_ACCESS_TOKEN}@github.com/${GITHUB_REPOSITORY}.wiki.git" \
-            wiki
+          token_status="$(
+            curl --silent --output /dev/null --write-out "%{http_code}" \
+              --header "Authorization: Bearer ${GH_PERSONAL_ACCESS_TOKEN}" \
+              https://api.github.com/user
+          )"
+          if [ "$token_status" != "200" ]; then
+            echo "::error::GH_PERSONAL_ACCESS_TOKEN was rejected by GitHub (HTTP ${token_status}). Replace the secret with a valid, unexpired token."
+            exit 1
+          fi
+
+          wiki_url="https://github.com/${GITHUB_REPOSITORY}.wiki.git"
+          auth_header="AUTHORIZATION: basic $(printf '%s:%s' "$GITHUB_ACTOR" "$GH_PERSONAL_ACCESS_TOKEN" | base64 --wrap=0)"
+          echo "::add-mask::$auth_header"
+
+          if ! git -c "http.extraheader=$auth_header" ls-remote "$wiki_url" HEAD >/dev/null; then
+            echo "::error::The token is valid but cannot access this wiki. For a fine-grained PAT, select this repository, grant Contents read/write, and approve it for the organization. For a classic PAT, grant the repo scope and authorize SSO if required."
+            exit 1
+          fi
+
+          git -c "http.extraheader=$auth_header" clone --depth 1 "$wiki_url" wiki
 
           rsync --archive --delete --exclude=".git" \
             examples/github-wiki/docs/ \
@@ -43,4 +60,4 @@ jobs:
           fi
 
           git commit -m "Automatically publish wiki"
-          git push origin HEAD
+          git -c "http.extraheader=$auth_header" push origin HEAD

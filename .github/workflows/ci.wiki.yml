@@ -1,16 +1,46 @@
-name: Deploy Github Wiki
+name: Deploy GitHub Wiki
+
 on:
+  workflow_dispatch:
   push:
     paths:
       - "examples/github-wiki/docs/**"
+      - ".github/workflows/ci.wiki.yml"
+
 jobs:
-  build:
+  publish:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v1
-      - name: Upload example to Wiki
-        uses: SwiftDocOrg/github-wiki-publish-action@v1
-        with:
-          path: "examples/github-wiki/docs"
+      - uses: actions/checkout@v4
+
+      - name: Publish documentation to wiki
         env:
           GH_PERSONAL_ACCESS_TOKEN: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
+          GIT_TERMINAL_PROMPT: "0"
+        run: |
+          if [ -z "$GH_PERSONAL_ACCESS_TOKEN" ]; then
+            echo "::error::The GH_PERSONAL_ACCESS_TOKEN repository secret is not configured."
+            exit 1
+          fi
+
+          git clone --depth 1 \
+            "https://x-access-token:${GH_PERSONAL_ACCESS_TOKEN}@github.com/${GITHUB_REPOSITORY}.wiki.git" \
+            wiki
+
+          rsync --archive --delete --exclude=".git" \
+            examples/github-wiki/docs/ \
+            wiki/
+
+          cd wiki
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add --all
+
+          if git diff --cached --quiet; then
+            echo "Wiki is already up to date."
+            exit 0
+          fi
+
+          git commit -m "Automatically publish wiki"
+          git push origin HEAD
